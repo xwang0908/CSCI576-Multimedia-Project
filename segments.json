@@ -1,0 +1,47 @@
+{
+  "videoTitle": "Tech Podcast Episode 12",
+  "segments": [
+    {
+      "label": "Intro",
+      "type": "non-content",
+      "subtype": "intro",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "label": "Ad Break",
+      "type": "non-content",
+      "subtype": "ad",
+      "start": 10,
+      "end": 70
+    },
+    {
+      "label": "Main Discussion",
+      "type": "content",
+      "subtype": "main",
+      "start": 70,
+      "end": 1090
+    },
+    {
+      "label": "Channel Promo",
+      "type": "non-content",
+      "subtype": "promo",
+      "start": 1090,
+      "end": 1160
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "subtype": "main",
+      "start": 1160,
+      "end": 2520
+    },
+    {
+      "label": "Outro",
+      "type": "non-content",
+      "subtype": "outro",
+      "start": 2520,
+      "end": 2710
+    }
+  ]
+}
