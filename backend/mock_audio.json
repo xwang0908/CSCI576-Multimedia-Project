@@ -1,0 +1,21 @@
+{
+  "video_filename": "test_manual.mp4",
+  "duration_seconds": 120.0,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 32.0,
+      "has_speech": false
+    },
+    {
+      "start": 32.0,
+      "end": 85.0,
+      "has_speech": true
+    },
+    {
+      "start": 85.0,
+      "end": 120.0,
+      "has_speech": false
+    }
+  ]
+}

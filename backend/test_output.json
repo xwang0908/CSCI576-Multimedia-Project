@@ -1,0 +1,40 @@
+{
+  "videoTitle": "test_manual",
+  "videoFilename": "test_manual.mp4",
+  "duration_seconds": 120.0,
+  "generated_at": "2026-04-21T18:29:37.855348",
+  "segments": [
+    {
+      "label": "Intro",
+      "type": "non_content",
+      "start": 0.0,
+      "end": 28.0,
+      "subtype": "intro",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 28.0,
+      "end": 88.0,
+      "subtype": "main",
+      "confidence": 0.6,
+      "skip_recommended": false
+    },
+    {
+      "label": "Outro",
+      "type": "non_content",
+      "start": 88.0,
+      "end": 120.0,
+      "subtype": "outro",
+      "confidence": 0.8,
+      "skip_recommended": true
+    }
+  ],
+  "summary": {
+    "content_duration": 60.0,
+    "non_content_duration": 60.0,
+    "content_percentage": 50.0
+  }
+}
