@@ -1,0 +1,12 @@
+numpy>=1.23
+opencv-python>=4.8
+Pillow>=9.5
+
+torch>=2.0
+torchvision>=0.15
+
+ftfy
+regex
+tqdm
+
+git+https://github.com/openai/CLIP.git

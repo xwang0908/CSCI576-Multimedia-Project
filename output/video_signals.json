@@ -1,0 +1,86 @@
+{
+  "video_filename": "test_001.mp4",
+  "duration_seconds": 1458.425,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 630.821,
+      "visual_type": "dynamic",
+      "motion_level": "high",
+      "confidence": 0.75,
+      "label": "intro"
+    },
+    {
+      "start": 631.858,
+      "end": 644.511,
+      "visual_type": "dynamic",
+      "motion_level": "high",
+      "confidence": 0.766,
+      "label": "recap"
+    },
+    {
+      "start": 645.548,
+      "end": 661.983,
+      "visual_type": "dynamic",
+      "motion_level": "high",
+      "confidence": 0.816,
+      "label": "recap"
+    },
+    {
+      "start": 663.021,
+      "end": 1101.074,
+      "visual_type": "dynamic",
+      "motion_level": "medium",
+      "confidence": 0.905,
+      "label": "filler"
+    },
+    {
+      "start": 1102.112,
+      "end": 1107.601,
+      "visual_type": "dynamic",
+      "motion_level": "high",
+      "confidence": 0.752,
+      "label": "recap"
+    },
+    {
+      "start": 1108.639,
+      "end": 1109.844,
+      "visual_type": "dynamic",
+      "motion_level": "high",
+      "confidence": 0.849,
+      "label": "recap"
+    },
+    {
+      "start": 1110.882,
+      "end": 1212.269,
+      "visual_type": "dynamic",
+      "motion_level": "high",
+      "confidence": 0.724,
+      "label": "advertisement"
+    },
+    {
+      "start": 1212.303,
+      "end": 1250.06,
+      "visual_type": "static",
+      "motion_level": "low",
+      "confidence": 0.476,
+      "label": "recap"
+    },
+    {
+      "start": 1250.093,
+      "end": 1459.363,
+      "visual_type": "dynamic",
+      "motion_level": "high",
+      "confidence": 0.651,
+      "label": "filler"
+    },
+    {
+      "start": 1459.396,
+      "end": 1464.316,
+      "visual_type": "static",
+      "motion_level": "low",
+      "confidence": 0.493,
+      "label": "intro"
+    }
+  ]
+}
