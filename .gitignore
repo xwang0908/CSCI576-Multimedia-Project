@@ -1,2 +1,22 @@
+# --- Editor / OS ---
+.DS_Store
 .claude/
+
+# --- Python ---
+.venv/
+__pycache__/
+*.pyc
+
+# --- Vendored third-party (download instructions in README/requirements.txt) ---
+third_party/
+
+# --- Generated pipeline outputs ---
+output/
+test/videos/*.scenes.txt
+test/videos/*.predictions.txt
+
+# --- Large test videos (download separately, see README) ---
+test/videos/*.mp4
+
+# --- Personal notes ---
 TODO.md

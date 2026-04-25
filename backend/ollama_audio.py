@@ -1,6 +1,8 @@
+import argparse
 import json
 import subprocess
 import wave
+from pathlib import Path
 import whisper
 import numpy as np
 import math
@@ -8,12 +10,16 @@ import ollama
 from collections import Counter
 
 # ==========================================
-# 全局配置参数
+# 路径常量
+# ==========================================
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+TEST_VIDEOS_DIR = PROJECT_ROOT / "test" / "videos"
+OUTPUT_DIR = PROJECT_ROOT / "output"
+
+# ==========================================
+# 全局配置参数（默认值，可被 CLI 参数覆盖）
 # ==========================================
 MODEL_NAME = "qwen2.5:3b"  # 本地大模型名称，可换成 3b 提速
-VIDEO_FILENAME = "test_001.mp4"
-AUDIO_FILENAME = "temp_audio.wav"
-FINAL_OUTPUT_JSON = "final_video_analysis-2.json"
 BATCH_SIZE = 12  # LLM 批量处理的段落数
 
 # ==========================================
@@ -50,13 +56,15 @@ def classify_non_speech(wav_filename, start_time, end_time, silence_threshold=0.
     except:
         return "silence"
 
-def run_whisper_extraction():
-    duration_seconds = round(get_video_duration(VIDEO_FILENAME), 2)
-    extract_audio_sync(VIDEO_FILENAME, AUDIO_FILENAME)
+def run_whisper_extraction(video_path, audio_path):
+    video_path = str(video_path)
+    audio_path = str(audio_path)
+    duration_seconds = round(get_video_duration(video_path), 2)
+    extract_audio_sync(video_path, audio_path)
 
     print("🎙️ [2/6] 正在运行 Whisper 提取文本与物理缝隙...")
     model = whisper.load_model("base")
-    result = model.transcribe(AUDIO_FILENAME, word_timestamps=True)
+    result = model.transcribe(audio_path, word_timestamps=True)
 
     MIN_GAP_THRESHOLD = 1.0  # 小于1秒的空白自动抹平
     final_segments = []
@@ -86,7 +94,7 @@ def run_whisper_extraction():
                     "start": current_time,
                     "end": start,
                     "has_speech": False,
-                    "audio_type": classify_non_speech(AUDIO_FILENAME, current_time, start),
+                    "audio_type": classify_non_speech(audio_path, current_time, start),
                     "transcript": None,
                     "asr_confidence": 1.0 # 物理静音/音乐的识别置信度设定为1
                 })
@@ -115,7 +123,7 @@ def run_whisper_extraction():
                 "start": current_time,
                 "end": duration_seconds,
                 "has_speech": False,
-                "audio_type": classify_non_speech(AUDIO_FILENAME, current_time, duration_seconds),
+                "audio_type": classify_non_speech(audio_path, current_time, duration_seconds),
                 "transcript": None,
                 "asr_confidence": 1.0
             })
@@ -263,11 +271,47 @@ def generate_macro_blocks(segments):
     return blocks
 
 # ==========================================
+# 路径解析
+# ==========================================
+def resolve_paths(args):
+    if args.name:
+        input_path = TEST_VIDEOS_DIR / f"{args.name}.mp4"
+        output_dir = OUTPUT_DIR / args.name
+    else:
+        if not args.input:
+            raise SystemExit("error: provide --name <test_id> or --input <video_path>")
+        input_path = Path(args.input)
+        output_dir = Path(args.output_dir) if args.output_dir else OUTPUT_DIR / input_path.stem
+
+    if not input_path.exists():
+        raise SystemExit(f"error: video not found: {input_path}")
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    audio_path = output_dir / "temp_audio.wav"
+    output_json = Path(args.output) if args.output else output_dir / "audio_signals.json"
+
+    return input_path, audio_path, output_json
+
+
+# ==========================================
 # 主流程编排
 # ==========================================
 def main():
+    parser = argparse.ArgumentParser(
+        description="Audio analysis: Whisper transcription + Ollama semantic classification"
+    )
+    parser.add_argument("--name", help="test id (e.g. test_001) — auto-resolves paths")
+    parser.add_argument("--input", help="path to input video (overrides --name)")
+    parser.add_argument("--output_dir", help="custom output directory (default: output/<name>/)")
+    parser.add_argument("--output", help="custom output JSON path (overrides --output_dir)")
+    args = parser.parse_args()
+
+    input_path, audio_path, output_json = resolve_paths(args)
+    print(f"[INFO] input:  {input_path}")
+    print(f"[INFO] output: {output_json}")
+
     # 1. 音视频处理
-    segments, duration = run_whisper_extraction()
+    segments, duration = run_whisper_extraction(input_path, audio_path)
     if not segments:
         print("❌ 未提取到任何分段。")
         return
@@ -322,17 +366,20 @@ def main():
 
     # 6. 生成最终输出
     final_output = {
-        "video_filename": VIDEO_FILENAME,
+        "video_filename": input_path.name,
         "duration_seconds": duration,
         "global_summary": global_summary,
         "video_chapters": macro_blocks,
         "segments": segments
     }
 
-    with open(FINAL_OUTPUT_JSON, "w", encoding="utf-8") as f:
+    with open(output_json, "w", encoding="utf-8") as f:
         json.dump(final_output, f, indent=2, ensure_ascii=False)
 
-    print(f"🎉 任务完美完成！完整数据已保存至 {FINAL_OUTPUT_JSON}")
+    if audio_path.exists():
+        audio_path.unlink()
+
+    print(f"🎉 任务完美完成！完整数据已保存至 {output_json}")
 
 if __name__ == "__main__":
     main()

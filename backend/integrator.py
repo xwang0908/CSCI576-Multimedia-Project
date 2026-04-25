@@ -8,6 +8,10 @@ from pathlib import Path
 from typing import Optional
 
 
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+OUTPUT_DIR = PROJECT_ROOT / "output"
+
+
 # =============================================================================
 # Data Structures
 # =============================================================================
@@ -366,24 +370,47 @@ def generate_output(
 # CLI Entry Point
 # =============================================================================
 
+def resolve_paths(args):
+    if args.name:
+        base = OUTPUT_DIR / args.name
+        video = Path(args.video) if args.video else base / "video_signals.json"
+        audio = Path(args.audio) if args.audio else base / "audio_signals.json"
+        output = Path(args.output) if args.output else base / "segments.json"
+    else:
+        if not (args.video and args.audio):
+            raise SystemExit(
+                "error: provide --name <test_id> or both --video and --audio paths"
+            )
+        video = Path(args.video)
+        audio = Path(args.audio)
+        output = Path(args.output) if args.output else video.parent / "segments.json"
+
+    for p, label in [(video, "video signals"), (audio, "audio signals")]:
+        if not p.exists():
+            raise SystemExit(f"error: {label} not found: {p}")
+
+    return video, audio, output
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="CSCI 576 Integration Module - Merge video and audio signals"
     )
     parser.add_argument(
+        "--name",
+        help="test id (e.g. test_001) — auto-resolves all paths under output/<name>/"
+    )
+    parser.add_argument(
         "--video", "-v",
-        required=True,
-        help="Path to video_signals.json from Person A"
+        help="Path to video_signals.json from Person A (overrides --name)"
     )
     parser.add_argument(
         "--audio", "-a",
-        required=True,
-        help="Path to audio_signals.json from Person B"
+        help="Path to audio_signals.json from Person B (overrides --name)"
     )
     parser.add_argument(
         "--output", "-o",
-        default="segments.json",
-        help="Output path for segments.json (default: segments.json)"
+        help="Output path for segments.json (default: output/<name>/segments.json)"
     )
     parser.add_argument(
         "--verbose",
@@ -392,14 +419,15 @@ def main():
     )
 
     args = parser.parse_args()
+    video_path, audio_path, output_path = resolve_paths(args)
 
     # Load inputs
-    print(f"Loading video signals from: {args.video}")
-    video_segments, metadata = load_video_signals(args.video)
+    print(f"Loading video signals from: {video_path}")
+    video_segments, metadata = load_video_signals(str(video_path))
     print(f"  Found {len(video_segments)} video segments")
 
-    print(f"Loading audio signals from: {args.audio}")
-    audio_segments = load_audio_signals(args.audio)
+    print(f"Loading audio signals from: {audio_path}")
+    audio_segments = load_audio_signals(str(audio_path))
     print(f"  Found {len(audio_segments)} audio segments")
 
     # Align segments
@@ -408,8 +436,8 @@ def main():
     print(f"  Created {len(aligned)} aligned intervals")
 
     # Generate output
-    print(f"Generating output: {args.output}")
-    output = generate_output(aligned, metadata, args.output)
+    print(f"Generating output: {output_path}")
+    output = generate_output(aligned, metadata, str(output_path))
 
     # Print summary
     print("\n--- Summary ---")
@@ -422,7 +450,7 @@ def main():
         for seg in output['segments']:
             print(f"  [{seg['start']:.1f}-{seg['end']:.1f}] {seg['type']}: {seg['label']}")
 
-    print(f"\nDone! Output written to: {args.output}")
+    print(f"\nDone! Output written to: {output_path}")
 
 
 if __name__ == "__main__":

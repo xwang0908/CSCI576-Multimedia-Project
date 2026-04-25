@@ -1,0 +1,55 @@
+# =============================================================================
+# CSCI 576 Multimedia Project — Python dependencies
+# =============================================================================
+# Install everything in this file with:
+#   pip install -r requirements.txt
+#
+# -----------------------------------------------------------------------------
+# Prerequisites NOT handled by pip (set up before running pip install):
+# -----------------------------------------------------------------------------
+#   1. System tools (macOS / Homebrew):
+#        brew install ffmpeg ollama git-lfs
+#        brew services start ollama
+#        ollama pull qwen2.5:3b      # ~2 GB local LLM weights
+#
+#   2. TransNetV2 scene-cut model (vendored, NOT a pip package):
+#        mkdir -p third_party && cd third_party
+#        git clone https://github.com/soCzech/TransNetV2.git
+#        cd ..
+#
+#      The model weights live in Git LFS, but the upstream repo's free LFS
+#      bandwidth is frequently exhausted. Pull them via the GitHub media CDN
+#      (which uses a separate quota and works reliably):
+#        BASE=https://media.githubusercontent.com/media/soCzech/TransNetV2/master/inference/transnetv2-weights
+#        DIR=third_party/TransNetV2/inference/transnetv2-weights
+#        curl -sL -o "$DIR/saved_model.pb"                            "$BASE/saved_model.pb"
+#        curl -sL -o "$DIR/variables/variables.data-00000-of-00001"   "$BASE/variables/variables.data-00000-of-00001"
+#        curl -sL -o "$DIR/variables/variables.index"                 "$BASE/variables/variables.index"
+#
+#      Verify (saved_model.pb should be ~6 MB, SHA256 below):
+#        shasum -a 256 "$DIR/saved_model.pb"
+#        # expected: 8ac2a52c5719690d512805b6eaf5ce12097c1d8860b3d9de245dcbbc3100f554
+# =============================================================================
+
+# --- Core numerics / image I/O ---
+numpy>=1.23
+opencv-python>=4.8
+Pillow>=9.5
+
+# --- PyTorch (used by CLIP) ---
+torch>=2.0
+torchvision>=0.15
+
+# --- TensorFlow + ffmpeg wrapper (required by TransNetV2 inference) ---
+tensorflow>=2.10
+ffmpeg-python
+
+# --- CLIP (visual semantic classification, installed from GitHub) ---
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
+
+# --- Audio pipeline (Whisper transcription + Ollama LLM client) ---
+openai-whisper
+ollama
