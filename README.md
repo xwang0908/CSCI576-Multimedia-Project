@@ -90,6 +90,14 @@ Verify with `shasum -a 256 third_party/TransNetV2/inference/transnetv2-weights/s
 
 ---
 
+## Test Data
+
+`test/videos/*.mp4` is **gitignored** (large files, ~376 MB total). Obtain the test videos from the team shared drive (or wherever the course distributes them) and place them in `test/videos/` before running the pipeline.
+
+`test/ground_truth/test_*.json` contains the reference labels for accuracy comparison.
+
+---
+
 ## Usage
 
 The pipeline runs in three stages. Each script accepts `--name <test_id>` to auto-resolve paths:
@@ -106,6 +114,16 @@ python backend/integrator.py --name test_001
 ```
 
 Outputs land in `output/test_001/`.
+
+Batch all 5 tests:
+
+```
+for n in 001 002 003 004 005; do
+  python backend/video.py        --name test_$n
+  python backend/ollama_audio.py --name test_$n
+  python backend/integrator.py   --name test_$n
+done
+```
 
 For custom paths, use `--input` / `--output` instead of `--name`:
 
@@ -151,69 +169,50 @@ python backend/video.py --input my_video.mp4 --output_dir custom/dir/
 ```
 
 ---
----
 
-# 视频语义分析与自动章节生成工具
+## 中文快速指南
 
-利用 **Whisper** 进行语音转录，并结合 **Ollama** 本地大模型对视频内容进行深度语义分析
+### 安裝步驟
 
----
+```bash
+# 1. 系統工具
+brew install ffmpeg ollama git-lfs
+brew services start ollama
+ollama pull qwen2.5:3b   # 約 2GB 本地 LLM
 
-## 1. 环境准备
+# 2. Python 環境
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
 
-### 1.1 安装 FFmpeg
-FFmpeg 用于从视频中提取音频流，是脚本运行的核心基础。
-* **Windows**: 
-* **macOS**: 
-    ```
-    brew install ffmpeg
-    ```
-* **验证**: 在终端输入 `ffmpeg -version`，看到版本信息即代表安装成功。
+# 3. 下載 TransNetV2（場景切割模型）
+mkdir -p third_party && cd third_party
+git clone https://github.com/soCzech/TransNetV2.git
+cd ..
 
-### 1.2 安装 Ollama (本地大模型引擎)
-1.  前往 [Ollama 官网](https://ollama.com/) 下载并安装。
-2.  安装完成后，在终端运行以下命令下载并启动模型：
-    ```
-    ollama run qwen2.5:3b
-    ```
-    > **注**：如果你的显存较小（< 4G），建议使用 `qwen2.5:1.5b` 或 `qwen2.5:0.5b`，并同步修改脚本中的 `MODEL_NAME` 变量。
-
-### 1.3 安装 Python 及依赖库
-确保系统已安装 **Python 3.9+**。
-
-1.  **安装 PyTorch**:
-2.  **安装其余 Python 依赖**:
-    ```
-    pip install openai-whisper ollama numpy
-    ```
-
----
-
-## 2. 脚本配置说明
-
-在运行脚本前，请打开 `ollama_audio.py` 并根据实际情况修改文件开头的配置参数：
-
-```
-# ==========================================
-# 全局配置参数
-# ==========================================
-MODEL_NAME = "qwen2.5:3b"       # 必须与你 ollama run 的模型名称一致
-VIDEO_FILENAME = "test_001.mp4" # 待分析的视频文件名（需放在同一目录下）
-BATCH_SIZE = 12                # 显存较小时可调低此数值（如 4 或 6）
+# 4. 用 GitHub media CDN 抓 weights（繞過 LFS 配額限制）
+BASE=https://media.githubusercontent.com/media/soCzech/TransNetV2/master/inference/transnetv2-weights
+DIR=third_party/TransNetV2/inference/transnetv2-weights
+curl -sL -o "$DIR/saved_model.pb"                          "$BASE/saved_model.pb"
+curl -sL -o "$DIR/variables/variables.data-00000-of-00001" "$BASE/variables/variables.data-00000-of-00001"
+curl -sL -o "$DIR/variables/variables.index"               "$BASE/variables/variables.index"
 ```
 
----
+### 執行 pipeline（三階段）
 
-## 3. 执行流程
+```bash
+python backend/video.py        --name test_001  # 視訊分析（TransNet + CLIP）
+python backend/ollama_audio.py --name test_001  # 音訊分析（Whisper + Ollama）
+python backend/integrator.py   --name test_001  # 融合 → segments.json
+```
 
-脚本将依次执行以下阶段：
+各階段輸出統一放在 `output/test_001/{video,audio,segments}_signals.json`。
 
-阶段 1: 使用 FFmpeg 提取同步音频。
+### 故障排除
 
-阶段 2: 运行 Whisper进行语音转文字（约 1 分钟）。
-
-阶段 3: 提取文本特征，生成视频全局语义画像。
-
-阶段 4: 将文本分批发送给 Ollama 进行语义标签推理。
-
-阶段 5 & 6: 自动平滑分类噪点，合并生成分类概要。
+| 問題 | 解法 |
+|---|---|
+| `ModuleNotFoundError: No module named 'tensorflow'` | venv 沒啟動，跑 `source .venv/bin/activate` |
+| `ModuleNotFoundError: No module named 'ffmpeg'` | 缺 ffmpeg-python，`pip install ffmpeg-python` |
+| TransNetV2 weights 是 132 bytes | LFS 抓失敗，改用上面的 `media.githubusercontent.com` curl |
+| Ollama 連線失敗 | `brew services start ollama` 啟動 daemon |
+| 跑 video.py 就 crash | `test/videos/test_001.mp4` 沒放好（檔案不在 git 裡，要另外取得） |

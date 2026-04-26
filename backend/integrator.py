@@ -34,6 +34,7 @@ class AudioSegment:
     detected_keywords: Optional[list] = None  # TODO: list of detected keywords/phrases (e.g. "sponsored", "thanks for watching")
     transcript: Optional[str] = None  # TODO: full transcript text for this segment (if available)
     confidence: Optional[float] = None  # TODO: confidence score for speech detection (0.0-1.0)
+    content_category: Optional[str] = None  # B's LLM category: Content / Sponsorship/Advertisement / Intro / Outro / Recap / Transition/Intermission / Dead Air/Filler / Self-Promotion
 
 
 @dataclass
@@ -81,7 +82,8 @@ def load_audio_signals(path: str) -> list[AudioSegment]:
             audio_type=seg.get('audio_type'),
             detected_keywords=seg.get('detected_keywords'),
             transcript=seg.get('transcript'),
-            confidence=seg.get('confidence')
+            confidence=seg.get('confidence'),
+            content_category=seg.get('content_category'),
         ))
 
     return segments
@@ -174,9 +176,25 @@ def classify_segment(
     audio_type = getattr(audio_seg, 'audio_type', None) or "unknown"
     keywords = getattr(audio_seg, 'detected_keywords', None) or []
     motion_level = getattr(video_seg, 'motion_level', None) or "unknown"
+    content_category = getattr(audio_seg, 'content_category', None)
 
     # Confidence tracking: start at base, increase with signal agreement
     confidence = 0.7
+
+    # -------------------------------------------------------------------------
+    # Highest-priority rule: trust B's LLM category when present.
+    # -------------------------------------------------------------------------
+    CATEGORY_MAP = {
+        "Sponsorship/Advertisement": ("non_content", "ad",         0.90),
+        "Self-Promotion":            ("non_content", "promo",      0.85),
+        "Intro":                     ("non_content", "intro",      0.85),
+        "Outro":                     ("non_content", "outro",      0.85),
+        "Recap":                     ("non_content", "recap",      0.75),
+        "Transition/Intermission":   ("non_content", "transition", 0.75),
+        "Dead Air/Filler":           ("non_content", "dead_air",   0.85),
+    }
+    if content_category in CATEGORY_MAP:
+        return CATEGORY_MAP[content_category]
 
     # -------------------------------------------------------------------------
     # Week 2 Rules (check first - more specific)
@@ -279,6 +297,7 @@ def generate_label(seg_type: str, subtype: str, index: int) -> str:
         ("non_content", "outro"): "Outro",
         ("non_content", "ad"): "Ad Break",
         ("non_content", "promo"): "Channel Promo",
+        ("non_content", "recap"): "Recap",
         ("non_content", "transition"): "Transition",
         ("non_content", "dead_air"): "Dead Air",
     }
