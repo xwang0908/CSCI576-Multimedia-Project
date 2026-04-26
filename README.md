@@ -69,13 +69,7 @@ pip install -r requirements.txt
 
 ### 4. Vendor TransNetV2 (scene-cut model)
 
-```
-mkdir -p third_party && cd third_party
-git clone https://github.com/soCzech/TransNetV2.git
-cd ..
-```
-
-The model weights are stored in Git LFS, but the upstream repo's LFS bandwidth quota is frequently exhausted. Bypass it via the GitHub media CDN:
+The model weights are stored in Git LFS, but the upstream repo's LFS bandwidth quota is frequently exhausted. **If that happened,** Bypass it via the GitHub media CDN:
 
 ```
 WEIGHTS_URL=https://media.githubusercontent.com/media/soCzech/TransNetV2/master/inference/transnetv2-weights
@@ -115,17 +109,6 @@ python backend/integrator.py --name test_001
 
 Outputs land in `output/test_001/`.
 
-Batch all 5 tests:
-
-```
-for n in 001 002 003 004 005; do
-  python backend/video.py        --name test_$n
-  python backend/ollama_audio.py --name test_$n
-  python backend/integrator.py   --name test_$n
-done
-```
-
-For custom paths, use `--input` / `--output` instead of `--name`:
 
 ```
 python backend/video.py --input my_video.mp4 --output_dir custom/dir/
@@ -133,7 +116,7 @@ python backend/video.py --input my_video.mp4 --output_dir custom/dir/
 
 ---
 
-## Output Schema
+## Output Schema Example
 
 `output/<name>/video_signals.json`:
 
@@ -169,50 +152,3 @@ python backend/video.py --input my_video.mp4 --output_dir custom/dir/
 ```
 
 ---
-
-## 中文快速指南
-
-### 安裝步驟
-
-```bash
-# 1. 系統工具
-brew install ffmpeg ollama git-lfs
-brew services start ollama
-ollama pull qwen2.5:3b   # 約 2GB 本地 LLM
-
-# 2. Python 環境
-python3 -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-
-# 3. 下載 TransNetV2（場景切割模型）
-mkdir -p third_party && cd third_party
-git clone https://github.com/soCzech/TransNetV2.git
-cd ..
-
-# 4. 用 GitHub media CDN 抓 weights（繞過 LFS 配額限制）
-BASE=https://media.githubusercontent.com/media/soCzech/TransNetV2/master/inference/transnetv2-weights
-DIR=third_party/TransNetV2/inference/transnetv2-weights
-curl -sL -o "$DIR/saved_model.pb"                          "$BASE/saved_model.pb"
-curl -sL -o "$DIR/variables/variables.data-00000-of-00001" "$BASE/variables/variables.data-00000-of-00001"
-curl -sL -o "$DIR/variables/variables.index"               "$BASE/variables/variables.index"
-```
-
-### 執行 pipeline（三階段）
-
-```bash
-python backend/video.py        --name test_001  # 視訊分析（TransNet + CLIP）
-python backend/ollama_audio.py --name test_001  # 音訊分析（Whisper + Ollama）
-python backend/integrator.py   --name test_001  # 融合 → segments.json
-```
-
-各階段輸出統一放在 `output/test_001/{video,audio,segments}_signals.json`。
-
-### 故障排除
-
-| 問題 | 解法 |
-|---|---|
-| `ModuleNotFoundError: No module named 'tensorflow'` | venv 沒啟動，跑 `source .venv/bin/activate` |
-| `ModuleNotFoundError: No module named 'ffmpeg'` | 缺 ffmpeg-python，`pip install ffmpeg-python` |
-| TransNetV2 weights 是 132 bytes | LFS 抓失敗，改用上面的 `media.githubusercontent.com` curl |
-| Ollama 連線失敗 | `brew services start ollama` 啟動 daemon |
-| 跑 video.py 就 crash | `test/videos/test_001.mp4` 沒放好（檔案不在 git 裡，要另外取得） |
