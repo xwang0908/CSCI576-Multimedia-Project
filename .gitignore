@@ -11,7 +11,6 @@ __pycache__/
 third_party/
 
 # --- Generated pipeline outputs ---
-output/
 test/videos/*.scenes.txt
 test/videos/*.predictions.txt
 

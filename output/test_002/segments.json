@@ -1,0 +1,1525 @@
+{
+  "videoTitle": "test_002",
+  "videoFilename": "test_002.mp4",
+  "duration_seconds": 1350.502,
+  "generated_at": "2026-04-25T17:50:07.203867",
+  "segments": [
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 0.0,
+      "end": 13.24,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 13.24,
+      "end": 15.6,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 15.6,
+      "end": 22.7,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 22.7,
+      "end": 24.1,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 24.1,
+      "end": 25.5,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 25.5,
+      "end": 35.98,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 35.98,
+      "end": 38.2,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 38.2,
+      "end": 66.46,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 66.46,
+      "end": 69.88,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 69.88,
+      "end": 71.3,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 71.3,
+      "end": 73.86,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 73.86,
+      "end": 74.86,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 74.86,
+      "end": 75.82,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 75.82,
+      "end": 134.08,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 134.08,
+      "end": 139.7,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 139.7,
+      "end": 141.18,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 141.18,
+      "end": 149.14,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 149.14,
+      "end": 150.68,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 150.68,
+      "end": 151.9,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 151.9,
+      "end": 156.0,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 156.0,
+      "end": 164.64,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 164.64,
+      "end": 166.96,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 166.96,
+      "end": 179.28,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 179.28,
+      "end": 180.78,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 180.78,
+      "end": 182.38,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 182.38,
+      "end": 183.48,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 183.48,
+      "end": 210.86,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 210.86,
+      "end": 216.4,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 216.4,
+      "end": 266.4,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 266.4,
+      "end": 267.62,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 267.62,
+      "end": 270.5,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 270.5,
+      "end": 286.5,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 286.5,
+      "end": 295.84,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 295.84,
+      "end": 299.02,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 299.02,
+      "end": 303.62,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 303.62,
+      "end": 317.24,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 317.24,
+      "end": 320.36,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 320.36,
+      "end": 325.52,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 325.52,
+      "end": 326.78,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 326.78,
+      "end": 327.84,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 327.84,
+      "end": 328.24,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 328.24,
+      "end": 330.44,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 330.44,
+      "end": 336.42,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 336.42,
+      "end": 343.46,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 343.46,
+      "end": 495.46,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 495.46,
+      "end": 517.3,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 517.3,
+      "end": 566.1,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 566.1,
+      "end": 567.26,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 567.26,
+      "end": 575.38,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 575.38,
+      "end": 576.46,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 576.46,
+      "end": 586.34,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 586.34,
+      "end": 587.92,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 587.92,
+      "end": 621.52,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 621.52,
+      "end": 623.28,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 623.28,
+      "end": 627.26,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 627.26,
+      "end": 630.78,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 630.78,
+      "end": 641.84,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 641.84,
+      "end": 644.16,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 644.16,
+      "end": 646.18,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 646.18,
+      "end": 647.3,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 647.3,
+      "end": 652.16,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 652.16,
+      "end": 674.34,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 674.34,
+      "end": 676.62,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 676.62,
+      "end": 678.36,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 678.36,
+      "end": 679.6,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 679.6,
+      "end": 701.96,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 701.96,
+      "end": 706.18,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 706.18,
+      "end": 708.12,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 708.12,
+      "end": 712.46,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 712.46,
+      "end": 713.94,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 713.94,
+      "end": 735.18,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 735.18,
+      "end": 736.34,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 736.34,
+      "end": 742.56,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 742.56,
+      "end": 743.7,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 743.7,
+      "end": 760.04,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 760.04,
+      "end": 764.2,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 764.2,
+      "end": 771.28,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 771.28,
+      "end": 772.36,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 772.36,
+      "end": 785.2,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 785.2,
+      "end": 786.46,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 786.46,
+      "end": 792.92,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 792.92,
+      "end": 795.84,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 795.84,
+      "end": 801.48,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 801.48,
+      "end": 804.42,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 804.42,
+      "end": 826.02,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 826.02,
+      "end": 830.86,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 830.86,
+      "end": 840.46,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 840.46,
+      "end": 842.44,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 842.44,
+      "end": 846.78,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 846.78,
+      "end": 848.06,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 848.06,
+      "end": 852.66,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 852.66,
+      "end": 857.04,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 857.04,
+      "end": 860.48,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 860.48,
+      "end": 862.22,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 862.22,
+      "end": 864.94,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 864.94,
+      "end": 867.32,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 867.32,
+      "end": 869.36,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 869.36,
+      "end": 871.1,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 871.1,
+      "end": 875.34,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 875.34,
+      "end": 876.7,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 876.7,
+      "end": 878.38,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 878.38,
+      "end": 885.5,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 885.5,
+      "end": 889.7,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 889.7,
+      "end": 891.2,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 891.2,
+      "end": 893.58,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 893.58,
+      "end": 897.22,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 897.22,
+      "end": 901.02,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 901.02,
+      "end": 902.08,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 902.08,
+      "end": 909.56,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 909.56,
+      "end": 911.42,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 911.42,
+      "end": 915.04,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 915.04,
+      "end": 930.3,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 930.3,
+      "end": 931.66,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 931.66,
+      "end": 935.12,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 935.12,
+      "end": 936.82,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 936.82,
+      "end": 942.18,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 942.18,
+      "end": 945.56,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 945.56,
+      "end": 948.72,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 948.72,
+      "end": 950.46,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 950.46,
+      "end": 953.1,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 953.1,
+      "end": 957.32,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 957.32,
+      "end": 959.36,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 959.36,
+      "end": 967.9,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 967.9,
+      "end": 980.22,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 980.22,
+      "end": 1014.0,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1014.0,
+      "end": 1016.0,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 1016.0,
+      "end": 1047.96,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1047.96,
+      "end": 1069.62,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 1069.62,
+      "end": 1070.86,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1070.86,
+      "end": 1082.16,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 1082.16,
+      "end": 1083.56,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1083.56,
+      "end": 1090.7,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 1090.7,
+      "end": 1093.12,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1093.12,
+      "end": 1094.42,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 1094.42,
+      "end": 1095.62,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1095.62,
+      "end": 1104.08,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 1104.08,
+      "end": 1179.56,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1179.56,
+      "end": 1190.56,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 1190.56,
+      "end": 1192.64,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1192.64,
+      "end": 1195.06,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 1195.06,
+      "end": 1198.88,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1198.88,
+      "end": 1206.66,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 1206.66,
+      "end": 1210.94,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1210.94,
+      "end": 1222.6,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 1222.6,
+      "end": 1223.78,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1223.78,
+      "end": 1226.66,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 1226.66,
+      "end": 1244.02,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1244.02,
+      "end": 1248.7,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 1248.7,
+      "end": 1261.64,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1261.64,
+      "end": 1264.02,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 1264.02,
+      "end": 1266.14,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1266.14,
+      "end": 1270.4,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 1270.4,
+      "end": 1272.06,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1272.06,
+      "end": 1276.08,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 1276.08,
+      "end": 1280.06,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1280.06,
+      "end": 1283.84,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 1283.84,
+      "end": 1287.64,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1287.64,
+      "end": 1294.76,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 1294.76,
+      "end": 1314.68,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1314.68,
+      "end": 1322.7,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Dead Air",
+      "type": "non_content",
+      "start": 1322.7,
+      "end": 1324.46,
+      "subtype": "dead_air",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1324.46,
+      "end": 1326.58,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 1326.58,
+      "end": 1329.52,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1329.52,
+      "end": 1340.6,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 1340.6,
+      "end": 1344.16,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1344.16,
+      "end": 1348.32,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 1348.32,
+      "end": 1350.64,
+      "subtype": "transition",
+      "confidence": 0.75,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1350.64,
+      "end": 1379.262,
+      "subtype": "main",
+      "confidence": 0.85,
+      "skip_recommended": false
+    }
+  ],
+  "summary": {
+    "content_duration": 801.56,
+    "non_content_duration": 577.7,
+    "content_percentage": 58.1
+  }
+}
