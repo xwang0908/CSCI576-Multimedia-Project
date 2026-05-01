@@ -1,7 +1,7 @@
 # JSON Schema Specifications
 
-> **Version**: 2.0
-> **Last Updated**: 2026-04-20
+> **Version**: 3.0 (Week 2 v2 — unified 5-class taxonomy)
+> **Last Updated**: 2026-04-30
 
 ---
 
@@ -15,30 +15,25 @@ Person B (Audio) ──→ audio_signals.json ──┘
 
 ---
 
-## 1. Person A Output: `video_signals.json`
+## Shared Label Taxonomy
 
-### Core
+Both A and B emit `label` from this exact 5-value enum. Integrator works in the same label space.
 
-```json
-{
-  "video_filename": "test_001.mp4",
-  "duration_seconds": 120.0,
-  "segments": [
-    {
-      "start": 0.0,
-      "end": 30.0,
-      "visual_type": "static"
-    },
-    {
-      "start": 30.0,
-      "end": 120.0,
-      "visual_type": "talking_head"
-    }
-  ]
-}
-```
+| Value | Description |
+|-------|-------------|
+| `intro` | Opening segment: logo, theme music, greeting, channel intro |
+| `outro` | Closing segment: sign-off, end credits, "thanks for watching" |
+| `ads` | Sponsorship, advertisement, self-promotion |
+| `content` | Main subject matter (including recaps and topic transitions within content) |
+| `transition` | Dead air, filler, between-section music, intermission |
 
-### Full (with Optional)
+Integrator output mapping:
+- `content` → `type=content`
+- `intro` / `outro` / `ads` / `transition` → `type=non_content` with `subtype=label`
+
+---
+
+## 1. Person A: `video_signals.json`
 
 ```json
 {
@@ -50,153 +45,74 @@ Person B (Audio) ──→ audio_signals.json ──┘
       "end": 30.0,
       "visual_type": "static",
       "motion_level": "low",
+      "label": "intro",
+      "has_face": false,
       "confidence": 0.85
     }
   ]
 }
 ```
 
-### Field Reference
+| Field | Type | Values |
+|-------|------|--------|
+| `video_filename` | string | filename |
+| `duration_seconds` | float | total seconds |
+| `segments[].start` | float | seconds |
+| `segments[].end` | float | seconds |
+| `segments[].visual_type` | string | `static` / `talking_head` / `dynamic` |
+| `segments[].motion_level` | string | `low` / `medium` / `high` |
+| `segments[].label` | string | shared 5-class enum (see above) |
+| `segments[].has_face` | boolean | true if any face detected in sampled frames |
+| `segments[].confidence` | float | 0.0 – 1.0 |
 
-| Field | Required | Week | Type | Values |
-|-------|----------|------|------|--------|
-| `video_filename` | **CORE** | 1 | string | filename |
-| `duration_seconds` | **CORE** | 1 | float | total seconds |
-| `segments[].start` | **CORE** | 1 | float | seconds |
-| `segments[].end` | **CORE** | 1 | float | seconds |
-| `segments[].visual_type` | **CORE** | 1 | string | see below |
-| `segments[].motion_level` | optional | 2 | string | `low` / `medium` / `high` |
-| `segments[].confidence` | optional | 3 | float | 0.0 - 1.0 |
-
-### visual_type Values
-
-| Value | Description |
-|-------|-------------|
-| `static` | Still image, title card, logo, minimal movement |
-| `talking_head` | Person speaking to camera |
-| `dynamic` | High motion, b-roll, action scenes |
+`has_face` notes: use `mediapipe` BlazeFace (`blaze_face_short_range.tflite` already in repo) on the same 6 frames sampled for motion analysis. `true` if at least one frame has a face.
 
 ---
 
-## 2. Person B Output: `audio_signals.json`
-
-### Core
+## 2. Person B: `audio_signals.json`
 
 ```json
 {
   "video_filename": "test_001.mp4",
   "duration_seconds": 120.0,
   "segments": [
-    {
-      "start": 0.0,
-      "end": 30.0,
-      "has_speech": false
-    },
-    {
-      "start": 30.0,
-      "end": 120.0,
-      "has_speech": true
-    }
-  ]
-}
-```
-
-### Full (with Optional)
-
-```json
-{
-  "video_filename": "test_001.mp4",
-  "duration_seconds": 120.0,
-  "segments": [
-    {
-      "start": 0.0,
-      "end": 30.0,
-      "has_speech": false,
-      "audio_type": "music",
-      "detected_keywords": [],
-      "transcript": null,
-      "confidence": 0.90
-    },
     {
       "start": 30.0,
       "end": 90.0,
       "has_speech": true,
+      "label": "content",
       "audio_type": "speech",
-      "detected_keywords": ["welcome", "today"],
       "transcript": "Welcome back everyone...",
-      "confidence": 0.95
+      "asr_confidence": 0.92
     }
   ]
 }
 ```
 
-### Field Reference
+| Field | Type | Values |
+|-------|------|--------|
+| `video_filename` | string | filename |
+| `duration_seconds` | float | total seconds |
+| `segments[].start` | float | seconds |
+| `segments[].end` | float | seconds |
+| `segments[].has_speech` | boolean | true / false |
+| `segments[].label` | string | shared 5-class enum (renamed from `content_category`) |
+| `segments[].audio_type` | string | `silence` / `music` / `speech` / `mixed` |
+| `segments[].transcript` | string \| null | text or null |
+| `segments[].asr_confidence` | float | 0.0 – 1.0 (Whisper word-level avg) |
 
-| Field | Required | Week | Type | Values |
-|-------|----------|------|------|--------|
-| `video_filename` | **CORE** | 1 | string | filename |
-| `duration_seconds` | **CORE** | 1 | float | total seconds |
-| `segments[].start` | **CORE** | 1 | float | seconds |
-| `segments[].end` | **CORE** | 1 | float | seconds |
-| `segments[].has_speech` | **CORE** | 1 | boolean | true / false |
-| `segments[].audio_type` | optional | 2 | string | see below |
-| `segments[].detected_keywords` | optional | 2 | array | strings |
-| `segments[].transcript` | optional | 3 | string | text or null |
-| `segments[].confidence` | optional | 3 | float | 0.0 - 1.0 |
-
-### audio_type Values
-
-| Value | Description |
-|-------|-------------|
-| `silence` | No significant audio |
-| `music` | Music only, no speech |
-| `speech` | Primarily talking |
-| `mixed` | Speech over music |
-
-### detected_keywords Categories
-
-| Category | Keywords |
-|----------|----------|
-| Sponsor | "sponsored", "sponsor", "brought to you", "use code", "check out", "link in description" |
-| Intro | "welcome", "hello", "hey everyone", "what's up", "today we", "in this video" |
-| Outro | "thanks for watching", "subscribe", "like and subscribe", "see you next", "bye" |
+Deprecated in v3.0: `content_category` (renamed to `label`), `llm_confidence` (LLM self-rating unreliable; integrator uses `asr_confidence` instead).
 
 ---
 
-## 3. Person C Output: `segments.json`
-
-### Core
+## 3. Person C: `segments.json`
 
 ```json
 {
   "videoTitle": "Test Video",
   "videoFilename": "test_001.mp4",
   "duration_seconds": 120.0,
-  "segments": [
-    {
-      "label": "Intro",
-      "type": "non_content",
-      "start": 0.0,
-      "end": 30.0
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 30.0,
-      "end": 120.0
-    }
-  ]
-}
-```
-
-### Full (with Optional)
-
-```json
-{
-  "videoTitle": "Test Video",
-  "videoFilename": "test_001.mp4",
-  "duration_seconds": 120.0,
-  "generated_at": "2026-04-20T15:30:00Z",
+  "generated_at": "2026-04-30T15:30:00Z",
   "segments": [
     {
       "label": "Intro",
@@ -216,43 +132,29 @@ Person B (Audio) ──→ audio_signals.json ──┘
 }
 ```
 
-### Field Reference
+| Field | Type | Values |
+|-------|------|--------|
+| `videoTitle` | string | display name |
+| `videoFilename` | string | filename |
+| `duration_seconds` | float | total seconds |
+| `generated_at` | string | ISO 8601 |
+| `segments[].label` | string | human-readable |
+| `segments[].type` | string | `content` / `non_content` |
+| `segments[].subtype` | string | see below |
+| `segments[].start` | float | seconds |
+| `segments[].end` | float | seconds |
+| `segments[].confidence` | float | 0.0 – 1.0 |
+| `segments[].skip_recommended` | boolean | true / false |
+| `summary.content_duration` | float | total content seconds |
+| `summary.non_content_duration` | float | total non-content seconds |
+| `summary.content_percentage` | float | percentage that is content |
 
-| Field | Required | Week | Type | Values |
-|-------|----------|------|------|--------|
-| `videoTitle` | **CORE** | 1 | string | display name |
-| `videoFilename` | **CORE** | 1 | string | filename |
-| `duration_seconds` | **CORE** | 1 | float | total seconds |
-| `segments[].label` | **CORE** | 1 | string | human-readable |
-| `segments[].type` | **CORE** | 1 | string | `content` / `non_content` |
-| `segments[].start` | **CORE** | 1 | float | seconds |
-| `segments[].end` | **CORE** | 1 | float | seconds |
-| `segments[].subtype` | optional | 2 | string | see below |
-| `segments[].confidence` | optional | 2 | float | 0.0 - 1.0 |
-| `segments[].skip_recommended` | optional | 2 | boolean | true / false |
-| `generated_at` | optional | 2 | string | ISO 8601 |
-| `summary` | optional | 3 | object | see below |
+### subtype Values (aligned with shared 5-class enum)
 
-### type Values
-
-| Value | Description |
-|-------|-------------|
-| `content` | Main material viewer wants to watch |
-| `non_content` | Skippable material |
-
-### subtype Values
-
-| Type | Subtypes |
-|------|----------|
-| content | `main`, `highlight` |
-| non_content | `intro`, `outro`, `ad`, `promo`, `transition`, `dead_air` |
-
-### summary Object
-
-| Field | Type | Description |
-|-------|------|-------------|
-| `content_duration` | float | Total content seconds |
-| `non_content_duration` | float | Total non-content seconds |
-| `content_percentage` | float | Percentage that is content |
-
----
+| Type | Subtype | Source label |
+|------|---------|--------------|
+| `content` | `main` | `content` |
+| `non_content` | `intro` | `intro` |
+| `non_content` | `outro` | `outro` |
+| `non_content` | `ads` | `ads` |
+| `non_content` | `transition` | `transition` |
