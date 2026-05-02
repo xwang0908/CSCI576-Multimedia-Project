@@ -16,7 +16,7 @@
       "visual_type": "dynamic",
       "motion_level": "high",
       "confidence": 0.762,
-      "label": "recap"
+      "label": "content"
     },
     {
       "start": 645.548,
@@ -24,7 +24,7 @@
       "visual_type": "dynamic",
       "motion_level": "high",
       "confidence": 0.834,
-      "label": "recap"
+      "label": "content"
     },
     {
       "start": 663.021,
@@ -32,7 +32,7 @@
       "visual_type": "dynamic",
       "motion_level": "medium",
       "confidence": 0.917,
-      "label": "filler"
+      "label": "transition"
     },
     {
       "start": 1102.112,
@@ -40,7 +40,7 @@
       "visual_type": "dynamic",
       "motion_level": "high",
       "confidence": 0.744,
-      "label": "recap"
+      "label": "content"
     },
     {
       "start": 1108.639,
@@ -48,7 +48,7 @@
       "visual_type": "dynamic",
       "motion_level": "high",
       "confidence": 0.851,
-      "label": "recap"
+      "label": "content"
     },
     {
       "start": 1110.882,
@@ -56,7 +56,7 @@
       "visual_type": "dynamic",
       "motion_level": "high",
       "confidence": 0.736,
-      "label": "advertisement"
+      "label": "ads"
     },
     {
       "start": 1212.303,
@@ -72,7 +72,7 @@
       "visual_type": "dynamic",
       "motion_level": "medium",
       "confidence": 0.657,
-      "label": "recap"
+      "label": "content"
     },
     {
       "start": 1459.396,

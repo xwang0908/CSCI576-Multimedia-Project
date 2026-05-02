@@ -2,15 +2,15 @@
   "videoTitle": "test_001",
   "videoFilename": "test_001.mp4",
   "duration_seconds": 1458.425,
-  "generated_at": "2026-04-25T17:50:07.160922",
+  "generated_at": "2026-05-01T17:50:01.695492",
   "segments": [
     {
-      "label": "Transition",
+      "label": "Intro",
       "type": "non_content",
       "start": 0.0,
       "end": 14.72,
-      "subtype": "transition",
-      "confidence": 0.75,
+      "subtype": "intro",
+      "confidence": 0.8,
       "skip_recommended": true
     },
     {
@@ -19,295 +19,61 @@
       "start": 14.72,
       "end": 106.82,
       "subtype": "main",
-      "confidence": 0.85,
+      "confidence": 0.6421640134458046,
       "skip_recommended": false
     },
     {
-      "label": "Transition",
+      "label": "Ad Break",
       "type": "non_content",
       "start": 106.82,
       "end": 224.0,
-      "subtype": "transition",
-      "confidence": 0.75,
+      "subtype": "ad",
+      "confidence": 0.8,
       "skip_recommended": true
     },
     {
       "label": "Main Content",
       "type": "content",
       "start": 224.0,
-      "end": 227.98,
-      "subtype": "main",
-      "confidence": 0.85,
-      "skip_recommended": false
-    },
-    {
-      "label": "Transition",
-      "type": "non_content",
-      "start": 227.98,
-      "end": 230.38,
-      "subtype": "transition",
-      "confidence": 0.75,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 230.38,
-      "end": 247.0,
-      "subtype": "main",
-      "confidence": 0.85,
-      "skip_recommended": false
-    },
-    {
-      "label": "Dead Air",
-      "type": "non_content",
-      "start": 247.0,
-      "end": 249.2,
-      "subtype": "dead_air",
-      "confidence": 0.85,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 249.2,
-      "end": 367.7,
-      "subtype": "main",
-      "confidence": 0.85,
-      "skip_recommended": false
-    },
-    {
-      "label": "Dead Air",
-      "type": "non_content",
-      "start": 367.7,
-      "end": 369.44,
-      "subtype": "dead_air",
-      "confidence": 0.85,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 369.44,
-      "end": 422.76,
-      "subtype": "main",
-      "confidence": 0.85,
-      "skip_recommended": false
-    },
-    {
-      "label": "Transition",
-      "type": "non_content",
-      "start": 422.76,
-      "end": 424.18,
-      "subtype": "transition",
-      "confidence": 0.75,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 424.18,
-      "end": 521.02,
-      "subtype": "main",
-      "confidence": 0.85,
-      "skip_recommended": false
-    },
-    {
-      "label": "Transition",
-      "type": "non_content",
-      "start": 521.02,
-      "end": 522.32,
-      "subtype": "transition",
-      "confidence": 0.75,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 522.32,
       "end": 628.14,
       "subtype": "main",
-      "confidence": 0.85,
+      "confidence": 0.5,
       "skip_recommended": false
     },
     {
-      "label": "Transition",
+      "label": "Ad Break",
       "type": "non_content",
       "start": 628.14,
+      "end": 630.821,
+      "subtype": "ad",
+      "confidence": 0.8,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 630.821,
+      "end": 631.858,
+      "subtype": "main",
+      "confidence": 0.8,
+      "skip_recommended": false
+    },
+    {
+      "label": "Ad Break",
+      "type": "non_content",
+      "start": 631.858,
       "end": 644.32,
-      "subtype": "transition",
-      "confidence": 0.75,
+      "subtype": "ad",
+      "confidence": 0.8,
       "skip_recommended": true
     },
     {
       "label": "Main Content",
       "type": "content",
       "start": 644.32,
-      "end": 649.12,
-      "subtype": "main",
-      "confidence": 0.85,
-      "skip_recommended": false
-    },
-    {
-      "label": "Transition",
-      "type": "non_content",
-      "start": 649.12,
-      "end": 650.52,
-      "subtype": "transition",
-      "confidence": 0.75,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 650.52,
-      "end": 658.96,
-      "subtype": "main",
-      "confidence": 0.85,
-      "skip_recommended": false
-    },
-    {
-      "label": "Dead Air",
-      "type": "non_content",
-      "start": 658.96,
-      "end": 660.14,
-      "subtype": "dead_air",
-      "confidence": 0.85,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 660.14,
-      "end": 711.82,
-      "subtype": "main",
-      "confidence": 0.85,
-      "skip_recommended": false
-    },
-    {
-      "label": "Transition",
-      "type": "non_content",
-      "start": 711.82,
-      "end": 713.06,
-      "subtype": "transition",
-      "confidence": 0.75,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 713.06,
-      "end": 776.74,
-      "subtype": "main",
-      "confidence": 0.85,
-      "skip_recommended": false
-    },
-    {
-      "label": "Transition",
-      "type": "non_content",
-      "start": 776.74,
-      "end": 778.08,
-      "subtype": "transition",
-      "confidence": 0.75,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 778.08,
-      "end": 812.22,
-      "subtype": "main",
-      "confidence": 0.85,
-      "skip_recommended": false
-    },
-    {
-      "label": "Transition",
-      "type": "non_content",
-      "start": 812.22,
-      "end": 813.36,
-      "subtype": "transition",
-      "confidence": 0.75,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 813.36,
-      "end": 840.88,
-      "subtype": "main",
-      "confidence": 0.85,
-      "skip_recommended": false
-    },
-    {
-      "label": "Dead Air",
-      "type": "non_content",
-      "start": 840.88,
-      "end": 842.02,
-      "subtype": "dead_air",
-      "confidence": 0.85,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 842.02,
-      "end": 921.54,
-      "subtype": "main",
-      "confidence": 0.85,
-      "skip_recommended": false
-    },
-    {
-      "label": "Transition",
-      "type": "non_content",
-      "start": 921.54,
-      "end": 922.94,
-      "subtype": "transition",
-      "confidence": 0.75,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 922.94,
-      "end": 954.34,
-      "subtype": "main",
-      "confidence": 0.85,
-      "skip_recommended": false
-    },
-    {
-      "label": "Dead Air",
-      "type": "non_content",
-      "start": 954.34,
-      "end": 955.86,
-      "subtype": "dead_air",
-      "confidence": 0.85,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 955.86,
-      "end": 999.28,
-      "subtype": "main",
-      "confidence": 0.85,
-      "skip_recommended": false
-    },
-    {
-      "label": "Transition",
-      "type": "non_content",
-      "start": 999.28,
-      "end": 1000.56,
-      "subtype": "transition",
-      "confidence": 0.75,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 1000.56,
       "end": 1022.28,
       "subtype": "main",
-      "confidence": 0.85,
+      "confidence": 0.698199257134797,
       "skip_recommended": false
     },
     {
@@ -316,97 +82,79 @@
       "start": 1022.28,
       "end": 1050.9,
       "subtype": "transition",
-      "confidence": 0.75,
+      "confidence": 0.957028,
       "skip_recommended": true
     },
     {
       "label": "Main Content",
       "type": "content",
       "start": 1050.9,
-      "end": 1079.04,
+      "end": 1088.56,
       "subtype": "main",
-      "confidence": 0.85,
+      "confidence": 0.5,
       "skip_recommended": false
     },
     {
-      "label": "Transition",
+      "label": "Ad Break",
       "type": "non_content",
-      "start": 1079.04,
-      "end": 1081.04,
-      "subtype": "transition",
-      "confidence": 0.75,
+      "start": 1088.56,
+      "end": 1101.074,
+      "subtype": "ad",
+      "confidence": 0.8,
       "skip_recommended": true
     },
     {
       "label": "Main Content",
       "type": "content",
-      "start": 1081.04,
-      "end": 1088.56,
+      "start": 1101.074,
+      "end": 1102.112,
       "subtype": "main",
-      "confidence": 0.85,
+      "confidence": 0.8,
       "skip_recommended": false
+    },
+    {
+      "label": "Ad Break",
+      "type": "non_content",
+      "start": 1102.112,
+      "end": 1107.601,
+      "subtype": "ad",
+      "confidence": 0.8,
+      "skip_recommended": true
     },
     {
       "label": "Transition",
       "type": "non_content",
-      "start": 1088.56,
-      "end": 1117.8,
+      "start": 1107.601,
+      "end": 1110.882,
       "subtype": "transition",
-      "confidence": 0.75,
+      "confidence": 0.8,
+      "skip_recommended": true
+    },
+    {
+      "label": "Ad Break",
+      "type": "non_content",
+      "start": 1110.882,
+      "end": 1117.8,
+      "subtype": "ad",
+      "confidence": 0.8,
       "skip_recommended": true
     },
     {
       "label": "Main Content",
       "type": "content",
       "start": 1117.8,
-      "end": 1261.6,
-      "subtype": "main",
-      "confidence": 0.85,
-      "skip_recommended": false
-    },
-    {
-      "label": "Transition",
-      "type": "non_content",
-      "start": 1261.6,
-      "end": 1262.92,
-      "subtype": "transition",
-      "confidence": 0.75,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 1262.92,
-      "end": 1308.12,
-      "subtype": "main",
-      "confidence": 0.85,
-      "skip_recommended": false
-    },
-    {
-      "label": "Transition",
-      "type": "non_content",
-      "start": 1308.12,
-      "end": 1309.12,
-      "subtype": "transition",
-      "confidence": 0.75,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 1309.12,
       "end": 1452.96,
       "subtype": "main",
-      "confidence": 0.85,
+      "confidence": 0.8,
       "skip_recommended": false
     },
     {
-      "label": "Transition",
+      "label": "Outro",
       "type": "non_content",
       "start": 1452.96,
       "end": 1458.6,
-      "subtype": "transition",
-      "confidence": 0.75,
+      "subtype": "outro",
+      "confidence": 0.8,
       "skip_recommended": true
     },
     {
@@ -415,13 +163,13 @@
       "start": 1458.6,
       "end": 1464.316,
       "subtype": "main",
-      "confidence": 0.85,
+      "confidence": 0.678085288060676,
       "skip_recommended": false
     }
   ],
   "summary": {
-    "content_duration": 1227.72,
-    "non_content_duration": 236.6,
-    "content_percentage": 83.8
+    "content_duration": 1254.81,
+    "non_content_duration": 209.51,
+    "content_percentage": 85.7
   }
 }

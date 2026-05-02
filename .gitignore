@@ -19,3 +19,9 @@ test/videos/*.mp4
 
 # --- Personal notes ---
 TODO.md
+
+# --- One-shot migration scripts (kept locally for re-runnable history) ---
+backend/migrate_v2_schema.py
+
+# --- Schema migration backups (per-video, regenerable) ---
+output/**/*.v1.bak.json

@@ -862,8 +862,7 @@
       "audio_type": "speech",
       "transcript": "10, 9, 8, 7, RS 25 engines, 8, 4, 3, 2, 1, bluster ignition, and lift off.",
       "asr_confidence": 0.79,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 13.24,
@@ -872,8 +871,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 15.6,
@@ -882,8 +880,7 @@
       "audio_type": "speech",
       "transcript": "Artemis 2 now bound for the moon. Humanity's next great.",
       "asr_confidence": 0.82,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 19.92,
@@ -892,8 +889,7 @@
       "audio_type": "speech",
       "transcript": "Houston Integrity, good home pitch.",
       "asr_confidence": 0.51,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 22.7,
@@ -902,8 +898,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 24.1,
@@ -912,8 +907,7 @@
       "audio_type": "speech",
       "transcript": "Roger, roll the pitch.",
       "asr_confidence": 0.51,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 25.5,
@@ -922,8 +916,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 35.98,
@@ -932,8 +925,7 @@
       "audio_type": "speech",
       "transcript": "Can't tell you you have to hide.",
       "asr_confidence": 0.51,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 38.2,
@@ -942,8 +934,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 66.46,
@@ -952,8 +943,7 @@
       "audio_type": "speech",
       "transcript": "The integrity through Max2 on Punticleey on.",
       "asr_confidence": 0.48,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 69.88,
@@ -962,8 +952,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 71.3,
@@ -972,8 +961,7 @@
       "audio_type": "speech",
       "transcript": "Stand, we have the loud and clear on Punticleey on.",
       "asr_confidence": 0.74,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 73.86,
@@ -982,8 +970,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 74.86,
@@ -992,8 +979,7 @@
       "audio_type": "speech",
       "transcript": "Have you the same?",
       "asr_confidence": 0.87,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 75.82,
@@ -1002,8 +988,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 134.08,
@@ -1012,8 +997,7 @@
       "audio_type": "speech",
       "transcript": "The integrity guidance converged to performance nominal, upper stage OCS ready.",
       "asr_confidence": 0.71,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 139.7,
@@ -1022,8 +1006,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 141.18,
@@ -1032,8 +1015,7 @@
       "audio_type": "speech",
       "transcript": "Copy-hands, man.",
       "asr_confidence": 0.42,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 142.8,
@@ -1042,8 +1024,7 @@
       "audio_type": "speech",
       "transcript": "Stand, we have the integrity, SM priming complete.",
       "asr_confidence": 0.34,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 149.14,
@@ -1052,8 +1033,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 150.68,
@@ -1062,8 +1042,7 @@
       "audio_type": "speech",
       "transcript": "SM priming complete.",
       "asr_confidence": 0.67,
-      "content_category": "Content",
-      "llm_confidence": 0.5
+      "label": "content"
     },
     {
       "start": 151.9,
@@ -1072,8 +1051,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 156.0,
@@ -1082,8 +1060,7 @@
       "audio_type": "speech",
       "transcript": "And Houston has you loud and clear on T-Dose at the Garmin Line.",
       "asr_confidence": 0.78,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 159.72,
@@ -1092,8 +1069,7 @@
       "audio_type": "speech",
       "transcript": "Stand, we have the same.",
       "asr_confidence": 0.2,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 164.64,
@@ -1102,8 +1078,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 166.96,
@@ -1112,8 +1087,7 @@
       "audio_type": "speech",
       "transcript": "3 minutes 50 seconds into the flight of Artemis 2.",
       "asr_confidence": 0.7,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 170.08,
@@ -1122,8 +1096,7 @@
       "audio_type": "speech",
       "transcript": "We have the good count.",
       "asr_confidence": 0.16,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 173.9,
@@ -1132,8 +1105,7 @@
       "audio_type": "speech",
       "transcript": "The signal is acquired after last year.",
       "asr_confidence": 0.53,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 176.4,
@@ -1142,8 +1114,7 @@
       "audio_type": "speech",
       "transcript": "Now working on internal checks.",
       "asr_confidence": 0.76,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 178.68,
@@ -1152,8 +1123,7 @@
       "audio_type": "speech",
       "transcript": "Whoa.",
       "asr_confidence": 0.16,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 179.28,
@@ -1162,8 +1132,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 180.78,
@@ -1172,8 +1141,7 @@
       "audio_type": "speech",
       "transcript": "That is separate.",
       "asr_confidence": 0.6,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 182.38,
@@ -1182,8 +1150,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 183.48,
@@ -1192,8 +1159,7 @@
       "audio_type": "speech",
       "transcript": "One of the biggest surprises was how smooth the writing those solids was.",
       "asr_confidence": 0.73,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 187.9,
@@ -1202,8 +1168,7 @@
       "audio_type": "speech",
       "transcript": "We all expected a really dynamic ride, a lot of motion.",
       "asr_confidence": 0.74,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 192.36,
@@ -1212,8 +1177,7 @@
       "audio_type": "speech",
       "transcript": "We were prepared to potentially not be able to see telemetry.",
       "asr_confidence": 0.88,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 195.98,
@@ -1222,8 +1186,7 @@
       "audio_type": "speech",
       "transcript": "Maybe you're not being able to touch switches.",
       "asr_confidence": 0.85,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 200.0,
@@ -1232,8 +1195,7 @@
       "audio_type": "speech",
       "transcript": "It was very smooth.",
       "asr_confidence": 0.86,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 202.14,
@@ -1242,8 +1204,7 @@
       "audio_type": "speech",
       "transcript": "There was a definite difference when they separated.",
       "asr_confidence": 0.89,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 205.18,
@@ -1252,8 +1213,7 @@
       "audio_type": "speech",
       "transcript": "And we were just on the main engines.",
       "asr_confidence": 0.91,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 206.72,
@@ -1262,8 +1222,7 @@
       "audio_type": "speech",
       "transcript": "But just a steady rumble and a great ride.",
       "asr_confidence": 0.93,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 210.86,
@@ -1272,8 +1231,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 216.4,
@@ -1282,8 +1240,7 @@
       "audio_type": "speech",
       "transcript": "Well, let's see.",
       "asr_confidence": 0.66,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 217.34,
@@ -1292,8 +1249,7 @@
       "audio_type": "speech",
       "transcript": "So we've been off the planet for what about 30 hours now.",
       "asr_confidence": 0.83,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 220.0,
@@ -1302,8 +1258,7 @@
       "audio_type": "speech",
       "transcript": "And we've had two very short naps.",
       "asr_confidence": 0.97,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 221.84,
@@ -1312,8 +1267,7 @@
       "audio_type": "speech",
       "transcript": "We actually just gathered for our first meal together in space.",
       "asr_confidence": 0.99,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 224.84,
@@ -1322,8 +1276,7 @@
       "audio_type": "speech",
       "transcript": "That is how busy we have been the last day and a half.",
       "asr_confidence": 0.98,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 227.86,
@@ -1332,8 +1285,7 @@
       "audio_type": "speech",
       "transcript": "It has been really an amazing beginning flight plan.",
       "asr_confidence": 0.97,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 232.0,
@@ -1342,8 +1294,7 @@
       "audio_type": "speech",
       "transcript": "But sleep in here is, it's actually sort of comical.",
       "asr_confidence": 0.9,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 234.74,
@@ -1352,8 +1303,7 @@
       "audio_type": "speech",
       "transcript": "Christine has been sleeping heads down in the middle of the vehicle.",
       "asr_confidence": 0.85,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 238.56,
@@ -1362,8 +1312,7 @@
       "audio_type": "speech",
       "transcript": "Kind of like a bat suspended from our docking tunnel.",
       "asr_confidence": 0.96,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 241.2,
@@ -1372,8 +1321,7 @@
       "audio_type": "speech",
       "transcript": "Victor has been up where Jeremy is right now.",
       "asr_confidence": 0.84,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 243.08,
@@ -1382,8 +1330,7 @@
       "audio_type": "speech",
       "transcript": "He's got a nice little nook wedged in there.",
       "asr_confidence": 0.95,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 245.26,
@@ -1392,8 +1339,7 @@
       "audio_type": "speech",
       "transcript": "And then Jeremy has been stretched out on seat one.",
       "asr_confidence": 0.95,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 248.28,
@@ -1402,8 +1348,7 @@
       "audio_type": "speech",
       "transcript": "And I've been sleeping under the displays just in case anything goes wrong.",
       "asr_confidence": 0.93,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 252.4,
@@ -1412,8 +1357,7 @@
       "audio_type": "speech",
       "transcript": "It's more comfortable than you would think.",
       "asr_confidence": 0.94,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 254.92,
@@ -1422,8 +1366,7 @@
       "audio_type": "speech",
       "transcript": "And it's nice.",
       "asr_confidence": 0.82,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 255.84,
@@ -1432,8 +1375,7 @@
       "audio_type": "speech",
       "transcript": "It's nice to sleep and waitlessness again.",
       "asr_confidence": 0.78,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 257.88,
@@ -1442,8 +1384,7 @@
       "audio_type": "speech",
       "transcript": "Every time I would, it's dosed an off last night.",
       "asr_confidence": 0.82,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 259.56,
@@ -1452,8 +1393,7 @@
       "audio_type": "speech",
       "transcript": "I had that image and I was tripping off a curb and I was waking myself up.",
       "asr_confidence": 0.94,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 263.0,
@@ -1462,8 +1402,7 @@
       "audio_type": "speech",
       "transcript": "So my body's getting reaclimated.",
       "asr_confidence": 0.8,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 265.08,
@@ -1472,8 +1411,7 @@
       "audio_type": "speech",
       "transcript": "It's been a few years since I've been up here.",
       "asr_confidence": 0.98,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 266.4,
@@ -1482,8 +1420,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 267.62,
@@ -1492,8 +1429,7 @@
       "audio_type": "speech",
       "transcript": "As you all know, there is so much division at home.",
       "asr_confidence": 0.95,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 270.5,
@@ -1502,8 +1438,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 286.5,
@@ -1512,8 +1447,7 @@
       "audio_type": "speech",
       "transcript": "I have just finally got some time to do my own thing.",
       "asr_confidence": 0.88,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 289.38,
@@ -1522,8 +1456,7 @@
       "audio_type": "speech",
       "transcript": "I'll send you a link.",
       "asr_confidence": 0.96,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 290.18,
@@ -1532,8 +1465,7 @@
       "audio_type": "speech",
       "transcript": "I'm doing some friends trying to make accessories from them.",
       "asr_confidence": 0.81,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 294.16,
@@ -1542,8 +1474,7 @@
       "audio_type": "speech",
       "transcript": "I'm really, really happy you like them.",
       "asr_confidence": 0.74,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 295.84,
@@ -1552,8 +1483,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 299.02,
@@ -1562,8 +1492,7 @@
       "audio_type": "speech",
       "transcript": "Hey, it's Kay Davis.",
       "asr_confidence": 0.75,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 300.6,
@@ -1572,8 +1501,7 @@
       "audio_type": "speech",
       "transcript": "What's happened?",
       "asr_confidence": 0.85,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 301.2,
@@ -1582,8 +1510,7 @@
       "audio_type": "speech",
       "transcript": "To me, I'm just not what we're looking for.",
       "asr_confidence": 0.6,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 303.62,
@@ -1592,8 +1519,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 317.24,
@@ -1602,8 +1528,7 @@
       "audio_type": "speech",
       "transcript": "Kay, I'm going to get to sleep.",
       "asr_confidence": 0.38,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 320.18,
@@ -1612,8 +1537,7 @@
       "audio_type": "speech",
       "transcript": null,
       "asr_confidence": 0.76,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 320.18,
@@ -1622,8 +1546,7 @@
       "audio_type": "speech",
       "transcript": "I'm going to get to sleep.",
       "asr_confidence": 0.6,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 320.36,
@@ -1632,8 +1555,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 325.52,
@@ -1642,8 +1564,7 @@
       "audio_type": "speech",
       "transcript": "I'm going to get to sleep.",
       "asr_confidence": 0.84,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 326.38,
@@ -1652,8 +1573,7 @@
       "audio_type": "speech",
       "transcript": "I'm going to get to sleep.",
       "asr_confidence": 0.9,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 326.78,
@@ -1662,8 +1582,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 327.84,
@@ -1672,8 +1591,7 @@
       "audio_type": "speech",
       "transcript": "I'm going to get to sleep.",
       "asr_confidence": 0.92,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 328.24,
@@ -1682,8 +1600,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 330.44,
@@ -1692,8 +1609,7 @@
       "audio_type": "speech",
       "transcript": "Right now, what is it that you're feeling and what message do you want to send to the American people about what you're saying about that window?",
       "asr_confidence": 0.88,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 336.42,
@@ -1702,8 +1618,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 343.46,
@@ -1712,8 +1627,7 @@
       "audio_type": "speech",
       "transcript": "Well, the first thing I would say is trust us.",
       "asr_confidence": 0.91,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 346.22,
@@ -1722,8 +1636,7 @@
       "audio_type": "speech",
       "transcript": "You look amazing.",
       "asr_confidence": 0.98,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 347.24,
@@ -1732,8 +1645,7 @@
       "audio_type": "speech",
       "transcript": "You look beautiful.",
       "asr_confidence": 0.97,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 348.32,
@@ -1742,8 +1654,7 @@
       "audio_type": "speech",
       "transcript": "And from up here,",
       "asr_confidence": 0.98,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 349.28,
@@ -1752,8 +1663,7 @@
       "audio_type": "speech",
       "transcript": "you also look like one thing.",
       "asr_confidence": 0.82,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 351.7,
@@ -1762,8 +1672,7 @@
       "audio_type": "speech",
       "transcript": "Homosapiens is all of us,",
       "asr_confidence": 0.88,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 353.36,
@@ -1772,8 +1681,7 @@
       "audio_type": "speech",
       "transcript": "no matter where you're from or what you look like.",
       "asr_confidence": 0.93,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 357.26,
@@ -1782,8 +1690,7 @@
       "audio_type": "speech",
       "transcript": "We're all one people.",
       "asr_confidence": 0.99,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 358.34,
@@ -1792,8 +1699,7 @@
       "audio_type": "speech",
       "transcript": "And so this mission, one of the things that's amazing about being around and just being in an astronaut serving our countries at this time is that we get to give ourselves a mission that we can hold on to to say,",
       "asr_confidence": 0.92,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 371.56,
@@ -1802,8 +1708,7 @@
       "audio_type": "speech",
       "transcript": "hey, look at what we did for the rest of our lives.",
       "asr_confidence": 0.8,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 375.42,
@@ -1812,8 +1717,7 @@
       "audio_type": "speech",
       "transcript": "We call amazing things that humans do, moonshots for a reason,",
       "asr_confidence": 0.81,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 379.5,
@@ -1822,8 +1726,7 @@
       "audio_type": "speech",
       "transcript": "because this brought us together and showed us what we can do when we put, not just putting our differences aside, when we bring our differences together and use all the strengths to accomplish something great.",
       "asr_confidence": 0.97,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 389.14,
@@ -1832,8 +1735,7 @@
       "audio_type": "speech",
       "transcript": "And so this mission will give us one of those that we all can remember and hold on to for the rest of our days.",
       "asr_confidence": 0.97,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 395.04,
@@ -1842,8 +1744,7 @@
       "audio_type": "speech",
       "transcript": "And I hope people will tune in and give us a chance.",
       "asr_confidence": 0.98,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 398.52,
@@ -1852,8 +1753,7 @@
       "audio_type": "speech",
       "transcript": "There's a lot of happiness.",
       "asr_confidence": 0.86,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 401.14,
@@ -1862,8 +1762,7 @@
       "audio_type": "speech",
       "transcript": "Just to have experiences unique things just brings you joy as a human.",
       "asr_confidence": 0.83,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 406.52,
@@ -1872,8 +1771,7 @@
       "audio_type": "speech",
       "transcript": "We're explorers at heart as human beings.",
       "asr_confidence": 0.94,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 409.6,
@@ -1882,8 +1780,7 @@
       "audio_type": "speech",
       "transcript": "And we really feel like we're exploring out here and it brings a lot of excitement.",
       "asr_confidence": 0.95,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 414.24,
@@ -1892,8 +1789,7 @@
       "audio_type": "speech",
       "transcript": "And then, you know, right away, you are humbled.",
       "asr_confidence": 0.97,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 416.9,
@@ -1902,8 +1798,7 @@
       "audio_type": "speech",
       "transcript": "The fact that four of us get to be out here just brings you to your knees.",
       "asr_confidence": 0.97,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 421.96,
@@ -1912,8 +1807,7 @@
       "audio_type": "speech",
       "transcript": "The thought that we get this experience, we're doing our best to show it with the camera, but you can't do it.",
       "asr_confidence": 0.99,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 427.56,
@@ -1922,8 +1816,7 @@
       "audio_type": "speech",
       "transcript": "I know those photos are amazing, but let me assure you it is another level of amazing up here.",
       "asr_confidence": 0.92,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 434.06,
@@ -1932,8 +1825,7 @@
       "audio_type": "speech",
       "transcript": "And there's a lot of gratitude for the teams of people that made this possible.",
       "asr_confidence": 0.96,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 438.5,
@@ -1942,8 +1834,7 @@
       "audio_type": "speech",
       "transcript": "I can really see Earth as one thing.",
       "asr_confidence": 0.91,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 440.76,
@@ -1952,8 +1843,7 @@
       "audio_type": "speech",
       "transcript": "And you know, when I read the Bible and I look at all of the amazing things that were done for us who were created, it's...",
       "asr_confidence": 0.94,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 447.52,
@@ -1962,8 +1852,7 @@
       "audio_type": "speech",
       "transcript": "You have this amazing place, this spaceship.",
       "asr_confidence": 0.91,
-      "content_category": "Content",
-      "llm_confidence": 0.9
+      "label": "content"
     },
     {
       "start": 450.36,
@@ -1972,8 +1861,7 @@
       "audio_type": "speech",
       "transcript": "You guys are talking to us because we're in a spaceship really far from Earth, but you're on a spaceship called Earth that was created to give us a place to live in the universe and the cosmos.",
       "asr_confidence": 0.92,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 460.6,
@@ -1982,8 +1870,7 @@
       "audio_type": "speech",
       "transcript": "I think maybe the distance we are from you makes you think what we're doing is special, but we're the same distance from you.",
       "asr_confidence": 0.96,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 467.14,
@@ -1992,8 +1879,7 @@
       "audio_type": "speech",
       "transcript": "And I'm trying to tell you, just trust me, you are special.",
       "asr_confidence": 0.99,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 470.18,
@@ -2002,8 +1888,7 @@
       "audio_type": "speech",
       "transcript": "In all of this emptiness, this is a whole bunch of nothing, this thing we call the universe.",
       "asr_confidence": 0.97,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 474.36,
@@ -2012,8 +1897,7 @@
       "audio_type": "speech",
       "transcript": "You have this oasis, this beautiful place that we get to exist together.",
       "asr_confidence": 0.91,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 479.76,
@@ -2022,8 +1906,7 @@
       "audio_type": "speech",
       "transcript": "I think as we go into Easter Sunday thinking about all the cultures all around the world, whether you celebrate it or not, whether you believe in God or not, this is an opportunity for us to remember where we are, who we are, and that we are the same thing and that we got to get through this together.",
       "asr_confidence": 0.95,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 495.46,
@@ -2032,8 +1915,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 517.3,
@@ -2042,8 +1924,7 @@
       "audio_type": "speech",
       "transcript": "Integrity Crew on April 15th, 1970 during the Apollo 13 mission.",
       "asr_confidence": 0.75,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 524.62,
@@ -2052,8 +1933,7 @@
       "audio_type": "speech",
       "transcript": "Three explorers set the record for the farthest distance humans have ever traveled from our home planet.",
       "asr_confidence": 0.98,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 529.56,
@@ -2062,8 +1942,7 @@
       "audio_type": "speech",
       "transcript": "At that time, over 55 years ago, level, swigart, and haze flew 248,655 statute miles away from Earth.",
       "asr_confidence": 0.88,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 542.0,
@@ -2072,8 +1951,7 @@
       "audio_type": "speech",
       "transcript": "Today, for all humanity, you're pushing beyond that frontier. Integrity, over to you.",
       "asr_confidence": 0.98,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 548.58,
@@ -2082,8 +1960,7 @@
       "audio_type": "speech",
       "transcript": "Yeah, from the cabin of integrity here is we surpass the furthest distance humans have ever traveled from planet Earth.",
       "asr_confidence": 0.78,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 558.3,
@@ -2092,8 +1969,7 @@
       "audio_type": "speech",
       "transcript": "We do so in honoring the extraordinary efforts and feats of our predecessors in human space exploration.",
       "asr_confidence": 0.98,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 566.1,
@@ -2102,8 +1978,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 567.26,
@@ -2112,8 +1987,7 @@
       "audio_type": "speech",
       "transcript": "We will continue our journey even further into space before Mother Earth succeeds in pulling us back to everything that we hold dear.",
       "asr_confidence": 0.98,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 575.38,
@@ -2122,8 +1996,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 576.46,
@@ -2132,8 +2005,7 @@
       "audio_type": "speech",
       "transcript": "But we most importantly choose this moment to challenge this generation in the next to make sure this record is not long lived.",
       "asr_confidence": 0.9,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 586.34,
@@ -2142,8 +2014,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 587.92,
@@ -2152,8 +2023,7 @@
       "audio_type": "speech",
       "transcript": "And especially meaningful for this crew is a number of years ago we started this journey and our close knit astronaut family and we lost a loved one.",
       "asr_confidence": 0.91,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 599.16,
@@ -2162,8 +2032,7 @@
       "audio_type": "speech",
       "transcript": "And there's a there's a feature and a really neat place on the moon and it is on the near side far side boundary.",
       "asr_confidence": 0.84,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 606.7,
@@ -2172,8 +2041,7 @@
       "audio_type": "speech",
       "transcript": "In fact, it's just on the near side of that boundary.",
       "asr_confidence": 0.99,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 610.18,
@@ -2182,8 +2050,7 @@
       "audio_type": "speech",
       "transcript": "And so at certain times of the moon's transit around Earth, you can we will be able to see this from Earth.",
       "asr_confidence": 0.89,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 618.4,
@@ -2192,8 +2059,7 @@
       "audio_type": "speech",
       "transcript": "And so we lost a loved one. Our name was Carol.",
       "asr_confidence": 0.72,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 621.52,
@@ -2202,8 +2068,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 623.28,
@@ -2212,8 +2077,7 @@
       "audio_type": "speech",
       "transcript": "The supposed to read the mother of Katie and Ellie.",
       "asr_confidence": 0.8,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 627.26,
@@ -2222,8 +2086,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 630.78,
@@ -2232,8 +2095,7 @@
       "audio_type": "speech",
       "transcript": "And if you want to find this one, you look at Gluixko and it's just to the northwest of that at the same latitude as home.",
       "asr_confidence": 0.86,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 639.52,
@@ -2242,8 +2104,7 @@
       "audio_type": "speech",
       "transcript": "And it's a bright spot on the moon.",
       "asr_confidence": 0.94,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 641.84,
@@ -2252,8 +2113,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 644.16,
@@ -2262,8 +2122,7 @@
       "audio_type": "speech",
       "transcript": "And we would like to call it Carol.",
       "asr_confidence": 0.83,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 646.18,
@@ -2272,8 +2131,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 647.3,
@@ -2282,8 +2140,7 @@
       "audio_type": "speech",
       "transcript": "And you spell that C-A-R-R.",
       "asr_confidence": 0.85,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 650.78,
@@ -2292,8 +2149,7 @@
       "audio_type": "speech",
       "transcript": "So L-L.",
       "asr_confidence": 0.71,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 652.16,
@@ -2302,8 +2158,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 674.34,
@@ -2312,8 +2167,7 @@
       "audio_type": "speech",
       "transcript": "I'm just like you out here.",
       "asr_confidence": 0.66,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 676.62,
@@ -2322,8 +2176,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 678.36,
@@ -2332,8 +2185,7 @@
       "audio_type": "speech",
       "transcript": "Hey, grab me one too.",
       "asr_confidence": 0.67,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 679.6,
@@ -2342,8 +2194,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 701.96,
@@ -2352,8 +2203,7 @@
       "audio_type": "speech",
       "transcript": "I think it was wrong.",
       "asr_confidence": 0.22,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 704.58,
@@ -2362,8 +2212,7 @@
       "audio_type": "speech",
       "transcript": "I think it was wrong.",
       "asr_confidence": 0.67,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 706.18,
@@ -2372,8 +2221,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 708.12,
@@ -2382,8 +2230,7 @@
       "audio_type": "speech",
       "transcript": "Amazing. Amazing.",
       "asr_confidence": 0.42,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 711.96,
@@ -2392,8 +2239,7 @@
       "audio_type": "speech",
       "transcript": "Thank you, Reid.",
       "asr_confidence": 0.5,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 712.46,
@@ -2402,8 +2248,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 713.94,
@@ -2412,8 +2257,7 @@
       "audio_type": "speech",
       "transcript": "Houston, we have you the same and it is so great to hear from Earth again.",
       "asr_confidence": 0.92,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 719.26,
@@ -2422,8 +2266,7 @@
       "audio_type": "speech",
       "transcript": "To Asia, Africa and Oshiana, we are looking back at you.",
       "asr_confidence": 0.86,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 723.54,
@@ -2432,8 +2275,7 @@
       "audio_type": "speech",
       "transcript": "We hear you can look up the sea of the moon right now.",
       "asr_confidence": 0.76,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 726.26,
@@ -2442,8 +2284,7 @@
       "audio_type": "speech",
       "transcript": "We see you too.",
       "asr_confidence": 0.9,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 728.04,
@@ -2452,8 +2293,7 @@
       "audio_type": "speech",
       "transcript": "When we burned this burn towards the moon, I said that we do not leave Earth, but we do do this.",
       "asr_confidence": 0.78,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 735.18,
@@ -2462,8 +2302,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 736.34,
@@ -2472,8 +2311,7 @@
       "audio_type": "speech",
       "transcript": "And that is true.",
       "asr_confidence": 0.96,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 738.24,
@@ -2482,8 +2320,7 @@
       "audio_type": "speech",
       "transcript": "We will explore, we will build ships, build this again.",
       "asr_confidence": 0.81,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 742.56,
@@ -2492,8 +2329,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 743.7,
@@ -2502,8 +2338,7 @@
       "audio_type": "speech",
       "transcript": "We will construct science, outposts, we will drive rovers, we will do radio astronomy, we will found companies, we will both the industry, we will inspire.",
       "asr_confidence": 0.88,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 754.06,
@@ -2512,8 +2347,7 @@
       "audio_type": "speech",
       "transcript": "But ultimately, we will always choose Earth, we will always choose each other.",
       "asr_confidence": 0.9,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 760.04,
@@ -2522,8 +2356,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 764.2,
@@ -2532,8 +2365,7 @@
       "audio_type": "speech",
       "transcript": "Integrity from Earth, our single system fragile and interconnected we copy.",
       "asr_confidence": 0.9,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 769.64,
@@ -2542,8 +2374,7 @@
       "audio_type": "speech",
       "transcript": "Those of us that can are looking back.",
       "asr_confidence": 0.96,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 771.28,
@@ -2552,8 +2383,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 772.36,
@@ -2562,8 +2392,7 @@
       "audio_type": "speech",
       "transcript": "Integrity, Houston, in mission control, all of your flight controllers and your flight director have flipped.",
       "asr_confidence": 0.95,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 780.18,
@@ -2572,8 +2401,7 @@
       "audio_type": "speech",
       "transcript": "There are Artemis 2 patches around.",
       "asr_confidence": 0.77,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 782.9,
@@ -2582,8 +2410,7 @@
       "audio_type": "speech",
       "transcript": "We are Earthbound and ready to bring you home.",
       "asr_confidence": 0.95,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 785.2,
@@ -2592,8 +2419,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 786.46,
@@ -2602,8 +2428,7 @@
       "audio_type": "speech",
       "transcript": "You are getting a live look from Orion as the crew observes a solar eclipse from the moon.",
       "asr_confidence": 0.89,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 792.92,
@@ -2612,8 +2437,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 795.84,
@@ -2622,8 +2446,7 @@
       "audio_type": "speech",
       "transcript": "Houston, we can't be all. We are in eclipse glasses.",
       "asr_confidence": 0.71,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 798.34,
@@ -2632,8 +2455,7 @@
       "audio_type": "speech",
       "transcript": "That was an absolutely spectacular magnificent experience.",
       "asr_confidence": 0.96,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 801.48,
@@ -2642,8 +2464,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 804.42,
@@ -2652,8 +2473,7 @@
       "audio_type": "speech",
       "transcript": "Thanks for the report. We sure wish we were there with you.",
       "asr_confidence": 0.98,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 806.8,
@@ -2662,8 +2482,7 @@
       "audio_type": "speech",
       "transcript": "You are looking at a live view inside integrity.",
       "asr_confidence": 0.72,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 810.46,
@@ -2672,8 +2491,7 @@
       "audio_type": "speech",
       "transcript": "Read Wisement on the left doing a fist bump with pilot Victor Glover on the right and down in the mid deck area just below their feet,",
       "asr_confidence": 0.84,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 818.3,
@@ -2682,8 +2500,7 @@
       "audio_type": "speech",
       "transcript": "suit it up in their launch and entry suits, our mission specialists, Christina Cook, and Jeremy Hansen of the Canadian Space Agency.",
       "asr_confidence": 0.86,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 826.02,
@@ -2692,8 +2509,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 830.86,
@@ -2702,8 +2518,7 @@
       "audio_type": "speech",
       "transcript": "And we have confirmation of crew module service module separation.",
       "asr_confidence": 0.89,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 834.64,
@@ -2712,8 +2527,7 @@
       "audio_type": "speech",
       "transcript": "The European service module now separated from integrity a job well done.",
       "asr_confidence": 0.78,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 840.46,
@@ -2722,8 +2536,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 842.44,
@@ -2732,8 +2545,7 @@
       "audio_type": "speech",
       "transcript": "And we have crossed the threshold now entering the Earth's atmosphere.",
       "asr_confidence": 0.92,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 846.78,
@@ -2742,8 +2554,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 848.06,
@@ -2752,8 +2563,7 @@
       "audio_type": "speech",
       "transcript": "We're at 400,000 feet traveling 34,800 feet per second.",
       "asr_confidence": 0.92,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 852.66,
@@ -2762,8 +2572,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 857.04,
@@ -2772,8 +2581,7 @@
       "audio_type": "speech",
       "transcript": "And as predicted, we've entered our communications blackout.",
       "asr_confidence": 0.94,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 860.48,
@@ -2782,8 +2590,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 862.22,
@@ -2792,8 +2599,7 @@
       "audio_type": "speech",
       "transcript": "Integrity, Houston, Comchec, post blackout.",
       "asr_confidence": 0.65,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 864.94,
@@ -2802,8 +2608,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 867.32,
@@ -2812,8 +2617,7 @@
       "audio_type": "speech",
       "transcript": "Houston, integrity, we have you loud and clear.",
       "asr_confidence": 0.78,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 869.36,
@@ -2822,8 +2626,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 871.1,
@@ -2832,8 +2635,7 @@
       "audio_type": "speech",
       "transcript": "Your trajectory is nominal and your recovery teams have visual.",
       "asr_confidence": 0.93,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 875.34,
@@ -2842,8 +2644,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 876.7,
@@ -2852,8 +2653,7 @@
       "audio_type": "speech",
       "transcript": "We're at 50,000 feet.",
       "asr_confidence": 0.97,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 878.38,
@@ -2862,8 +2662,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 885.5,
@@ -2872,8 +2671,7 @@
       "audio_type": "speech",
       "transcript": "And there go the first series of parachutes and we're on droves.",
       "asr_confidence": 0.88,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 889.7,
@@ -2882,8 +2680,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 891.2,
@@ -2892,8 +2689,7 @@
       "audio_type": "speech",
       "transcript": "And Houston were visual two droves out the window.",
       "asr_confidence": 0.63,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 893.58,
@@ -2902,8 +2698,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 897.22,
@@ -2912,8 +2707,7 @@
       "audio_type": "speech",
       "transcript": "Two good drogue shoots.",
       "asr_confidence": 0.81,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 899.08,
@@ -2922,8 +2716,7 @@
       "audio_type": "speech",
       "transcript": "Next up, we copy, we see them.",
       "asr_confidence": 0.87,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 901.02,
@@ -2932,8 +2725,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 902.08,
@@ -2942,8 +2734,7 @@
       "audio_type": "speech",
       "transcript": "Next up, the deployment of pilot parachutes that will pull the main shoots out,",
       "asr_confidence": 0.98,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 906.74,
@@ -2952,8 +2743,7 @@
       "audio_type": "speech",
       "transcript": "time to splash down three minutes and 10 seconds.",
       "asr_confidence": 0.91,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 909.56,
@@ -2962,8 +2752,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 911.42,
@@ -2972,8 +2761,7 @@
       "audio_type": "speech",
       "transcript": "Passing through 10,000 feet, still on droves.",
       "asr_confidence": 0.97,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 915.04,
@@ -2982,8 +2770,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 930.3,
@@ -2992,8 +2779,7 @@
       "audio_type": "speech",
       "transcript": "Main shoot deploy.",
       "asr_confidence": 0.64,
-      "content_category": "Content",
-      "llm_confidence": 0.99
+      "label": "content"
     },
     {
       "start": 931.66,
@@ -3002,8 +2788,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 935.12,
@@ -3012,8 +2797,7 @@
       "audio_type": "speech",
       "transcript": "We're at 5,000 feet.",
       "asr_confidence": 0.92,
-      "content_category": "Content",
-      "llm_confidence": 0.99
+      "label": "content"
     },
     {
       "start": 936.82,
@@ -3022,8 +2806,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 942.18,
@@ -3032,8 +2815,7 @@
       "audio_type": "speech",
       "transcript": "Surgeon recovery beacon has been activated on integrity.",
       "asr_confidence": 0.91,
-      "content_category": "Content",
-      "llm_confidence": 0.99
+      "label": "content"
     },
     {
       "start": 945.56,
@@ -3042,8 +2824,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 948.72,
@@ -3052,8 +2833,7 @@
       "audio_type": "speech",
       "transcript": "And we have three good main shoots.",
       "asr_confidence": 0.8,
-      "content_category": "Content",
-      "llm_confidence": 0.99
+      "label": "content"
     },
     {
       "start": 950.46,
@@ -3062,8 +2842,7 @@
       "audio_type": "speech",
       "transcript": null,
       "asr_confidence": 0.65,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 950.46,
@@ -3072,8 +2851,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 953.1,
@@ -3082,8 +2860,7 @@
       "audio_type": "speech",
       "transcript": "Good three main shoots, good briefing, good descent rate.",
       "asr_confidence": 0.59,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 0.99
+      "label": "transition"
     },
     {
       "start": 957.32,
@@ -3092,8 +2869,7 @@
       "audio_type": "speech",
       "transcript": "We see three good looking parachutes.",
       "asr_confidence": 0.72,
-      "content_category": "Content",
-      "llm_confidence": 0.99
+      "label": "content"
     },
     {
       "start": 959.36,
@@ -3102,8 +2878,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 967.9,
@@ -3112,8 +2887,7 @@
       "audio_type": "speech",
       "transcript": "Integrity about to complete a journey spanning 694,481 miles from its launch",
       "asr_confidence": 0.93,
-      "content_category": "Content",
-      "llm_confidence": 0.99
+      "label": "content"
     },
     {
       "start": 975.62,
@@ -3122,8 +2896,7 @@
       "audio_type": "speech",
       "transcript": "from the Kennedy Space Center back on April 1st and a trip around the moon.",
       "asr_confidence": 0.9,
-      "content_category": "Content",
-      "llm_confidence": 0.99
+      "label": "content"
     },
     {
       "start": 980.22,
@@ -3132,8 +2905,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1014.0,
@@ -3142,8 +2914,7 @@
       "audio_type": "speech",
       "transcript": "Passing through 1,000 feet.",
       "asr_confidence": 0.83,
-      "content_category": "Content",
-      "llm_confidence": 0.99
+      "label": "content"
     },
     {
       "start": 1016.0,
@@ -3152,8 +2923,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1047.96,
@@ -3162,8 +2932,7 @@
       "audio_type": "speech",
       "transcript": "Passing through 10,000 feet.",
       "asr_confidence": 0.06,
-      "content_category": "Content",
-      "llm_confidence": 0.99
+      "label": "content"
     },
     {
       "start": 1055.26,
@@ -3172,8 +2941,7 @@
       "audio_type": "speech",
       "transcript": "Houston, tragedy, splash down sending post landing command now.",
       "asr_confidence": 0.44,
-      "content_category": "Content",
-      "llm_confidence": 0.99
+      "label": "content"
     },
     {
       "start": 1059.68,
@@ -3182,8 +2950,7 @@
       "audio_type": "speech",
       "transcript": "Splash down confirmed.",
       "asr_confidence": 0.81,
-      "content_category": "Content",
-      "llm_confidence": 0.99
+      "label": "content"
     },
     {
       "start": 1061.4,
@@ -3192,8 +2959,7 @@
       "audio_type": "speech",
       "transcript": "Copy splash down, waiting on VLDR.",
       "asr_confidence": 0.81,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1064.1,
@@ -3202,8 +2968,7 @@
       "audio_type": "speech",
       "transcript": "Splash down confirmed at 707 PM Central Time, 507 PM Pacific Time.",
       "asr_confidence": 0.77,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1069.62,
@@ -3212,8 +2977,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1070.86,
@@ -3222,8 +2986,7 @@
       "audio_type": "speech",
       "transcript": "From the pages of Jules Verne to a modern day mission to the moon,",
       "asr_confidence": 0.89,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1075.38,
@@ -3232,8 +2995,7 @@
       "audio_type": "speech",
       "transcript": "a new chapter of the exploration of our celestial neighbor is complete.",
       "asr_confidence": 0.96,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1079.56,
@@ -3242,8 +3004,7 @@
       "audio_type": "speech",
       "transcript": "Integrity's astronauts back on Earth.",
       "asr_confidence": 0.74,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1082.16,
@@ -3252,8 +3013,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1083.56,
@@ -3262,8 +3022,7 @@
       "audio_type": "speech",
       "transcript": "Perfect communications established.",
       "asr_confidence": 0.93,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1086.36,
@@ -3272,8 +3031,7 @@
       "audio_type": "speech",
       "transcript": "We are stable one for green crew members.",
       "asr_confidence": 0.58,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1090.7,
@@ -3282,8 +3040,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1093.12,
@@ -3292,8 +3049,7 @@
       "audio_type": "speech",
       "transcript": "Houston copies all.",
       "asr_confidence": 0.64,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1094.42,
@@ -3302,8 +3058,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1095.62,
@@ -3312,8 +3067,7 @@
       "audio_type": "speech",
       "transcript": "Read Weisman reporting for green crew members that is not their complexion.",
       "asr_confidence": 0.87,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1100.26,
@@ -3322,8 +3076,7 @@
       "audio_type": "speech",
       "transcript": "That is the fact that they're in great condition.",
       "asr_confidence": 0.97,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1103.16,
@@ -3332,8 +3085,7 @@
       "audio_type": "speech",
       "transcript": "That's what that means.",
       "asr_confidence": 1.0,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1104.08,
@@ -3342,8 +3094,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1179.56,
@@ -3352,8 +3103,7 @@
       "audio_type": "speech",
       "transcript": "And as there are mission audio loops in mission control in Houston,",
       "asr_confidence": 0.88,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1183.82,
@@ -3362,8 +3112,7 @@
       "audio_type": "speech",
       "transcript": "there is a mission audio loop here on the ship.",
       "asr_confidence": 0.99,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1187.62,
@@ -3372,8 +3121,7 @@
       "audio_type": "speech",
       "transcript": "And it was just reported out that the side hatch is open.",
       "asr_confidence": 0.99,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1190.56,
@@ -3382,8 +3130,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1192.64,
@@ -3392,8 +3139,7 @@
       "audio_type": "speech",
       "transcript": "Side hatch of integrity is open.",
       "asr_confidence": 0.98,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1195.06,
@@ -3402,8 +3148,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1198.88,
@@ -3412,8 +3157,7 @@
       "audio_type": "speech",
       "transcript": "You're getting these beautiful shots from our aerial assets.",
       "asr_confidence": 0.97,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1203.04,
@@ -3422,8 +3166,7 @@
       "audio_type": "speech",
       "transcript": "The ship itself where I'm on just three days ago,",
       "asr_confidence": 0.74,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1205.52,
@@ -3432,8 +3175,7 @@
       "audio_type": "speech",
       "transcript": "about 30,000 yards away.",
       "asr_confidence": 0.6,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1206.66,
@@ -3442,8 +3184,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1210.94,
@@ -3452,8 +3193,7 @@
       "audio_type": "speech",
       "transcript": "Again, plenty of people on the boat here.",
       "asr_confidence": 0.98,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1214.32,
@@ -3462,8 +3202,7 @@
       "audio_type": "speech",
       "transcript": "Glue to the side closest to where they can see all this action.",
       "asr_confidence": 0.92,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1217.66,
@@ -3472,8 +3211,7 @@
       "audio_type": "speech",
       "transcript": "And again, with just 3,000 yards separating us,",
       "asr_confidence": 0.93,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1220.94,
@@ -3482,8 +3220,7 @@
       "audio_type": "speech",
       "transcript": "great views from the bow here.",
       "asr_confidence": 0.97,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1222.6,
@@ -3492,8 +3229,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1223.78,
@@ -3502,8 +3238,7 @@
       "audio_type": "speech",
       "transcript": "And the initial, you can hear it.",
       "asr_confidence": 0.91,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1226.66,
@@ -3512,8 +3247,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1244.02,
@@ -3522,8 +3256,7 @@
       "audio_type": "speech",
       "transcript": "Congratulations.",
       "asr_confidence": 0.0,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1245.5,
@@ -3532,8 +3265,7 @@
       "audio_type": "speech",
       "transcript": "The first crew member is out of integrity.",
       "asr_confidence": 0.75,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1248.7,
@@ -3542,8 +3274,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1261.64,
@@ -3552,8 +3283,7 @@
       "audio_type": "speech",
       "transcript": "Look at the power of those blades.",
       "asr_confidence": 0.97,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1264.02,
@@ -3562,8 +3292,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1266.14,
@@ -3572,8 +3301,7 @@
       "audio_type": "speech",
       "transcript": "Throwing water out at the center there.",
       "asr_confidence": 0.81,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1269.58,
@@ -3582,8 +3310,7 @@
       "audio_type": "speech",
       "transcript": "The front porch.",
       "asr_confidence": 0.88,
-      "content_category": "Content",
-      "llm_confidence": 0.9
+      "label": "content"
     },
     {
       "start": 1270.4,
@@ -3592,8 +3319,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1272.06,
@@ -3602,8 +3328,7 @@
       "audio_type": "speech",
       "transcript": "With now three astronauts and the recovery specialists.",
       "asr_confidence": 0.87,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1276.08,
@@ -3612,8 +3337,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1280.06,
@@ -3622,8 +3346,7 @@
       "audio_type": "speech",
       "transcript": "Again, crews already outfitted with a harness vest.",
       "asr_confidence": 0.83,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1283.84,
@@ -3632,8 +3355,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1287.64,
@@ -3642,8 +3364,7 @@
       "audio_type": "speech",
       "transcript": "And here we go.",
       "asr_confidence": 0.94,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1289.84,
@@ -3652,8 +3373,7 @@
       "audio_type": "speech",
       "transcript": "Second astronaut.",
       "asr_confidence": 0.97,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1290.58,
@@ -3662,8 +3382,7 @@
       "audio_type": "speech",
       "transcript": "Now off the front porch, getting hoisted into the second helicopter.",
       "asr_confidence": 0.91,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1294.76,
@@ -3672,8 +3391,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1314.68,
@@ -3682,8 +3400,7 @@
       "audio_type": "speech",
       "transcript": "Oh, there we see Christina there, also smiling.",
       "asr_confidence": 0.92,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1317.82,
@@ -3692,8 +3409,7 @@
       "audio_type": "speech",
       "transcript": "Finally peering out waving at the cameras.",
       "asr_confidence": 0.74,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1321.12,
@@ -3702,8 +3418,7 @@
       "audio_type": "speech",
       "transcript": "Hello to you too, Christina, yes.",
       "asr_confidence": 0.86,
-      "content_category": "Content",
-      "llm_confidence": 1.0
+      "label": "content"
     },
     {
       "start": 1322.7,
@@ -3712,8 +3427,7 @@
       "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Dead Air/Filler",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1324.46,
@@ -3722,8 +3436,7 @@
       "audio_type": "speech",
       "transcript": "Welcome back. Welcome, welcome home.",
       "asr_confidence": 0.97,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 1326.58,
@@ -3732,8 +3445,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1329.52,
@@ -3742,8 +3454,7 @@
       "audio_type": "speech",
       "transcript": "A pause from the group there on the flight deck.",
       "asr_confidence": 0.88,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 1332.68,
@@ -3752,8 +3463,7 @@
       "audio_type": "speech",
       "transcript": "I'm sure as well as on the level just above them packed with people.",
       "asr_confidence": 0.93,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 1340.6,
@@ -3762,8 +3472,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     },
     {
       "start": 1344.16,
@@ -3772,8 +3481,7 @@
       "audio_type": "speech",
       "transcript": "Breathe looking good as he takes his steps towards the medical bay.",
       "asr_confidence": 0.89,
-      "content_category": "Content",
-      "llm_confidence": 0.95
+      "label": "content"
     },
     {
       "start": 1348.32,
@@ -3782,8 +3490,7 @@
       "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
-      "content_category": "Transition/Intermission",
-      "llm_confidence": 1.0
+      "label": "transition"
     }
   ]
 }

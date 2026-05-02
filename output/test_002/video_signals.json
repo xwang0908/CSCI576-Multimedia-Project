@@ -8,7 +8,7 @@
       "visual_type": "static",
       "motion_level": "low",
       "confidence": 0.814,
-      "label": "filler"
+      "label": "transition"
     },
     {
       "start": 20.105,
@@ -32,7 +32,7 @@
       "visual_type": "dynamic",
       "motion_level": "medium",
       "confidence": 0.72,
-      "label": "recap"
+      "label": "content"
     },
     {
       "start": 300.721,
@@ -40,7 +40,7 @@
       "visual_type": "dynamic",
       "motion_level": "high",
       "confidence": 0.68,
-      "label": "recap"
+      "label": "content"
     },
     {
       "start": 303.004,
@@ -48,7 +48,7 @@
       "visual_type": "dynamic",
       "motion_level": "high",
       "confidence": 0.824,
-      "label": "recap"
+      "label": "content"
     },
     {
       "start": 331.458,
@@ -56,7 +56,7 @@
       "visual_type": "static",
       "motion_level": "low",
       "confidence": 0.686,
-      "label": "filler"
+      "label": "transition"
     },
     {
       "start": 528.281,
@@ -64,7 +64,7 @@
       "visual_type": "dynamic",
       "motion_level": "medium",
       "confidence": 0.691,
-      "label": "recap"
+      "label": "content"
     },
     {
       "start": 698.9,
@@ -72,7 +72,7 @@
       "visual_type": "dynamic",
       "motion_level": "high",
       "confidence": 0.77,
-      "label": "filler"
+      "label": "transition"
     },
     {
       "start": 709.634,
@@ -88,7 +88,7 @@
       "visual_type": "dynamic",
       "motion_level": "high",
       "confidence": 0.948,
-      "label": "recap"
+      "label": "content"
     },
     {
       "start": 1158.211,
@@ -96,7 +96,7 @@
       "visual_type": "dynamic",
       "motion_level": "high",
       "confidence": 0.757,
-      "label": "filler"
+      "label": "transition"
     },
     {
       "start": 1161.789,
@@ -104,7 +104,7 @@
       "visual_type": "dynamic",
       "motion_level": "high",
       "confidence": 0.95,
-      "label": "recap"
+      "label": "content"
     },
     {
       "start": 1165.128,
@@ -112,7 +112,7 @@
       "visual_type": "dynamic",
       "motion_level": "high",
       "confidence": 0.861,
-      "label": "recap"
+      "label": "content"
     },
     {
       "start": 1171.262,
@@ -120,7 +120,7 @@
       "visual_type": "static",
       "motion_level": "low",
       "confidence": 0.702,
-      "label": "advertisement"
+      "label": "ads"
     },
     {
       "start": 1185.847,
@@ -128,7 +128,7 @@
       "visual_type": "static",
       "motion_level": "low",
       "confidence": 0.544,
-      "label": "filler"
+      "label": "transition"
     },
     {
       "start": 1191.64,
@@ -136,7 +136,7 @@
       "visual_type": "dynamic",
       "motion_level": "medium",
       "confidence": 0.723,
-      "label": "filler"
+      "label": "transition"
     }
   ]
 }
