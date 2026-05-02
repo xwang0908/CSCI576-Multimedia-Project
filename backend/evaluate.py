@@ -34,21 +34,24 @@ def evaluate(name):
         for a in gt["inserted_ads"]
     ]
     gt_dur = gt["output_duration_seconds"]
-    nc_intervals = [
-        (s["start"], s["end"]) for s in pred["segments"] if s["type"] == "non_content"
+    # GT only labels ads — compare strictly against predictions whose
+    # subtype is "ad". Other non_content subtypes (intro/outro/transition)
+    # are out of scope and intentionally ignored.
+    ad_intervals = [
+        (s["start"], s["end"]) for s in pred["segments"] if s.get("subtype") == "ad"
     ]
     pred_dur = pred["duration_seconds"]
     total = int(min(gt_dur, pred_dur))
 
     tp = fp = fn = tn = 0
     for t in range(total):
-        is_ad = in_intervals(t + 0.5, gt_ads)
-        is_nc = in_intervals(t + 0.5, nc_intervals)
-        if is_ad and is_nc:
+        is_ad_gt = in_intervals(t + 0.5, gt_ads)
+        is_ad_pred = in_intervals(t + 0.5, ad_intervals)
+        if is_ad_gt and is_ad_pred:
             tp += 1
-        elif not is_ad and is_nc:
+        elif not is_ad_gt and is_ad_pred:
             fp += 1
-        elif is_ad and not is_nc:
+        elif is_ad_gt and not is_ad_pred:
             fn += 1
         else:
             tn += 1
@@ -60,7 +63,7 @@ def evaluate(name):
 
     per_ad = []
     for gs, ge in gt_ads:
-        overlap = sum(max(0, min(ge, pe) - max(gs, ps)) for ps, pe in nc_intervals)
+        overlap = sum(max(0, min(ge, pe) - max(gs, ps)) for ps, pe in ad_intervals)
         per_ad.append({
             "start": gs, "end": ge, "duration": ge - gs,
             "overlap": overlap, "recall_pct": overlap / (ge - gs) * 100 if ge > gs else 0,
@@ -71,8 +74,8 @@ def evaluate(name):
         "duration": pred_dur,
         "n_ads_gt": len(gt_ads),
         "n_segments": len(pred["segments"]),
-        "n_non_content": len(nc_intervals),
-        "non_content_total": sum(e - s for s, e in nc_intervals),
+        "n_ads_pred": len(ad_intervals),
+        "ads_total_pred": sum(e - s for s, e in ad_intervals),
         "ad_total_gt": gt["total_ads_duration_seconds"],
         "tp": tp, "fp": fp, "fn": fn, "tn": tn,
         "accuracy": accuracy, "precision": precision, "recall": recall, "f1": f1,
@@ -81,8 +84,8 @@ def evaluate(name):
 
 
 def print_report(r):
-    print(f"\n=== {r['name']} (duration {r['duration']:.0f}s, {r['n_ads_gt']} ads) ===")
-    print(f"  Final segments: {r['n_segments']} ({r['n_non_content']} non_content, {r['non_content_total']:.1f}s)")
+    print(f"\n=== {r['name']} (duration {r['duration']:.0f}s, {r['n_ads_gt']} ads in GT) ===")
+    print(f"  Final segments: {r['n_segments']} ({r['n_ads_pred']} predicted as ads, {r['ads_total_pred']:.1f}s)")
     print(f"  Accuracy:  {r['accuracy']*100:5.1f}%   Precision: {r['precision']*100:5.1f}%")
     print(f"  Recall:    {r['recall']*100:5.1f}%   F1:        {r['f1']*100:5.1f}%")
     for i, ad in enumerate(r["per_ad"]):
