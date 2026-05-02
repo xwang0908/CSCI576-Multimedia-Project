@@ -292,7 +292,7 @@ def merge_segments(segments):
         prev = merged[-1]
 
         same_type = seg["visual_type"] == prev["visual_type"]
-        same_label = seg["semantic_label"] == prev["semantic_label"]
+        same_label = seg["label"] == prev["label"]
 
 
 
@@ -421,7 +421,7 @@ def main():
         segments.append({
             "start": round(s, 3),
             "end": round(e, 3),
-            "semantic_label": semantic_label,
+            "label": semantic_label,
             "visual_type": visual_type,
             "motion_level": motion_level,
             "has_face": has_face,
@@ -442,9 +442,9 @@ def main():
         for s, e in ad_segments:
             # classify as ads
             if not (seg["end"] < s or seg["start"] > e):
-                seg["semantic_label"] = "ads"
+                seg["label"] = "ads"
     for i, seg in enumerate(segments):
-        print(f"[SEG {i}] {seg['start']:.2f}-{seg['end']:.2f} | {seg['semantic_label']} | {seg['visual_type']}")
+        print(f"[SEG {i}] {seg['start']:.2f}-{seg['end']:.2f} | {seg['label']} | {seg['visual_type']}")
 
     # Json output
     output = {
