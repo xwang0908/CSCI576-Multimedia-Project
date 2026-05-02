@@ -25,3 +25,9 @@ backend/migrate_v2_schema.py
 
 # --- Schema migration backups (per-video, regenerable) ---
 output/**/*.v1.bak.json
+
+# --- Output (generated results, do not track) ---
+output/
+
+# --- Model weights (large, do not track) ---
+TransNetV2/inference/transnetv2-weights/
