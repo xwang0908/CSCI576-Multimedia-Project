@@ -87,7 +87,7 @@ body {
 
 .controls {
   display: grid;
-  grid-template-columns: auto auto 1fr auto auto auto;
+  grid-template-columns: auto auto minmax(120px, 1fr) auto auto auto;
   gap: 12px;
   align-items: center;
   padding: 16px 0;
@@ -137,6 +137,11 @@ body {
   cursor: pointer;
 }
 
+.action-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
 .green-btn {
   background: #1e9f45;
 }
@@ -147,6 +152,10 @@ body {
 
 .red-btn {
   background: #cb2f2f;
+}
+
+.red-btn:disabled {
+  background: #6b7280;
 }
 
 .segment-bar {
@@ -197,7 +206,7 @@ body {
 }
 
 .segment-non-content {
-  background: #d64545;
+  background: #f59e0b;
 }
 
 .legend {
@@ -241,6 +250,10 @@ body {
   background: #6b7280;
 }
 
+.legend-non-content {
+  background: #f59e0b;
+}
+
 .sidebar h2 {
   margin-top: 0;
   margin-bottom: 14px;
@@ -251,6 +264,9 @@ body {
   display: flex;
   flex-direction: column;
   gap: 12px;
+  max-height: calc(100vh - 120px);
+  overflow-y: auto;
+  padding-right: 4px;
 }
 
 .segment-item {
@@ -300,9 +316,20 @@ body {
   font-size: 13px;
 }
 
+.segment-confidence {
+  color: #aab7c9;
+  font-size: 12px;
+}
+
+.skip-note {
+  color: #ffd166;
+  font-weight: 700;
+}
+
 .segment-time {
   font-size: 12px;
   color: #cad4e2;
+  white-space: nowrap;
 }
 
 .jump-btn {
@@ -337,5 +364,9 @@ body {
 
   .segment-actions {
     flex-direction: column;
+  }
+
+  .segment-list {
+    max-height: none;
   }
 }

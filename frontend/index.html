@@ -6,6 +6,7 @@
   <title>Segmented Video Player</title>
   <link rel="stylesheet" href="style.css" />
 </head>
+
 <body>
   <main class="page">
     <section class="app">
@@ -24,22 +25,18 @@
             poster="background.jpg"
             preload="metadata"
           >
-            <source src="test_001.mp4" type="video/mp4" />
-            <track
-              kind="captions"
-              src="captions.vtt"
-              srclang="en"
-              label="English"
-              default
-            />
             Your browser does not support HTML video.
           </video>
 
-          <button class="big-play" id="bigPlay" aria-label="Play video">▶</button>
+          <button class="big-play" id="bigPlay" aria-label="Play video">
+            ▶
+          </button>
         </div>
 
         <div class="controls">
-          <button id="playPause" aria-label="Play or pause">Play</button>
+          <button id="playPause" aria-label="Play or pause">
+            Play
+          </button>
 
           <span id="currentTime">0:00</span>
 
@@ -68,7 +65,9 @@
             />
           </label>
 
-          <button id="fullscreen" aria-label="Enter fullscreen">Fullscreen</button>
+          <button id="fullscreen" aria-label="Enter fullscreen">
+            Fullscreen
+          </button>
         </div>
 
         <section class="segment-section">
@@ -76,6 +75,7 @@
             <button id="playContentOnly" class="action-btn green-btn">
               Play Content Only: Off
             </button>
+
             <button id="skipNonContent" class="action-btn red-btn">
               Skip Non-Content
             </button>
@@ -84,11 +84,35 @@
           <div class="segment-bar" id="segmentBar"></div>
 
           <div class="legend">
-            <span><i class="legend-box legend-content"></i> Content</span>
-            <span><i class="legend-box legend-intro"></i> Intro</span>
-            <span><i class="legend-box legend-ad"></i> Ad</span>
-            <span><i class="legend-box legend-promo"></i> Promo</span>
-            <span><i class="legend-box legend-outro"></i> Outro</span>
+            <span>
+              <i class="legend-box legend-content"></i>
+              Content
+            </span>
+
+            <span>
+              <i class="legend-box legend-intro"></i>
+              Intro
+            </span>
+
+            <span>
+              <i class="legend-box legend-ad"></i>
+              Ad
+            </span>
+
+            <span>
+              <i class="legend-box legend-promo"></i>
+              Promo
+            </span>
+
+            <span>
+              <i class="legend-box legend-outro"></i>
+              Outro
+            </span>
+
+            <span>
+              <i class="legend-box legend-non-content"></i>
+              Transition / Other
+            </span>
           </div>
         </section>
       </div>
