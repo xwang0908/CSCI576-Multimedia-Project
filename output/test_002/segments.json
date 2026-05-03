@@ -1,41 +1,32 @@
 {
   "videoTitle": "test_002",
   "videoFilename": "test_002.mp4",
-  "duration_seconds": 1350.502,
-  "generated_at": "2026-05-01T17:50:01.740727",
+  "duration_seconds": 1379.296,
+  "generated_at": "2026-05-03T14:46:08.827320",
   "segments": [
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 0.0,
-      "end": 24.1,
-      "subtype": "main",
-      "confidence": 0.5014518359751196,
-      "skip_recommended": false
-    },
     {
       "label": "Intro",
       "type": "non_content",
-      "start": 24.1,
-      "end": 69.88,
+      "start": 0.0,
+      "end": 13.24,
       "subtype": "intro",
-      "confidence": 0.5014518359751196,
+      "confidence": 0.7074626865671643,
       "skip_recommended": true
     },
     {
       "label": "Main Content",
       "type": "content",
-      "start": 69.88,
-      "end": 75.82,
+      "start": 13.24,
+      "end": 25.5,
       "subtype": "main",
-      "confidence": 0.5905965675638927,
+      "confidence": 0.7501,
       "skip_recommended": false
     },
     {
       "label": "Intro",
       "type": "non_content",
-      "start": 75.82,
-      "end": 134.08,
+      "start": 25.5,
+      "end": 34.72,
       "subtype": "intro",
       "confidence": 0.85,
       "skip_recommended": true
@@ -43,26 +34,89 @@
     {
       "label": "Main Content",
       "type": "content",
-      "start": 134.08,
-      "end": 270.5,
+      "start": 34.72,
+      "end": 42.36,
       "subtype": "main",
-      "confidence": 0.5064021469678466,
+      "confidence": 0.745,
       "skip_recommended": false
     },
     {
-      "label": "Ad Break",
+      "label": "Intro",
       "type": "non_content",
-      "start": 270.5,
-      "end": 286.5,
-      "subtype": "ad",
-      "confidence": 0.8,
+      "start": 42.36,
+      "end": 45.96,
+      "subtype": "intro",
+      "confidence": 0.85,
       "skip_recommended": true
     },
     {
       "label": "Main Content",
       "type": "content",
-      "start": 286.5,
-      "end": 303.62,
+      "start": 45.96,
+      "end": 53.54,
+      "subtype": "main",
+      "confidence": 0.8264712222461738,
+      "skip_recommended": false
+    },
+    {
+      "label": "Intro",
+      "type": "non_content",
+      "start": 53.54,
+      "end": 56.76,
+      "subtype": "intro",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 56.76,
+      "end": 59.98,
+      "subtype": "main",
+      "confidence": 0.745,
+      "skip_recommended": false
+    },
+    {
+      "label": "Intro",
+      "type": "non_content",
+      "start": 59.98,
+      "end": 66.48,
+      "subtype": "intro",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 66.48,
+      "end": 76.84,
+      "subtype": "main",
+      "confidence": 0.78538600267613,
+      "skip_recommended": false
+    },
+    {
+      "label": "Intro",
+      "type": "non_content",
+      "start": 76.84,
+      "end": 134.66,
+      "subtype": "intro",
+      "confidence": 0.85,
+      "skip_recommended": true
+    },
+    {
+      "label": "Ad Break",
+      "type": "non_content",
+      "start": 134.66,
+      "end": 139.82,
+      "subtype": "ad",
+      "confidence": 0.7980480000000001,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 139.82,
+      "end": 270.48,
       "subtype": "main",
       "confidence": 0.55,
       "skip_recommended": false
@@ -70,8 +124,8 @@
     {
       "label": "Ad Break",
       "type": "non_content",
-      "start": 303.62,
-      "end": 317.24,
+      "start": 270.48,
+      "end": 276.425,
       "subtype": "ad",
       "confidence": 0.8,
       "skip_recommended": true
@@ -79,7 +133,97 @@
     {
       "label": "Main Content",
       "type": "content",
-      "start": 317.24,
+      "start": 276.425,
+      "end": 276.459,
+      "subtype": "main",
+      "confidence": 0.8,
+      "skip_recommended": false
+    },
+    {
+      "label": "Ad Break",
+      "type": "non_content",
+      "start": 276.459,
+      "end": 280.923,
+      "subtype": "ad",
+      "confidence": 0.8,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 280.923,
+      "end": 282.218,
+      "subtype": "main",
+      "confidence": 0.8,
+      "skip_recommended": false
+    },
+    {
+      "label": "Ad Break",
+      "type": "non_content",
+      "start": 282.218,
+      "end": 284.399,
+      "subtype": "ad",
+      "confidence": 0.8,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 284.399,
+      "end": 284.433,
+      "subtype": "main",
+      "confidence": 0.8,
+      "skip_recommended": false
+    },
+    {
+      "label": "Ad Break",
+      "type": "non_content",
+      "start": 284.433,
+      "end": 286.44,
+      "subtype": "ad",
+      "confidence": 0.8,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 286.44,
+      "end": 303.64,
+      "subtype": "main",
+      "confidence": 0.55,
+      "skip_recommended": false
+    },
+    {
+      "label": "Ad Break",
+      "type": "non_content",
+      "start": 303.64,
+      "end": 313.466,
+      "subtype": "ad",
+      "confidence": 0.8,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 313.466,
+      "end": 313.5,
+      "subtype": "main",
+      "confidence": 0.8,
+      "skip_recommended": false
+    },
+    {
+      "label": "Ad Break",
+      "type": "non_content",
+      "start": 313.5,
+      "end": 316.771,
+      "subtype": "ad",
+      "confidence": 0.8,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 316.771,
       "end": 679.6,
       "subtype": "main",
       "confidence": 0.55,
@@ -107,7 +251,7 @@
       "label": "Ad Break",
       "type": "non_content",
       "start": 698.9,
-      "end": 701.96,
+      "end": 701.88,
       "subtype": "ad",
       "confidence": 0.8,
       "skip_recommended": true
@@ -115,26 +259,8 @@
     {
       "label": "Main Content",
       "type": "content",
-      "start": 701.96,
-      "end": 953.1,
-      "subtype": "main",
-      "confidence": 0.55,
-      "skip_recommended": false
-    },
-    {
-      "label": "Transition",
-      "type": "non_content",
-      "start": 953.1,
-      "end": 957.32,
-      "subtype": "transition",
-      "confidence": 0.5946490745831042,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 957.32,
-      "end": 1104.08,
+      "start": 701.88,
+      "end": 956.68,
       "subtype": "main",
       "confidence": 0.55,
       "skip_recommended": false
@@ -142,8 +268,8 @@
     {
       "label": "Ad Break",
       "type": "non_content",
-      "start": 1104.08,
-      "end": 1158.211,
+      "start": 956.68,
+      "end": 968.02,
       "subtype": "ad",
       "confidence": 0.8,
       "skip_recommended": true
@@ -151,8 +277,62 @@
     {
       "label": "Main Content",
       "type": "content",
-      "start": 1158.211,
-      "end": 1159.642,
+      "start": 968.02,
+      "end": 1066.38,
+      "subtype": "main",
+      "confidence": 0.55,
+      "skip_recommended": false
+    },
+    {
+      "label": "Ad Break",
+      "type": "non_content",
+      "start": 1066.38,
+      "end": 1076.58,
+      "subtype": "ad",
+      "confidence": 0.8,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1076.58,
+      "end": 1104.09,
+      "subtype": "main",
+      "confidence": 0.55,
+      "skip_recommended": false
+    },
+    {
+      "label": "Ad Break",
+      "type": "non_content",
+      "start": 1104.09,
+      "end": 1138.992,
+      "subtype": "ad",
+      "confidence": 0.8,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1138.992,
+      "end": 1168.979,
+      "subtype": "main",
+      "confidence": 0.55,
+      "skip_recommended": false
+    },
+    {
+      "label": "Ad Break",
+      "type": "non_content",
+      "start": 1168.979,
+      "end": 1174.261,
+      "subtype": "ad",
+      "confidence": 0.8,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1174.261,
+      "end": 1176.101,
       "subtype": "main",
       "confidence": 0.8,
       "skip_recommended": false
@@ -160,8 +340,8 @@
     {
       "label": "Ad Break",
       "type": "non_content",
-      "start": 1159.642,
-      "end": 1164.072,
+      "start": 1176.101,
+      "end": 1179.49,
       "subtype": "ad",
       "confidence": 0.8,
       "skip_recommended": true
@@ -169,17 +349,17 @@
     {
       "label": "Main Content",
       "type": "content",
-      "start": 1164.072,
-      "end": 1165.128,
+      "start": 1179.49,
+      "end": 1229.65,
       "subtype": "main",
-      "confidence": 0.8,
+      "confidence": 0.55,
       "skip_recommended": false
     },
     {
       "label": "Ad Break",
       "type": "non_content",
-      "start": 1165.128,
-      "end": 1179.56,
+      "start": 1229.65,
+      "end": 1244.23,
       "subtype": "ad",
       "confidence": 0.8,
       "skip_recommended": true
@@ -187,8 +367,8 @@
     {
       "label": "Main Content",
       "type": "content",
-      "start": 1179.56,
-      "end": 1226.66,
+      "start": 1244.23,
+      "end": 1275.95,
       "subtype": "main",
       "confidence": 0.55,
       "skip_recommended": false
@@ -196,8 +376,8 @@
     {
       "label": "Outro",
       "type": "non_content",
-      "start": 1226.66,
-      "end": 1244.02,
+      "start": 1275.95,
+      "end": 1280.09,
       "subtype": "outro",
       "confidence": 0.8,
       "skip_recommended": true
@@ -205,17 +385,17 @@
     {
       "label": "Main Content",
       "type": "content",
-      "start": 1244.02,
-      "end": 1276.08,
+      "start": 1280.09,
+      "end": 1283.87,
       "subtype": "main",
-      "confidence": 0.55,
+      "confidence": 0.8459422283356259,
       "skip_recommended": false
     },
     {
       "label": "Outro",
       "type": "non_content",
-      "start": 1276.08,
-      "end": 1280.06,
+      "start": 1283.87,
+      "end": 1287.67,
       "subtype": "outro",
       "confidence": 0.8,
       "skip_recommended": true
@@ -223,17 +403,17 @@
     {
       "label": "Main Content",
       "type": "content",
-      "start": 1280.06,
-      "end": 1283.84,
+      "start": 1287.67,
+      "end": 1294.69,
       "subtype": "main",
-      "confidence": 0.7345710577036542,
+      "confidence": 0.806726993341301,
       "skip_recommended": false
     },
     {
       "label": "Outro",
       "type": "non_content",
-      "start": 1283.84,
-      "end": 1287.64,
+      "start": 1294.69,
+      "end": 1311.451,
       "subtype": "outro",
       "confidence": 0.8,
       "skip_recommended": true
@@ -241,17 +421,17 @@
     {
       "label": "Main Content",
       "type": "content",
-      "start": 1287.64,
-      "end": 1294.76,
+      "start": 1311.451,
+      "end": 1311.485,
       "subtype": "main",
-      "confidence": 0.7521213679609153,
+      "confidence": 0.8,
       "skip_recommended": false
     },
     {
       "label": "Outro",
       "type": "non_content",
-      "start": 1294.76,
-      "end": 1314.68,
+      "start": 1311.485,
+      "end": 1314.65,
       "subtype": "outro",
       "confidence": 0.8,
       "skip_recommended": true
@@ -259,17 +439,17 @@
     {
       "label": "Main Content",
       "type": "content",
-      "start": 1314.68,
-      "end": 1340.6,
+      "start": 1314.65,
+      "end": 1326.57,
       "subtype": "main",
-      "confidence": 0.7115992819899136,
+      "confidence": 0.8,
       "skip_recommended": false
     },
     {
       "label": "Outro",
       "type": "non_content",
-      "start": 1340.6,
-      "end": 1344.16,
+      "start": 1326.57,
+      "end": 1329.59,
       "subtype": "outro",
       "confidence": 0.8,
       "skip_recommended": true
@@ -277,16 +457,16 @@
     {
       "label": "Main Content",
       "type": "content",
-      "start": 1344.16,
+      "start": 1329.59,
       "end": 1379.262,
       "subtype": "main",
-      "confidence": 0.7000622277535781,
+      "confidence": 0.8,
       "skip_recommended": false
     }
   ],
   "summary": {
-    "content_duration": 1099.28,
-    "non_content_duration": 279.98,
-    "content_percentage": 79.7
+    "content_duration": 1121.82,
+    "non_content_duration": 257.44,
+    "content_percentage": 81.3
   }
 }

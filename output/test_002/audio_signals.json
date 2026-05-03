@@ -1,856 +1,856 @@
 {
   "video_filename": "test_002.mp4",
   "duration_seconds": 1350.64,
-  "global_summary": "The video transcript describes the successful launch and return of Artemis 2, showcasing its journey from Earth to the Moon and back, including deployment of parachutes for splashdown, and the welcome home of astronauts aboard the spacecraft Integrity.",
+  "global_summary": "This video transcript covers the launch and early journey of the Artemis 2 mission, including the liftoff, initial flight phases, and the safe return of astronauts to Earth, with detailed descriptions of their experiences and the operations in Mission Control.",
   "video_chapters": [
     {
-      "label": "Content",
+      "label": "intro",
       "start": 0.0,
       "end": 13.24
     },
     {
-      "label": "Transition/Intermission",
+      "label": "transition",
       "start": 13.24,
       "end": 15.6
     },
     {
-      "label": "Content",
+      "label": "content",
       "start": 15.6,
       "end": 22.7
     },
     {
-      "label": "Transition/Intermission",
+      "label": "transition",
       "start": 22.7,
       "end": 24.1
     },
     {
-      "label": "Content",
+      "label": "content",
       "start": 24.1,
       "end": 25.5
     },
     {
-      "label": "Transition/Intermission",
+      "label": "transition",
       "start": 25.5,
-      "end": 35.98
+      "end": 35.0
     },
     {
-      "label": "Content",
-      "start": 35.98,
-      "end": 38.2
+      "label": "content",
+      "start": 35.0,
+      "end": 42.36
     },
     {
-      "label": "Transition/Intermission",
-      "start": 38.2,
-      "end": 66.46
+      "label": "transition",
+      "start": 42.36,
+      "end": 45.96
     },
     {
-      "label": "Content",
-      "start": 66.46,
+      "label": "content",
+      "start": 45.96,
+      "end": 50.06
+    },
+    {
+      "label": "transition",
+      "start": 50.06,
+      "end": 52.14
+    },
+    {
+      "label": "content",
+      "start": 52.14,
+      "end": 53.54
+    },
+    {
+      "label": "transition",
+      "start": 53.54,
+      "end": 56.76
+    },
+    {
+      "label": "content",
+      "start": 56.76,
+      "end": 59.98
+    },
+    {
+      "label": "transition",
+      "start": 34.72,
+      "end": 66.48
+    },
+    {
+      "label": "content",
+      "start": 66.48,
       "end": 69.88
     },
     {
-      "label": "Transition/Intermission",
+      "label": "transition",
       "start": 69.88,
-      "end": 71.3
+      "end": 71.32
     },
     {
-      "label": "Content",
-      "start": 71.3,
-      "end": 73.86
+      "label": "content",
+      "start": 71.32,
+      "end": 76.84
     },
     {
-      "label": "Transition/Intermission",
-      "start": 73.86,
-      "end": 74.86
+      "label": "transition",
+      "start": 76.84,
+      "end": 134.66
     },
     {
-      "label": "Content",
-      "start": 74.86,
-      "end": 75.82
+      "label": "ads",
+      "start": 134.66,
+      "end": 139.82
     },
     {
-      "label": "Transition/Intermission",
-      "start": 75.82,
-      "end": 134.08
+      "label": "transition",
+      "start": 139.82,
+      "end": 141.44
     },
     {
-      "label": "Content",
-      "start": 134.08,
-      "end": 139.7
+      "label": "content",
+      "start": 141.44,
+      "end": 142.74
     },
     {
-      "label": "Transition/Intermission",
-      "start": 139.7,
-      "end": 141.18
+      "label": "transition",
+      "start": 142.74,
+      "end": 146.66
     },
     {
-      "label": "Content",
-      "start": 141.18,
-      "end": 149.14
+      "label": "content",
+      "start": 146.66,
+      "end": 149.1
     },
     {
-      "label": "Transition/Intermission",
-      "start": 149.14,
-      "end": 150.68
+      "label": "transition",
+      "start": 149.1,
+      "end": 150.58
     },
     {
-      "label": "Content",
-      "start": 150.68,
-      "end": 151.9
+      "label": "content",
+      "start": 150.58,
+      "end": 151.94
     },
     {
-      "label": "Transition/Intermission",
-      "start": 151.9,
-      "end": 156.0
+      "label": "transition",
+      "start": 151.94,
+      "end": 155.92
     },
     {
-      "label": "Content",
-      "start": 156.0,
-      "end": 164.64
+      "label": "content",
+      "start": 155.92,
+      "end": 159.68
     },
     {
-      "label": "Transition/Intermission",
-      "start": 164.64,
-      "end": 166.96
+      "label": "transition",
+      "start": 159.68,
+      "end": 163.84
     },
     {
-      "label": "Content",
-      "start": 166.96,
-      "end": 179.28
+      "label": "content",
+      "start": 163.84,
+      "end": 164.62
     },
     {
-      "label": "Transition/Intermission",
-      "start": 179.28,
-      "end": 180.78
+      "label": "transition",
+      "start": 164.62,
+      "end": 167.06
     },
     {
-      "label": "Content",
-      "start": 180.78,
-      "end": 182.38
-    },
-    {
-      "label": "Transition/Intermission",
-      "start": 182.38,
-      "end": 183.48
-    },
-    {
-      "label": "Content",
-      "start": 183.48,
+      "label": "content",
+      "start": 167.06,
       "end": 210.86
     },
     {
-      "label": "Transition/Intermission",
+      "label": "transition",
       "start": 210.86,
-      "end": 216.4
+      "end": 216.32
     },
     {
-      "label": "Content",
-      "start": 216.4,
-      "end": 266.4
+      "label": "content",
+      "start": 216.32,
+      "end": 266.38
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 266.4,
-      "end": 267.62
+      "label": "transition",
+      "start": 266.38,
+      "end": 267.66
     },
     {
-      "label": "Content",
-      "start": 267.62,
-      "end": 270.5
+      "label": "content",
+      "start": 267.66,
+      "end": 270.48
     },
     {
-      "label": "Transition/Intermission",
-      "start": 270.5,
-      "end": 286.5
+      "label": "transition",
+      "start": 270.48,
+      "end": 286.44
     },
     {
-      "label": "Content",
-      "start": 286.5,
-      "end": 295.84
+      "label": "content",
+      "start": 286.44,
+      "end": 295.82
     },
     {
-      "label": "Transition/Intermission",
-      "start": 295.84,
-      "end": 299.02
+      "label": "transition",
+      "start": 295.82,
+      "end": 299.08
     },
     {
-      "label": "Content",
-      "start": 299.02,
-      "end": 303.62
+      "label": "content",
+      "start": 299.08,
+      "end": 303.64
     },
     {
-      "label": "Transition/Intermission",
-      "start": 303.62,
-      "end": 317.24
+      "label": "transition",
+      "start": 303.64,
+      "end": 317.3
     },
     {
-      "label": "Content",
-      "start": 317.24,
-      "end": 320.18
+      "label": "content",
+      "start": 317.3,
+      "end": 318.86
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 320.18,
-      "end": 320.18
+      "label": "transition",
+      "start": 318.86,
+      "end": 320.0
     },
     {
-      "label": "Content",
-      "start": 320.18,
-      "end": 320.36
+      "label": "content",
+      "start": 320.0,
+      "end": 320.66
     },
     {
-      "label": "Transition/Intermission",
-      "start": 320.36,
-      "end": 325.52
+      "label": "transition",
+      "start": 320.66,
+      "end": 322.18
     },
     {
-      "label": "Content",
-      "start": 325.52,
-      "end": 326.78
+      "label": "content",
+      "start": 322.18,
+      "end": 324.56
     },
     {
-      "label": "Transition/Intermission",
-      "start": 326.78,
-      "end": 327.84
+      "label": "transition",
+      "start": 324.56,
+      "end": 325.98
     },
     {
-      "label": "Content",
-      "start": 327.84,
-      "end": 328.24
+      "label": "content",
+      "start": 326.84,
+      "end": 327.32
     },
     {
-      "label": "Transition/Intermission",
-      "start": 328.24,
-      "end": 330.44
+      "label": "transition",
+      "start": 327.32,
+      "end": 330.34
     },
     {
-      "label": "Content",
-      "start": 330.44,
+      "label": "content",
+      "start": 330.34,
       "end": 336.42
     },
     {
-      "label": "Dead Air/Filler",
+      "label": "transition",
       "start": 336.42,
-      "end": 343.46
+      "end": 343.42
     },
     {
-      "label": "Content",
-      "start": 343.46,
+      "label": "content",
+      "start": 343.42,
       "end": 495.46
     },
     {
-      "label": "Dead Air/Filler",
+      "label": "transition",
       "start": 495.46,
       "end": 517.3
     },
     {
-      "label": "Content",
+      "label": "content",
       "start": 517.3,
       "end": 566.1
     },
     {
-      "label": "Transition/Intermission",
+      "label": "transition",
       "start": 566.1,
       "end": 567.26
     },
     {
-      "label": "Content",
+      "label": "content",
       "start": 567.26,
       "end": 575.38
     },
     {
-      "label": "Dead Air/Filler",
+      "label": "transition",
       "start": 575.38,
       "end": 576.46
     },
     {
-      "label": "Content",
+      "label": "content",
       "start": 576.46,
       "end": 586.34
     },
     {
-      "label": "Dead Air/Filler",
+      "label": "transition",
       "start": 586.34,
       "end": 587.92
     },
     {
-      "label": "Content",
+      "label": "content",
       "start": 587.92,
-      "end": 621.52
-    },
-    {
-      "label": "Transition/Intermission",
-      "start": 621.52,
-      "end": 623.28
-    },
-    {
-      "label": "Content",
-      "start": 623.28,
       "end": 627.26
     },
     {
-      "label": "Dead Air/Filler",
+      "label": "transition",
       "start": 627.26,
-      "end": 630.78
+      "end": 630.8
     },
     {
-      "label": "Content",
-      "start": 630.78,
+      "label": "content",
+      "start": 630.8,
       "end": 641.84
     },
     {
-      "label": "Dead Air/Filler",
+      "label": "transition",
       "start": 641.84,
-      "end": 644.16
+      "end": 644.24
     },
     {
-      "label": "Content",
-      "start": 644.16,
-      "end": 646.18
+      "label": "content",
+      "start": 644.24,
+      "end": 652.18
     },
     {
-      "label": "Transition/Intermission",
-      "start": 646.18,
-      "end": 647.3
-    },
-    {
-      "label": "Content",
-      "start": 647.3,
-      "end": 652.16
-    },
-    {
-      "label": "Dead Air/Filler",
-      "start": 652.16,
+      "label": "transition",
+      "start": 652.18,
       "end": 674.34
     },
     {
-      "label": "Content",
+      "label": "content",
       "start": 674.34,
       "end": 676.62
     },
     {
-      "label": "Dead Air/Filler",
+      "label": "transition",
       "start": 676.62,
       "end": 678.36
     },
     {
-      "label": "Content",
+      "label": "content",
       "start": 678.36,
       "end": 679.6
     },
     {
-      "label": "Transition/Intermission",
+      "label": "transition",
       "start": 679.6,
-      "end": 701.96
+      "end": 701.88
     },
     {
-      "label": "Content",
-      "start": 701.96,
-      "end": 706.18
+      "label": "content",
+      "start": 701.88,
+      "end": 706.28
     },
     {
-      "label": "Transition/Intermission",
-      "start": 706.18,
-      "end": 708.12
+      "label": "transition",
+      "start": 706.28,
+      "end": 708.18
     },
     {
-      "label": "Content",
-      "start": 708.12,
+      "label": "content",
+      "start": 708.18,
       "end": 712.46
     },
     {
-      "label": "Transition/Intermission",
+      "label": "transition",
       "start": 712.46,
-      "end": 713.94
+      "end": 713.9
     },
     {
-      "label": "Content",
-      "start": 713.94,
-      "end": 735.18
+      "label": "content",
+      "start": 713.9,
+      "end": 735.2
     },
     {
-      "label": "Transition/Intermission",
-      "start": 735.18,
+      "label": "transition",
+      "start": 735.2,
       "end": 736.34
     },
     {
-      "label": "Content",
+      "label": "content",
       "start": 736.34,
-      "end": 742.56
+      "end": 742.58
     },
     {
-      "label": "Transition/Intermission",
-      "start": 742.56,
+      "label": "transition",
+      "start": 742.58,
       "end": 743.7
     },
     {
-      "label": "Content",
+      "label": "content",
       "start": 743.7,
       "end": 760.04
     },
     {
-      "label": "Transition/Intermission",
+      "label": "transition",
       "start": 760.04,
-      "end": 764.2
+      "end": 764.16
     },
     {
-      "label": "Content",
-      "start": 764.2,
+      "label": "content",
+      "start": 764.16,
       "end": 771.28
     },
     {
-      "label": "Transition/Intermission",
+      "label": "transition",
       "start": 771.28,
-      "end": 772.36
+      "end": 772.32
     },
     {
-      "label": "Content",
-      "start": 772.36,
-      "end": 785.2
+      "label": "content",
+      "start": 772.32,
+      "end": 785.18
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 785.2,
-      "end": 786.46
+      "label": "transition",
+      "start": 785.18,
+      "end": 786.34
     },
     {
-      "label": "Content",
-      "start": 786.46,
-      "end": 792.92
+      "label": "content",
+      "start": 786.34,
+      "end": 792.9
     },
     {
-      "label": "Transition/Intermission",
-      "start": 792.92,
-      "end": 795.84
+      "label": "transition",
+      "start": 792.9,
+      "end": 795.88
     },
     {
-      "label": "Content",
-      "start": 795.84,
-      "end": 801.48
+      "label": "content",
+      "start": 795.88,
+      "end": 801.5
     },
     {
-      "label": "Transition/Intermission",
-      "start": 801.48,
-      "end": 804.42
+      "label": "transition",
+      "start": 801.5,
+      "end": 804.46
     },
     {
-      "label": "Content",
-      "start": 804.42,
-      "end": 826.02
+      "label": "content",
+      "start": 804.46,
+      "end": 826.04
     },
     {
-      "label": "Transition/Intermission",
-      "start": 826.02,
-      "end": 830.86
+      "label": "transition",
+      "start": 826.04,
+      "end": 830.68
     },
     {
-      "label": "Content",
-      "start": 830.86,
-      "end": 840.46
+      "label": "content",
+      "start": 830.68,
+      "end": 840.44
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 840.46,
-      "end": 842.44
+      "label": "transition",
+      "start": 840.44,
+      "end": 842.82
     },
     {
-      "label": "Content",
-      "start": 842.44,
-      "end": 846.78
+      "label": "content",
+      "start": 842.82,
+      "end": 852.64
     },
     {
-      "label": "Transition/Intermission",
-      "start": 846.78,
-      "end": 848.06
+      "label": "transition",
+      "start": 852.64,
+      "end": 857.08
     },
     {
-      "label": "Content",
-      "start": 848.06,
-      "end": 852.66
+      "label": "content",
+      "start": 857.08,
+      "end": 860.56
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 852.66,
-      "end": 857.04
+      "label": "transition",
+      "start": 860.56,
+      "end": 862.06
     },
     {
-      "label": "Content",
-      "start": 857.04,
-      "end": 860.48
+      "label": "content",
+      "start": 862.06,
+      "end": 864.92
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 860.48,
-      "end": 862.22
+      "label": "transition",
+      "start": 864.92,
+      "end": 867.14
     },
     {
-      "label": "Content",
-      "start": 862.22,
-      "end": 864.94
-    },
-    {
-      "label": "Transition/Intermission",
-      "start": 864.94,
-      "end": 867.32
-    },
-    {
-      "label": "Content",
-      "start": 867.32,
+      "label": "content",
+      "start": 867.14,
       "end": 869.36
     },
     {
-      "label": "Transition/Intermission",
+      "label": "transition",
       "start": 869.36,
       "end": 871.1
     },
     {
-      "label": "Content",
+      "label": "content",
       "start": 871.1,
-      "end": 875.34
+      "end": 875.36
     },
     {
-      "label": "Transition/Intermission",
-      "start": 875.34,
-      "end": 876.7
+      "label": "transition",
+      "start": 875.36,
+      "end": 876.74
     },
     {
-      "label": "Content",
-      "start": 876.7,
-      "end": 878.38
+      "label": "content",
+      "start": 876.74,
+      "end": 878.42
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 878.38,
+      "label": "transition",
+      "start": 878.42,
       "end": 885.5
     },
     {
-      "label": "Content",
+      "label": "content",
       "start": 885.5,
-      "end": 889.7
+      "end": 889.62
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 889.7,
-      "end": 891.2
+      "label": "transition",
+      "start": 889.62,
+      "end": 891.16
     },
     {
-      "label": "Content",
-      "start": 891.2,
-      "end": 893.58
+      "label": "content",
+      "start": 891.16,
+      "end": 893.56
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 893.58,
-      "end": 897.22
+      "label": "transition",
+      "start": 893.56,
+      "end": 896.94
     },
     {
-      "label": "Content",
-      "start": 897.22,
-      "end": 901.02
+      "label": "content",
+      "start": 896.94,
+      "end": 905.88
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 901.02,
-      "end": 902.08
+      "label": "transition",
+      "start": 905.88,
+      "end": 907.1
     },
     {
-      "label": "Content",
-      "start": 902.08,
-      "end": 909.56
+      "label": "content",
+      "start": 907.1,
+      "end": 909.58
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 909.56,
-      "end": 911.42
+      "label": "transition",
+      "start": 909.58,
+      "end": 911.48
     },
     {
-      "label": "Content",
-      "start": 911.42,
-      "end": 915.04
+      "label": "content",
+      "start": 911.48,
+      "end": 914.96
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 915.04,
-      "end": 930.3
+      "label": "transition",
+      "start": 914.96,
+      "end": 930.18
     },
     {
-      "label": "Content",
-      "start": 930.3,
+      "label": "content",
+      "start": 930.18,
       "end": 931.66
     },
     {
-      "label": "Dead Air/Filler",
+      "label": "transition",
       "start": 931.66,
-      "end": 935.12
+      "end": 935.02
     },
     {
-      "label": "Content",
-      "start": 935.12,
-      "end": 936.82
+      "label": "content",
+      "start": 935.02,
+      "end": 938.08
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 936.82,
-      "end": 942.18
+      "label": "transition",
+      "start": 938.08,
+      "end": 942.58
     },
     {
-      "label": "Content",
-      "start": 942.18,
-      "end": 945.56
+      "label": "content",
+      "start": 942.58,
+      "end": 945.68
     },
     {
-      "label": "Transition/Intermission",
-      "start": 945.56,
-      "end": 948.72
+      "label": "transition",
+      "start": 945.68,
+      "end": 948.82
     },
     {
-      "label": "Content",
-      "start": 948.72,
-      "end": 950.46
+      "label": "content",
+      "start": 948.82,
+      "end": 950.6
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 950.46,
-      "end": 950.46
+      "label": "transition",
+      "start": 950.6,
+      "end": 953.24
     },
     {
-      "label": "Transition/Intermission",
-      "start": 950.46,
-      "end": 953.1
+      "label": "content",
+      "start": 953.24,
+      "end": 956.68
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 953.1,
-      "end": 957.32
+      "label": "transition",
+      "start": 956.68,
+      "end": 968.02
     },
     {
-      "label": "Content",
-      "start": 957.32,
-      "end": 959.36
-    },
-    {
-      "label": "Dead Air/Filler",
-      "start": 959.36,
-      "end": 967.9
-    },
-    {
-      "label": "Content",
-      "start": 967.9,
+      "label": "content",
+      "start": 968.02,
       "end": 980.22
     },
     {
-      "label": "Dead Air/Filler",
+      "label": "transition",
       "start": 980.22,
-      "end": 1014.0
+      "end": 1014.02
     },
     {
-      "label": "Content",
-      "start": 1014.0,
+      "label": "content",
+      "start": 1014.02,
       "end": 1016.0
     },
     {
-      "label": "Dead Air/Filler",
+      "label": "transition",
       "start": 1016.0,
-      "end": 1047.96
+      "end": 1054.7
     },
     {
-      "label": "Content",
-      "start": 1047.96,
-      "end": 1069.62
+      "label": "content",
+      "start": 1054.7,
+      "end": 1059.48
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 1069.62,
-      "end": 1070.86
+      "label": "transition",
+      "start": 1059.48,
+      "end": 1061.12
     },
     {
-      "label": "Content",
-      "start": 1070.86,
-      "end": 1082.16
+      "label": "content",
+      "start": 1061.12,
+      "end": 1066.38
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 1082.16,
-      "end": 1083.56
+      "label": "transition",
+      "start": 1066.38,
+      "end": 1076.58
     },
     {
-      "label": "Content",
-      "start": 1083.56,
-      "end": 1090.7
+      "label": "content",
+      "start": 1076.58,
+      "end": 1080.08
     },
     {
-      "label": "Transition/Intermission",
-      "start": 1090.7,
-      "end": 1093.12
+      "label": "transition",
+      "start": 1080.08,
+      "end": 1081.46
     },
     {
-      "label": "Content",
-      "start": 1093.12,
-      "end": 1094.42
+      "label": "content",
+      "start": 1081.46,
+      "end": 1090.48
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 1094.42,
+      "label": "transition",
+      "start": 1090.48,
+      "end": 1093.06
+    },
+    {
+      "label": "content",
+      "start": 1093.06,
+      "end": 1094.46
+    },
+    {
+      "label": "transition",
+      "start": 1094.46,
       "end": 1095.62
     },
     {
-      "label": "Content",
+      "label": "content",
       "start": 1095.62,
-      "end": 1104.08
+      "end": 1104.09
     },
     {
-      "label": "Transition/Intermission",
-      "start": 1104.08,
-      "end": 1179.56
+      "label": "transition",
+      "start": 1104.09,
+      "end": 1139.85
     },
     {
-      "label": "Content",
-      "start": 1179.56,
-      "end": 1190.56
+      "label": "content",
+      "start": 1139.85,
+      "end": 1145.63
     },
     {
-      "label": "Transition/Intermission",
-      "start": 1190.56,
-      "end": 1192.64
+      "label": "transition",
+      "start": 1145.63,
+      "end": 1146.81
     },
     {
-      "label": "Content",
-      "start": 1192.64,
-      "end": 1195.06
+      "label": "content",
+      "start": 1146.81,
+      "end": 1148.93
     },
     {
-      "label": "Transition/Intermission",
-      "start": 1195.06,
-      "end": 1198.88
+      "label": "transition",
+      "start": 1148.93,
+      "end": 1151.47
     },
     {
-      "label": "Content",
-      "start": 1198.88,
-      "end": 1206.66
+      "label": "content",
+      "start": 1151.47,
+      "end": 1161.73
     },
     {
-      "label": "Transition/Intermission",
-      "start": 1206.66,
-      "end": 1210.94
+      "label": "transition",
+      "start": 1161.73,
+      "end": 1162.77
     },
     {
-      "label": "Content",
-      "start": 1210.94,
-      "end": 1222.6
+      "label": "content",
+      "start": 1162.77,
+      "end": 1168.97
     },
     {
-      "label": "Transition/Intermission",
-      "start": 1222.6,
-      "end": 1223.78
+      "label": "transition",
+      "start": 1168.97,
+      "end": 1179.49
     },
     {
-      "label": "Content",
-      "start": 1223.78,
-      "end": 1226.66
+      "label": "content",
+      "start": 1179.49,
+      "end": 1190.57
     },
     {
-      "label": "Transition/Intermission",
-      "start": 1226.66,
-      "end": 1244.02
+      "label": "transition",
+      "start": 1190.57,
+      "end": 1192.51
     },
     {
-      "label": "Content",
-      "start": 1244.02,
-      "end": 1248.7
+      "label": "content",
+      "start": 1192.51,
+      "end": 1195.13
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 1248.7,
-      "end": 1261.64
+      "label": "transition",
+      "start": 1195.13,
+      "end": 1198.79
     },
     {
-      "label": "Content",
-      "start": 1261.64,
-      "end": 1264.02
+      "label": "content",
+      "start": 1198.79,
+      "end": 1206.65
     },
     {
-      "label": "Transition/Intermission",
-      "start": 1264.02,
-      "end": 1266.14
+      "label": "transition",
+      "start": 1206.65,
+      "end": 1210.99
     },
     {
-      "label": "Content",
-      "start": 1266.14,
-      "end": 1270.4
+      "label": "content",
+      "start": 1210.99,
+      "end": 1229.65
     },
     {
-      "label": "Transition/Intermission",
-      "start": 1270.4,
-      "end": 1272.06
+      "label": "transition",
+      "start": 1229.65,
+      "end": 1244.23
     },
     {
-      "label": "Content",
-      "start": 1272.06,
-      "end": 1276.08
+      "label": "content",
+      "start": 1244.23,
+      "end": 1248.65
     },
     {
-      "label": "Transition/Intermission",
-      "start": 1276.08,
-      "end": 1280.06
+      "label": "transition",
+      "start": 1248.65,
+      "end": 1261.71
     },
     {
-      "label": "Content",
-      "start": 1280.06,
-      "end": 1283.84
+      "label": "content",
+      "start": 1261.71,
+      "end": 1275.95
     },
     {
-      "label": "Transition/Intermission",
-      "start": 1283.84,
-      "end": 1287.64
+      "label": "transition",
+      "start": 1275.95,
+      "end": 1280.09
     },
     {
-      "label": "Content",
-      "start": 1287.64,
-      "end": 1294.76
+      "label": "content",
+      "start": 1280.09,
+      "end": 1283.87
     },
     {
-      "label": "Transition/Intermission",
-      "start": 1294.76,
-      "end": 1314.68
+      "label": "transition",
+      "start": 1283.87,
+      "end": 1287.67
     },
     {
-      "label": "Content",
-      "start": 1314.68,
-      "end": 1322.7
+      "label": "content",
+      "start": 1287.67,
+      "end": 1294.69
     },
     {
-      "label": "Dead Air/Filler",
-      "start": 1322.7,
-      "end": 1324.46
+      "label": "transition",
+      "start": 1294.69,
+      "end": 1314.65
     },
     {
-      "label": "Content",
-      "start": 1324.46,
-      "end": 1326.58
+      "label": "content",
+      "start": 1314.65,
+      "end": 1322.69
     },
     {
-      "label": "Transition/Intermission",
-      "start": 1326.58,
-      "end": 1329.52
+      "label": "transition",
+      "start": 1322.69,
+      "end": 1324.09
     },
     {
-      "label": "Content",
-      "start": 1329.52,
-      "end": 1340.6
+      "label": "content",
+      "start": 1324.09,
+      "end": 1326.57
     },
     {
-      "label": "Transition/Intermission",
-      "start": 1340.6,
-      "end": 1344.16
+      "label": "transition",
+      "start": 1326.57,
+      "end": 1329.59
     },
     {
-      "label": "Content",
-      "start": 1344.16,
-      "end": 1348.32
+      "label": "content",
+      "start": 1329.59,
+      "end": 1341.57
     },
     {
-      "label": "Transition/Intermission",
-      "start": 1348.32,
+      "label": "transition",
+      "start": 1341.57,
+      "end": 1344.17
+    },
+    {
+      "label": "content",
+      "start": 1344.17,
+      "end": 1348.33
+    },
+    {
+      "label": "transition",
+      "start": 1348.33,
       "end": 1350.64
     }
   ],
@@ -862,7 +862,7 @@
       "audio_type": "speech",
       "transcript": "10, 9, 8, 7, RS 25 engines, 8, 4, 3, 2, 1, bluster ignition, and lift off.",
       "asr_confidence": 0.79,
-      "label": "content"
+      "label": "intro"
     },
     {
       "start": 13.24,
@@ -911,7 +911,7 @@
     },
     {
       "start": 25.5,
-      "end": 35.98,
+      "end": 35.0,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -919,17 +919,62 @@
       "label": "transition"
     },
     {
-      "start": 35.98,
-      "end": 38.2,
+      "start": 35.0,
+      "end": 36.4,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Can't tell you you have to hide.",
-      "asr_confidence": 0.51,
+      "transcript": "get",
+      "asr_confidence": 0.01,
       "label": "content"
     },
     {
-      "start": 38.2,
-      "end": 66.46,
+      "start": 36.4,
+      "end": 36.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "ot",
+      "asr_confidence": 0.0,
+      "label": "content"
+    },
+    {
+      "start": 36.68,
+      "end": 37.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "ot",
+      "asr_confidence": 0.0,
+      "label": "content"
+    },
+    {
+      "start": 37.34,
+      "end": 38.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "ot",
+      "asr_confidence": 0.25,
+      "label": "content"
+    },
+    {
+      "start": 38.48,
+      "end": 40.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "ot",
+      "asr_confidence": 0.42,
+      "label": "content"
+    },
+    {
+      "start": 40.82,
+      "end": 42.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "ot",
+      "asr_confidence": 0.58,
+      "label": "content"
+    },
+    {
+      "start": 42.36,
+      "end": 45.96,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -937,17 +982,125 @@
       "label": "transition"
     },
     {
-      "start": 66.46,
+      "start": 45.96,
+      "end": 47.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "ot",
+      "asr_confidence": 0.71,
+      "label": "content"
+    },
+    {
+      "start": 47.36,
+      "end": 47.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "ot",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 47.44,
+      "end": 47.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "ot",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 47.52,
+      "end": 47.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "ot",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 47.88,
+      "end": 49.4,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "ot",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 49.4,
+      "end": 50.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "ot",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 50.06,
+      "end": 52.14,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 52.14,
+      "end": 53.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "ot",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 53.54,
+      "end": 56.76,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 56.76,
+      "end": 58.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "!",
+      "asr_confidence": 0.02,
+      "label": "content"
+    },
+    {
+      "start": 58.16,
+      "end": 59.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "ot",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 34.72,
+      "end": 66.48,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 66.48,
       "end": 69.88,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "The integrity through Max2 on Punticleey on.",
-      "asr_confidence": 0.48,
+      "asr_confidence": 0.47,
       "label": "content"
     },
     {
       "start": 69.88,
-      "end": 71.3,
+      "end": 71.32,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -955,8 +1108,8 @@
       "label": "transition"
     },
     {
-      "start": 71.3,
-      "end": 73.86,
+      "start": 71.32,
+      "end": 73.84,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "Stand, we have the loud and clear on Punticleey on.",
@@ -964,116 +1117,125 @@
       "label": "content"
     },
     {
-      "start": 73.86,
-      "end": 74.86,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 74.86,
-      "end": 75.82,
+      "start": 73.84,
+      "end": 76.84,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "Have you the same?",
-      "asr_confidence": 0.87,
-      "label": "content"
-    },
-    {
-      "start": 75.82,
-      "end": 134.08,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 134.08,
-      "end": 139.7,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "The integrity guidance converged to performance nominal, upper stage OCS ready.",
-      "asr_confidence": 0.71,
-      "label": "content"
-    },
-    {
-      "start": 139.7,
-      "end": 141.18,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 141.18,
-      "end": 142.8,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Copy-hands, man.",
-      "asr_confidence": 0.42,
-      "label": "content"
-    },
-    {
-      "start": 142.8,
-      "end": 149.14,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Stand, we have the integrity, SM priming complete.",
-      "asr_confidence": 0.34,
-      "label": "content"
-    },
-    {
-      "start": 149.14,
-      "end": 150.68,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 150.68,
-      "end": 151.9,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "SM priming complete.",
-      "asr_confidence": 0.67,
-      "label": "content"
-    },
-    {
-      "start": 151.9,
-      "end": 156.0,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 156.0,
-      "end": 159.72,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "And Houston has you loud and clear on T-Dose at the Garmin Line.",
       "asr_confidence": 0.78,
       "label": "content"
     },
     {
-      "start": 159.72,
-      "end": 164.64,
+      "start": 76.84,
+      "end": 134.66,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 134.66,
+      "end": 139.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The integrity guidance converged to performance nominal, upper stage OCS ready.",
+      "asr_confidence": 0.68,
+      "label": "ads"
+    },
+    {
+      "start": 139.82,
+      "end": 141.44,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 141.44,
+      "end": 142.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Copy-all, stand.",
+      "asr_confidence": 0.34,
+      "label": "content"
+    },
+    {
+      "start": 142.74,
+      "end": 146.66,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 146.66,
+      "end": 149.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Stand, integrity, SM, priming complete.",
+      "asr_confidence": 0.63,
+      "label": "content"
+    },
+    {
+      "start": 149.1,
+      "end": 150.58,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 150.58,
+      "end": 151.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "SM priming completion.",
+      "asr_confidence": 0.59,
+      "label": "content"
+    },
+    {
+      "start": 151.94,
+      "end": 155.92,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 155.92,
+      "end": 159.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And Houston has you loud and clear on T-dress at the common line.",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 159.68,
+      "end": 163.84,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 163.84,
+      "end": 164.62,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "Stand, we have the same.",
-      "asr_confidence": 0.2,
+      "asr_confidence": 0.34,
       "label": "content"
     },
     {
-      "start": 164.64,
-      "end": 166.96,
+      "start": 164.62,
+      "end": 167.06,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -1081,152 +1243,152 @@
       "label": "transition"
     },
     {
-      "start": 166.96,
+      "start": 167.06,
       "end": 170.08,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "3 minutes 50 seconds into the flight of Artemis 2.",
-      "asr_confidence": 0.7,
-      "label": "content"
-    },
-    {
-      "start": 170.08,
-      "end": 173.9,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "We have the good count.",
-      "asr_confidence": 0.16,
-      "label": "content"
-    },
-    {
-      "start": 173.9,
-      "end": 176.4,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "The signal is acquired after last year.",
-      "asr_confidence": 0.53,
-      "label": "content"
-    },
-    {
-      "start": 176.4,
-      "end": 178.68,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Now working on internal checks.",
-      "asr_confidence": 0.76,
-      "label": "content"
-    },
-    {
-      "start": 178.68,
-      "end": 179.28,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Whoa.",
-      "asr_confidence": 0.16,
-      "label": "content"
-    },
-    {
-      "start": 179.28,
-      "end": 180.78,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 180.78,
-      "end": 182.38,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "That is separate.",
-      "asr_confidence": 0.6,
-      "label": "content"
-    },
-    {
-      "start": 182.38,
-      "end": 183.48,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 183.48,
-      "end": 187.9,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "One of the biggest surprises was how smooth the writing those solids was.",
-      "asr_confidence": 0.73,
-      "label": "content"
-    },
-    {
-      "start": 187.9,
-      "end": 192.36,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "We all expected a really dynamic ride, a lot of motion.",
+      "transcript": "Three minutes, 50 seconds into the flight of Artemis 2.",
       "asr_confidence": 0.74,
       "label": "content"
     },
     {
-      "start": 192.36,
-      "end": 195.98,
+      "start": 170.08,
+      "end": 172.22,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "We were prepared to potentially not be able to see telemetry.",
-      "asr_confidence": 0.88,
+      "transcript": "Weizmann, love our cooking and technical team.",
+      "asr_confidence": 0.28,
       "label": "content"
     },
     {
-      "start": 195.98,
-      "end": 200.0,
+      "start": 172.22,
+      "end": 174.38,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Maybe you're not being able to touch switches.",
-      "asr_confidence": 0.85,
+      "transcript": "We have a space with good conscience.",
+      "asr_confidence": 0.54,
       "label": "content"
     },
     {
-      "start": 200.0,
-      "end": 202.14,
+      "start": 174.38,
+      "end": 177.86,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "It was very smooth.",
-      "asr_confidence": 0.86,
+      "transcript": "Keeping the signals acquired after last year this is now working on internal checks.",
+      "asr_confidence": 0.69,
       "label": "content"
     },
     {
-      "start": 202.14,
-      "end": 205.18,
+      "start": 177.86,
+      "end": 179.1,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "There was a definite difference when they separated.",
-      "asr_confidence": 0.89,
+      "transcript": "To hear it.",
+      "asr_confidence": 0.68,
       "label": "content"
     },
     {
-      "start": 205.18,
-      "end": 206.72,
+      "start": 179.1,
+      "end": 180.28,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "And we were just on the main engines.",
+      "transcript": "Whoa.",
+      "asr_confidence": 0.66,
+      "label": "content"
+    },
+    {
+      "start": 180.28,
+      "end": 182.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So that is separate.",
+      "asr_confidence": 0.69,
+      "label": "content"
+    },
+    {
+      "start": 182.62,
+      "end": 184.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "That is the important.",
+      "asr_confidence": 0.62,
+      "label": "content"
+    },
+    {
+      "start": 184.42,
+      "end": 188.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "One of the biggest surprises was how smooth riding those solids was.",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 188.18,
+      "end": 192.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We all expected a really just dynamic ride, a lot of motion.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 192.1,
+      "end": 195.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We were prepared to potentially not being able to see telemetry.",
+      "asr_confidence": 0.74,
+      "label": "content"
+    },
+    {
+      "start": 195.96,
+      "end": 199.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Maybe you were not being able to touch switches.",
+      "asr_confidence": 0.72,
+      "label": "content"
+    },
+    {
+      "start": 199.66,
+      "end": 202.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And it was very smooth.",
       "asr_confidence": 0.91,
       "label": "content"
     },
     {
-      "start": 206.72,
-      "end": 210.86,
+      "start": 202.16,
+      "end": 205.1,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "But just a steady rumble and a great ride.",
+      "transcript": "It was a definite difference when they separated.",
       "asr_confidence": 0.93,
       "label": "content"
     },
     {
+      "start": 205.1,
+      "end": 206.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And we were just on the main engines.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 206.7,
+      "end": 210.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "But just a steady rumble and a great ride.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
       "start": 210.86,
-      "end": 216.4,
+      "end": 216.32,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -1234,26 +1396,35 @@
       "label": "transition"
     },
     {
-      "start": 216.4,
-      "end": 217.34,
+      "start": 216.32,
+      "end": 217.38,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "Well, let's see.",
-      "asr_confidence": 0.66,
+      "asr_confidence": 0.94,
       "label": "content"
     },
     {
-      "start": 217.34,
+      "start": 217.38,
+      "end": 219.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We've been off the planet for what?",
+      "asr_confidence": 0.81,
+      "label": "content"
+    },
+    {
+      "start": 219.04,
       "end": 220.0,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "So we've been off the planet for what about 30 hours now.",
-      "asr_confidence": 0.83,
+      "transcript": "About 30 hours now.",
+      "asr_confidence": 0.97,
       "label": "content"
     },
     {
       "start": 220.0,
-      "end": 221.84,
+      "end": 221.68,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "And we've had two very short naps.",
@@ -1261,170 +1432,188 @@
       "label": "content"
     },
     {
-      "start": 221.84,
-      "end": 224.84,
+      "start": 221.68,
+      "end": 224.86,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "We actually just gathered for our first meal together in space.",
-      "asr_confidence": 0.99,
+      "asr_confidence": 0.79,
       "label": "content"
     },
     {
-      "start": 224.84,
+      "start": 224.86,
       "end": 227.86,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "That is how busy we have been the last day and a half.",
-      "asr_confidence": 0.98,
-      "label": "content"
-    },
-    {
-      "start": 227.86,
-      "end": 232.0,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "It has been really an amazing beginning flight plan.",
-      "asr_confidence": 0.97,
-      "label": "content"
-    },
-    {
-      "start": 232.0,
-      "end": 234.74,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "But sleep in here is, it's actually sort of comical.",
-      "asr_confidence": 0.9,
-      "label": "content"
-    },
-    {
-      "start": 234.74,
-      "end": 238.56,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Christine has been sleeping heads down in the middle of the vehicle.",
-      "asr_confidence": 0.85,
-      "label": "content"
-    },
-    {
-      "start": 238.56,
-      "end": 241.2,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Kind of like a bat suspended from our docking tunnel.",
       "asr_confidence": 0.96,
       "label": "content"
     },
     {
-      "start": 241.2,
-      "end": 243.08,
+      "start": 227.86,
+      "end": 232.2,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Victor has been up where Jeremy is right now.",
-      "asr_confidence": 0.84,
+      "transcript": "It has been really an amazing beginning flight plan.",
+      "asr_confidence": 0.96,
       "label": "content"
     },
     {
-      "start": 243.08,
+      "start": 232.2,
+      "end": 235.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "But sleep in here is actually sort of comical.",
+      "asr_confidence": 0.77,
+      "label": "content"
+    },
+    {
+      "start": 235.04,
+      "end": 238.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Kristina has been sleeping heads down in the middle of the vehicle.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 238.32,
+      "end": 241.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Kind of like a bat suspended from our docking tunnel.",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 241.2,
+      "end": 243.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Victor has been up where Jeremy is right now.",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 243.02,
       "end": 245.26,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "He's got a nice little nook wedged in there.",
-      "asr_confidence": 0.95,
+      "asr_confidence": 0.96,
       "label": "content"
     },
     {
       "start": 245.26,
-      "end": 248.28,
+      "end": 248.24,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "And then Jeremy has been stretched out on seat one.",
-      "asr_confidence": 0.95,
+      "asr_confidence": 0.96,
       "label": "content"
     },
     {
-      "start": 248.28,
-      "end": 252.4,
+      "start": 248.24,
+      "end": 251.66,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "And I've been sleeping under the displays just in case anything goes wrong.",
+      "transcript": "And I've been sleeping under the displays just in case anything goes on.",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 251.66,
+      "end": 252.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And I was wrong.",
+      "asr_confidence": 0.34,
+      "label": "content"
+    },
+    {
+      "start": 252.42,
+      "end": 254.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's more comfortable than you would think.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 254.7,
+      "end": 255.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And it's nice.",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 255.86,
+      "end": 257.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's nice to sleep and wait list this again.",
+      "asr_confidence": 0.73,
+      "label": "content"
+    },
+    {
+      "start": 257.9,
+      "end": 259.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Every time I would, it's dosed and off last night.",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 259.6,
+      "end": 261.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I had that image and I was tripping off a curb.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 261.56,
+      "end": 262.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And I was waking myself up.",
       "asr_confidence": 0.93,
       "label": "content"
     },
     {
-      "start": 252.4,
-      "end": 254.92,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "It's more comfortable than you would think.",
-      "asr_confidence": 0.94,
-      "label": "content"
-    },
-    {
-      "start": 254.92,
-      "end": 255.84,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "And it's nice.",
-      "asr_confidence": 0.82,
-      "label": "content"
-    },
-    {
-      "start": 255.84,
-      "end": 257.88,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "It's nice to sleep and waitlessness again.",
-      "asr_confidence": 0.78,
-      "label": "content"
-    },
-    {
-      "start": 257.88,
-      "end": 259.56,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Every time I would, it's dosed an off last night.",
-      "asr_confidence": 0.82,
-      "label": "content"
-    },
-    {
-      "start": 259.56,
-      "end": 263.0,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "I had that image and I was tripping off a curb and I was waking myself up.",
-      "asr_confidence": 0.94,
-      "label": "content"
-    },
-    {
-      "start": 263.0,
-      "end": 265.08,
+      "start": 262.98,
+      "end": 264.96,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "So my body's getting reaclimated.",
-      "asr_confidence": 0.8,
+      "asr_confidence": 0.91,
       "label": "content"
     },
     {
-      "start": 265.08,
-      "end": 266.4,
+      "start": 264.96,
+      "end": 266.38,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "It's been a few years since I've been up here.",
-      "asr_confidence": 0.98,
+      "asr_confidence": 0.97,
       "label": "content"
     },
     {
-      "start": 266.4,
-      "end": 267.62,
+      "start": 266.38,
+      "end": 267.66,
       "has_speech": false,
-      "audio_type": "silence",
+      "audio_type": "music",
       "transcript": null,
       "asr_confidence": 1.0,
       "label": "transition"
     },
     {
-      "start": 267.62,
-      "end": 270.5,
+      "start": 267.66,
+      "end": 270.48,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "As you all know, there is so much division at home.",
@@ -1432,8 +1621,8 @@
       "label": "content"
     },
     {
-      "start": 270.5,
-      "end": 286.5,
+      "start": 270.48,
+      "end": 286.44,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -1441,44 +1630,44 @@
       "label": "transition"
     },
     {
-      "start": 286.5,
-      "end": 289.38,
+      "start": 286.44,
+      "end": 289.34,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "I have just finally got some time to do my own thing.",
-      "asr_confidence": 0.88,
+      "transcript": "Hey, I've just finally got some time to do my own thing.",
+      "asr_confidence": 0.93,
       "label": "content"
     },
     {
-      "start": 289.38,
-      "end": 290.18,
+      "start": 289.34,
+      "end": 291.04,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "I'll send you a link.",
-      "asr_confidence": 0.96,
+      "asr_confidence": 0.97,
       "label": "content"
     },
     {
-      "start": 290.18,
-      "end": 294.16,
+      "start": 291.04,
+      "end": 294.12,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "I'm doing some friends trying to make accessories from them.",
-      "asr_confidence": 0.81,
+      "transcript": "I'm doing some prints trying to make accessories from them.",
+      "asr_confidence": 0.82,
       "label": "content"
     },
     {
-      "start": 294.16,
-      "end": 295.84,
+      "start": 294.12,
+      "end": 295.82,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "I'm really, really happy you like them.",
-      "asr_confidence": 0.74,
+      "transcript": "I'm really, really happy like that.",
+      "asr_confidence": 0.78,
       "label": "content"
     },
     {
-      "start": 295.84,
-      "end": 299.02,
+      "start": 295.82,
+      "end": 299.08,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -1486,134 +1675,161 @@
       "label": "transition"
     },
     {
-      "start": 299.02,
-      "end": 300.6,
+      "start": 299.08,
+      "end": 300.58,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "Hey, it's Kay Davis.",
-      "asr_confidence": 0.75,
+      "asr_confidence": 0.72,
       "label": "content"
     },
     {
-      "start": 300.6,
+      "start": 300.58,
       "end": 301.2,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "What's happened?",
-      "asr_confidence": 0.85,
-      "label": "content"
-    },
-    {
-      "start": 301.2,
-      "end": 303.62,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "To me, I'm just not what we're looking for.",
-      "asr_confidence": 0.6,
-      "label": "content"
-    },
-    {
-      "start": 303.62,
-      "end": 317.24,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 317.24,
-      "end": 320.18,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Kay, I'm going to get to sleep.",
-      "asr_confidence": 0.38,
-      "label": "content"
-    },
-    {
-      "start": 320.18,
-      "end": 320.18,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": null,
-      "asr_confidence": 0.76,
-      "label": "transition"
-    },
-    {
-      "start": 320.18,
-      "end": 320.36,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "I'm going to get to sleep.",
-      "asr_confidence": 0.6,
-      "label": "content"
-    },
-    {
-      "start": 320.36,
-      "end": 325.52,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 325.52,
-      "end": 326.38,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "I'm going to get to sleep.",
-      "asr_confidence": 0.84,
-      "label": "content"
-    },
-    {
-      "start": 326.38,
-      "end": 326.78,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "I'm going to get to sleep.",
-      "asr_confidence": 0.9,
-      "label": "content"
-    },
-    {
-      "start": 326.78,
-      "end": 327.84,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 327.84,
-      "end": 328.24,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "I'm going to get to sleep.",
-      "asr_confidence": 0.92,
-      "label": "content"
-    },
-    {
-      "start": 328.24,
-      "end": 330.44,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 330.44,
-      "end": 336.42,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Right now, what is it that you're feeling and what message do you want to send to the American people about what you're saying about that window?",
       "asr_confidence": 0.88,
       "label": "content"
     },
     {
+      "start": 301.2,
+      "end": 303.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "To me, I'm just not what we're looking for.",
+      "asr_confidence": 0.66,
+      "label": "content"
+    },
+    {
+      "start": 303.64,
+      "end": 317.3,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 317.3,
+      "end": 318.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Kay.",
+      "asr_confidence": 0.0,
+      "label": "content"
+    },
+    {
+      "start": 318.38,
+      "end": 318.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Kay.",
+      "asr_confidence": 0.0,
+      "label": "content"
+    },
+    {
+      "start": 318.86,
+      "end": 320.0,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 320.0,
+      "end": 320.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Kay.",
+      "asr_confidence": 0.0,
+      "label": "content"
+    },
+    {
+      "start": 320.66,
+      "end": 322.18,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 322.18,
+      "end": 322.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Kay.",
+      "asr_confidence": 0.62,
+      "label": "content"
+    },
+    {
+      "start": 322.54,
+      "end": 323.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Kay.",
+      "asr_confidence": 0.69,
+      "label": "content"
+    },
+    {
+      "start": 323.52,
+      "end": 324.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Kay.",
+      "asr_confidence": 0.74,
+      "label": "content"
+    },
+    {
+      "start": 324.24,
+      "end": 324.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Kay.",
+      "asr_confidence": 0.77,
+      "label": "content"
+    },
+    {
+      "start": 324.56,
+      "end": 325.98,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 326.84,
+      "end": 327.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Kay.",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 327.32,
+      "end": 330.34,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 330.34,
+      "end": 336.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Right now, what is it that you're feeling and what message do you want to send to the American people about what you're seeing out that window?",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
       "start": 336.42,
-      "end": 343.46,
+      "end": 343.42,
       "has_speech": false,
       "audio_type": "silence",
       "transcript": null,
@@ -1621,71 +1837,44 @@
       "label": "transition"
     },
     {
-      "start": 343.46,
-      "end": 346.22,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Well, the first thing I would say is trust us.",
-      "asr_confidence": 0.91,
-      "label": "content"
-    },
-    {
-      "start": 346.22,
+      "start": 343.42,
       "end": 347.24,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "You look amazing.",
-      "asr_confidence": 0.98,
+      "transcript": "Well, the first thing I would say is trust us, you look amazing.",
+      "asr_confidence": 0.89,
       "label": "content"
     },
     {
       "start": 347.24,
-      "end": 348.32,
+      "end": 348.58,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "You look beautiful.",
-      "asr_confidence": 0.97,
+      "asr_confidence": 0.99,
       "label": "content"
     },
     {
-      "start": 348.32,
-      "end": 349.28,
+      "start": 348.58,
+      "end": 351.12,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "And from up here,",
-      "asr_confidence": 0.98,
+      "transcript": "And from up here, you also look like one thing.",
+      "asr_confidence": 0.99,
       "label": "content"
     },
     {
-      "start": 349.28,
-      "end": 351.7,
+      "start": 351.12,
+      "end": 357.2,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "you also look like one thing.",
-      "asr_confidence": 0.82,
+      "transcript": "You know, homo sapiens is all of us, no matter where you're from or what you look like.",
+      "asr_confidence": 0.89,
       "label": "content"
     },
     {
-      "start": 351.7,
-      "end": 353.36,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Homosapiens is all of us,",
-      "asr_confidence": 0.88,
-      "label": "content"
-    },
-    {
-      "start": 353.36,
-      "end": 357.26,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "no matter where you're from or what you look like.",
-      "asr_confidence": 0.93,
-      "label": "content"
-    },
-    {
-      "start": 357.26,
-      "end": 358.34,
+      "start": 357.2,
+      "end": 358.32,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "We're all one people.",
@@ -1693,43 +1882,34 @@
       "label": "content"
     },
     {
-      "start": 358.34,
-      "end": 371.56,
+      "start": 358.32,
+      "end": 371.64,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "And so this mission, one of the things that's amazing about being around and just being in an astronaut serving our countries at this time is that we get to give ourselves a mission that we can hold on to to say,",
-      "asr_confidence": 0.92,
+      "transcript": "And so, you know, this mission, one of the things that's amazing about being around and just being in an astronaut, serving our countries at this time is that we get to give ourselves a mission that we can hold on to to say hey,",
+      "asr_confidence": 0.91,
       "label": "content"
     },
     {
-      "start": 371.56,
+      "start": 371.64,
       "end": 375.42,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "hey, look at what we did for the rest of our lives.",
-      "asr_confidence": 0.8,
-      "label": "content"
-    },
-    {
-      "start": 375.42,
-      "end": 379.5,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "We call amazing things that humans do, moonshots for a reason,",
+      "transcript": "look at what we did for the rest of our lives.",
       "asr_confidence": 0.81,
       "label": "content"
     },
     {
-      "start": 379.5,
-      "end": 389.14,
+      "start": 375.42,
+      "end": 389.12,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "because this brought us together and showed us what we can do when we put, not just putting our differences aside, when we bring our differences together and use all the strengths to accomplish something great.",
-      "asr_confidence": 0.97,
+      "transcript": "You know, we call amazing things that humans do, moonshots for a reason because this brought us together and showed us what we can do when we put not just putting our differences aside when we bring our differences together and use all the strengths to accomplish something great.",
+      "asr_confidence": 0.92,
       "label": "content"
     },
     {
-      "start": 389.14,
+      "start": 389.12,
       "end": 395.04,
       "has_speech": true,
       "audio_type": "speech",
@@ -1743,48 +1923,30 @@
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "And I hope people will tune in and give us a chance.",
-      "asr_confidence": 0.98,
+      "asr_confidence": 0.96,
       "label": "content"
     },
     {
       "start": 398.52,
-      "end": 401.14,
+      "end": 406.54,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "There's a lot of happiness.",
-      "asr_confidence": 0.86,
+      "transcript": "There's a lot of happiness just to have experiences unique things just brings you joy as a human.",
+      "asr_confidence": 0.81,
       "label": "content"
     },
     {
-      "start": 401.14,
-      "end": 406.52,
+      "start": 406.54,
+      "end": 414.26,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Just to have experiences unique things just brings you joy as a human.",
-      "asr_confidence": 0.83,
+      "transcript": "We're explorers at heart as human beings and we really feel like we're exploring out here and it brings a lot of excitement.",
+      "asr_confidence": 0.93,
       "label": "content"
     },
     {
-      "start": 406.52,
-      "end": 409.6,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "We're explorers at heart as human beings.",
-      "asr_confidence": 0.94,
-      "label": "content"
-    },
-    {
-      "start": 409.6,
-      "end": 414.24,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "And we really feel like we're exploring out here and it brings a lot of excitement.",
-      "asr_confidence": 0.95,
-      "label": "content"
-    },
-    {
-      "start": 414.24,
-      "end": 416.9,
+      "start": 414.26,
+      "end": 416.82,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "And then, you know, right away, you are humbled.",
@@ -1792,8 +1954,8 @@
       "label": "content"
     },
     {
-      "start": 416.9,
-      "end": 421.96,
+      "start": 416.82,
+      "end": 421.66,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "The fact that four of us get to be out here just brings you to your knees.",
@@ -1801,57 +1963,48 @@
       "label": "content"
     },
     {
-      "start": 421.96,
-      "end": 427.56,
+      "start": 421.66,
+      "end": 427.88,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "The thought that we get this experience, we're doing our best to show it with the camera, but you can't do it.",
-      "asr_confidence": 0.99,
+      "asr_confidence": 0.88,
       "label": "content"
     },
     {
-      "start": 427.56,
-      "end": 434.06,
+      "start": 427.88,
+      "end": 434.02,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "I know those photos are amazing, but let me assure you it is another level of amazing up here.",
-      "asr_confidence": 0.92,
-      "label": "content"
-    },
-    {
-      "start": 434.06,
-      "end": 438.5,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "And there's a lot of gratitude for the teams of people that made this possible.",
       "asr_confidence": 0.96,
       "label": "content"
     },
     {
-      "start": 438.5,
-      "end": 440.76,
+      "start": 434.02,
+      "end": 438.42,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "I can really see Earth as one thing.",
-      "asr_confidence": 0.91,
+      "transcript": "And there's a lot of gratitude for the teams of people that made this possible.",
+      "asr_confidence": 0.97,
       "label": "content"
     },
     {
-      "start": 440.76,
-      "end": 447.52,
+      "start": 438.42,
+      "end": 446.4,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "And you know, when I read the Bible and I look at all of the amazing things that were done for us who were created, it's...",
-      "asr_confidence": 0.94,
+      "transcript": "I can really see Earth as one thing and you know, when I read the Bible and I look at all of the amazing things that were done for us who were created.",
+      "asr_confidence": 0.92,
       "label": "content"
     },
     {
-      "start": 447.52,
+      "start": 446.4,
       "end": 450.36,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "You have this amazing place, this spaceship.",
-      "asr_confidence": 0.91,
+      "transcript": "It's you have this amazing place, this spaceship.",
+      "asr_confidence": 0.65,
       "label": "content"
     },
     {
@@ -1860,12 +2013,12 @@
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "You guys are talking to us because we're in a spaceship really far from Earth, but you're on a spaceship called Earth that was created to give us a place to live in the universe and the cosmos.",
-      "asr_confidence": 0.92,
+      "asr_confidence": 0.93,
       "label": "content"
     },
     {
       "start": 460.6,
-      "end": 467.14,
+      "end": 467.1,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "I think maybe the distance we are from you makes you think what we're doing is special, but we're the same distance from you.",
@@ -1873,34 +2026,34 @@
       "label": "content"
     },
     {
-      "start": 467.14,
-      "end": 470.18,
+      "start": 467.1,
+      "end": 471.56,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "And I'm trying to tell you, just trust me, you are special.",
-      "asr_confidence": 0.99,
+      "transcript": "And I'm trying to tell you, just trust me, you are special in all of this emptiness.",
+      "asr_confidence": 0.98,
       "label": "content"
     },
     {
-      "start": 470.18,
-      "end": 474.36,
+      "start": 471.56,
+      "end": 474.64,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "In all of this emptiness, this is a whole bunch of nothing, this thing we call the universe.",
-      "asr_confidence": 0.97,
+      "transcript": "This is a whole bunch of nothing, this thing we call the universe.",
+      "asr_confidence": 0.93,
       "label": "content"
     },
     {
-      "start": 474.36,
-      "end": 479.76,
+      "start": 474.64,
+      "end": 479.96,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "You have this oasis, this beautiful place that we get to exist together.",
-      "asr_confidence": 0.91,
+      "asr_confidence": 0.98,
       "label": "content"
     },
     {
-      "start": 479.76,
+      "start": 479.96,
       "end": 495.46,
       "has_speech": true,
       "audio_type": "speech",
@@ -1919,20 +2072,11 @@
     },
     {
       "start": 517.3,
-      "end": 524.62,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Integrity Crew on April 15th, 1970 during the Apollo 13 mission.",
-      "asr_confidence": 0.75,
-      "label": "content"
-    },
-    {
-      "start": 524.62,
       "end": 529.56,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Three explorers set the record for the farthest distance humans have ever traveled from our home planet.",
-      "asr_confidence": 0.98,
+      "transcript": "Integrity crew on April 15th, 1970 during the Apollo 13 mission, three explorers set the record for the farthest distance humans have ever traveled from our home planet.",
+      "asr_confidence": 0.91,
       "label": "content"
     },
     {
@@ -2036,52 +2180,25 @@
     },
     {
       "start": 606.7,
-      "end": 610.18,
+      "end": 618.42,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "In fact, it's just on the near side of that boundary.",
-      "asr_confidence": 0.99,
+      "transcript": "In fact, it's just on the near side of that boundary. And so at certain times of the moon's transit around Earth, you can we will be able to see this from Earth.",
+      "asr_confidence": 0.92,
       "label": "content"
     },
     {
-      "start": 610.18,
-      "end": 618.4,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "And so at certain times of the moon's transit around Earth, you can we will be able to see this from Earth.",
-      "asr_confidence": 0.89,
-      "label": "content"
-    },
-    {
-      "start": 618.4,
-      "end": 621.52,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "And so we lost a loved one. Our name was Carol.",
-      "asr_confidence": 0.72,
-      "label": "content"
-    },
-    {
-      "start": 621.52,
-      "end": 623.28,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 623.28,
+      "start": 618.42,
       "end": 627.26,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "The supposed to read the mother of Katie and Ellie.",
-      "asr_confidence": 0.8,
+      "transcript": "And so we lost a loved one. Our name was Carol. The supposed to read the mother of Katie and Ellie.",
+      "asr_confidence": 0.76,
       "label": "content"
     },
     {
       "start": 627.26,
-      "end": 630.78,
+      "end": 630.8,
       "has_speech": false,
       "audio_type": "silence",
       "transcript": null,
@@ -2089,26 +2206,17 @@
       "label": "transition"
     },
     {
-      "start": 630.78,
-      "end": 639.52,
+      "start": 630.8,
+      "end": 641.84,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "And if you want to find this one, you look at Gluixko and it's just to the northwest of that at the same latitude as home.",
+      "transcript": "And if you want to find this one, you look at Gluixko and it's just to the northwest of that at the same latitude as home and it's a bright spot on the moon.",
       "asr_confidence": 0.86,
       "label": "content"
     },
     {
-      "start": 639.52,
-      "end": 641.84,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "And it's a bright spot on the moon.",
-      "asr_confidence": 0.94,
-      "label": "content"
-    },
-    {
       "start": 641.84,
-      "end": 644.16,
+      "end": 644.24,
       "has_speech": false,
       "audio_type": "silence",
       "transcript": null,
@@ -2116,43 +2224,25 @@
       "label": "transition"
     },
     {
-      "start": 644.16,
-      "end": 646.18,
+      "start": 644.24,
+      "end": 650.6,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "And we would like to call it Carol.",
-      "asr_confidence": 0.83,
+      "transcript": "And we would like to call it Carol and you spell that ca rr.",
+      "asr_confidence": 0.74,
       "label": "content"
     },
     {
-      "start": 646.18,
-      "end": 647.3,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 647.3,
-      "end": 650.78,
+      "start": 650.6,
+      "end": 652.18,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "And you spell that C-A-R-R.",
-      "asr_confidence": 0.85,
+      "transcript": "So LL.",
+      "asr_confidence": 0.45,
       "label": "content"
     },
     {
-      "start": 650.78,
-      "end": 652.16,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "So L-L.",
-      "asr_confidence": 0.71,
-      "label": "content"
-    },
-    {
-      "start": 652.16,
+      "start": 652.18,
       "end": 674.34,
       "has_speech": false,
       "audio_type": "silence",
@@ -2189,7 +2279,7 @@
     },
     {
       "start": 679.6,
-      "end": 701.96,
+      "end": 701.88,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -2197,7 +2287,7 @@
       "label": "transition"
     },
     {
-      "start": 701.96,
+      "start": 701.88,
       "end": 704.58,
       "has_speech": true,
       "audio_type": "speech",
@@ -2207,16 +2297,16 @@
     },
     {
       "start": 704.58,
-      "end": 706.18,
+      "end": 706.28,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "I think it was wrong.",
-      "asr_confidence": 0.67,
+      "transcript": "I'm going to go wrong.",
+      "asr_confidence": 0.44,
       "label": "content"
     },
     {
-      "start": 706.18,
-      "end": 708.12,
+      "start": 706.28,
+      "end": 708.18,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -2224,26 +2314,17 @@
       "label": "transition"
     },
     {
-      "start": 708.12,
-      "end": 711.96,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Amazing. Amazing.",
-      "asr_confidence": 0.42,
-      "label": "content"
-    },
-    {
-      "start": 711.96,
+      "start": 708.18,
       "end": 712.46,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Thank you, Reid.",
-      "asr_confidence": 0.5,
+      "transcript": "Amazing. Amazing. Thank you, Reed.",
+      "asr_confidence": 0.47,
       "label": "content"
     },
     {
       "start": 712.46,
-      "end": 713.94,
+      "end": 713.9,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -2251,7 +2332,7 @@
       "label": "transition"
     },
     {
-      "start": 713.94,
+      "start": 713.9,
       "end": 719.26,
       "has_speech": true,
       "audio_type": "speech",
@@ -2261,42 +2342,24 @@
     },
     {
       "start": 719.26,
-      "end": 723.54,
+      "end": 728.06,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "To Asia, Africa and Oshiana, we are looking back at you.",
+      "transcript": "To Asia, Africa and Oshiana, we are looking back at you. We hear you can look up the ceiling right now. We see you too.",
       "asr_confidence": 0.86,
       "label": "content"
     },
     {
-      "start": 723.54,
-      "end": 726.26,
+      "start": 728.06,
+      "end": 735.2,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "We hear you can look up the sea of the moon right now.",
-      "asr_confidence": 0.76,
+      "transcript": "When we burned this burn towards the moon, I said that we do not leave Earth but we do do this.",
+      "asr_confidence": 0.75,
       "label": "content"
     },
     {
-      "start": 726.26,
-      "end": 728.04,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "We see you too.",
-      "asr_confidence": 0.9,
-      "label": "content"
-    },
-    {
-      "start": 728.04,
-      "end": 735.18,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "When we burned this burn towards the moon, I said that we do not leave Earth, but we do do this.",
-      "asr_confidence": 0.78,
-      "label": "content"
-    },
-    {
-      "start": 735.18,
+      "start": 735.2,
       "end": 736.34,
       "has_speech": false,
       "audio_type": "music",
@@ -2306,24 +2369,15 @@
     },
     {
       "start": 736.34,
-      "end": 738.24,
+      "end": 742.58,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "And that is true.",
-      "asr_confidence": 0.96,
+      "transcript": "And that is true. We will explore, we will build ships, build this again.",
+      "asr_confidence": 0.86,
       "label": "content"
     },
     {
-      "start": 738.24,
-      "end": 742.56,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "We will explore, we will build ships, build this again.",
-      "asr_confidence": 0.81,
-      "label": "content"
-    },
-    {
-      "start": 742.56,
+      "start": 742.58,
       "end": 743.7,
       "has_speech": false,
       "audio_type": "music",
@@ -2336,8 +2390,8 @@
       "end": 754.06,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "We will construct science, outposts, we will drive rovers, we will do radio astronomy, we will found companies, we will both the industry, we will inspire.",
-      "asr_confidence": 0.88,
+      "transcript": "We will construct science, outposts, we will drive rovers, we will do radio astronomy, we will find companies, we will both the industry, we will inspire.",
+      "asr_confidence": 0.87,
       "label": "content"
     },
     {
@@ -2351,7 +2405,7 @@
     },
     {
       "start": 760.04,
-      "end": 764.2,
+      "end": 764.16,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -2359,26 +2413,17 @@
       "label": "transition"
     },
     {
-      "start": 764.2,
-      "end": 769.64,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Integrity from Earth, our single system fragile and interconnected we copy.",
-      "asr_confidence": 0.9,
-      "label": "content"
-    },
-    {
-      "start": 769.64,
+      "start": 764.16,
       "end": 771.28,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Those of us that can are looking back.",
-      "asr_confidence": 0.96,
+      "transcript": "Integrity from Earth, our single system fragile and interconnected we copy. Those of us that can are looking back.",
+      "asr_confidence": 0.93,
       "label": "content"
     },
     {
       "start": 771.28,
-      "end": 772.36,
+      "end": 772.32,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -2386,35 +2431,26 @@
       "label": "transition"
     },
     {
-      "start": 772.36,
-      "end": 780.18,
+      "start": 772.32,
+      "end": 782.44,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Integrity, Houston, in mission control, all of your flight controllers and your flight director have flipped.",
-      "asr_confidence": 0.95,
+      "transcript": "Integrity Houston, in mission control, all of your flight controllers and your flight director have flipped their Artemis 2 patches around.",
+      "asr_confidence": 0.9,
       "label": "content"
     },
     {
-      "start": 780.18,
-      "end": 782.9,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "There are Artemis 2 patches around.",
-      "asr_confidence": 0.77,
-      "label": "content"
-    },
-    {
-      "start": 782.9,
-      "end": 785.2,
+      "start": 782.44,
+      "end": 785.18,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "We are Earthbound and ready to bring you home.",
-      "asr_confidence": 0.95,
+      "asr_confidence": 0.82,
       "label": "content"
     },
     {
-      "start": 785.2,
-      "end": 786.46,
+      "start": 785.18,
+      "end": 786.34,
       "has_speech": false,
       "audio_type": "silence",
       "transcript": null,
@@ -2422,17 +2458,17 @@
       "label": "transition"
     },
     {
-      "start": 786.46,
-      "end": 792.92,
+      "start": 786.34,
+      "end": 792.9,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "You are getting a live look from Orion as the crew observes a solar eclipse from the moon.",
-      "asr_confidence": 0.89,
+      "asr_confidence": 0.88,
       "label": "content"
     },
     {
-      "start": 792.92,
-      "end": 795.84,
+      "start": 792.9,
+      "end": 795.88,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -2440,26 +2476,17 @@
       "label": "transition"
     },
     {
-      "start": 795.84,
-      "end": 798.34,
+      "start": 795.88,
+      "end": 801.5,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Houston, we can't be all. We are in eclipse glasses.",
-      "asr_confidence": 0.71,
+      "transcript": "Houston, we can't be all. We are in eclipse classes. That was an absolutely spectacular magnificent experience.",
+      "asr_confidence": 0.81,
       "label": "content"
     },
     {
-      "start": 798.34,
-      "end": 801.48,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "That was an absolutely spectacular magnificent experience.",
-      "asr_confidence": 0.96,
-      "label": "content"
-    },
-    {
-      "start": 801.48,
-      "end": 804.42,
+      "start": 801.5,
+      "end": 804.46,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -2467,7 +2494,7 @@
       "label": "transition"
     },
     {
-      "start": 804.42,
+      "start": 804.46,
       "end": 806.8,
       "has_speech": true,
       "audio_type": "speech",
@@ -2477,61 +2504,34 @@
     },
     {
       "start": 806.8,
-      "end": 810.46,
+      "end": 826.04,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "You are looking at a live view inside integrity.",
-      "asr_confidence": 0.72,
+      "transcript": "You are looking at a live view inside Integrity. Read Wisement on the left doing a fist bump with pilot Victor Glover on the right and down in the mid deck area just below their feet, suit it up in their launch and entry suits, our mission specialists, Christina Cook and Jeremy Hansen of the Canadian Space Agency.",
+      "asr_confidence": 0.82,
       "label": "content"
     },
     {
-      "start": 810.46,
-      "end": 818.3,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Read Wisement on the left doing a fist bump with pilot Victor Glover on the right and down in the mid deck area just below their feet,",
-      "asr_confidence": 0.84,
-      "label": "content"
-    },
-    {
-      "start": 818.3,
-      "end": 826.02,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "suit it up in their launch and entry suits, our mission specialists, Christina Cook, and Jeremy Hansen of the Canadian Space Agency.",
-      "asr_confidence": 0.86,
-      "label": "content"
-    },
-    {
-      "start": 826.02,
-      "end": 830.86,
+      "start": 826.04,
+      "end": 830.68,
       "has_speech": false,
-      "audio_type": "music",
+      "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
       "label": "transition"
     },
     {
-      "start": 830.86,
-      "end": 834.64,
+      "start": 830.68,
+      "end": 840.44,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "And we have confirmation of crew module service module separation.",
+      "transcript": "And we have confirmation of crew module service module separation. The European service module now separated from Integrity a job well done.",
       "asr_confidence": 0.89,
       "label": "content"
     },
     {
-      "start": 834.64,
-      "end": 840.46,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "The European service module now separated from integrity a job well done.",
-      "asr_confidence": 0.78,
-      "label": "content"
-    },
-    {
-      "start": 840.46,
-      "end": 842.44,
+      "start": 840.44,
+      "end": 842.82,
       "has_speech": false,
       "audio_type": "silence",
       "transcript": null,
@@ -2539,53 +2539,17 @@
       "label": "transition"
     },
     {
-      "start": 842.44,
-      "end": 846.78,
+      "start": 842.82,
+      "end": 852.64,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "And we have crossed the threshold now entering the Earth's atmosphere.",
-      "asr_confidence": 0.92,
-      "label": "content"
-    },
-    {
-      "start": 846.78,
-      "end": 848.06,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 848.06,
-      "end": 852.66,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "We're at 400,000 feet traveling 34,800 feet per second.",
-      "asr_confidence": 0.92,
-      "label": "content"
-    },
-    {
-      "start": 852.66,
-      "end": 857.04,
-      "has_speech": false,
-      "audio_type": "silence",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 857.04,
-      "end": 860.48,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "And as predicted, we've entered our communications blackout.",
+      "transcript": "And we have crossed the threshold now entering the Earth's atmosphere. We're at 400,000 feet traveling 34,800 feet per second.",
       "asr_confidence": 0.94,
       "label": "content"
     },
     {
-      "start": 860.48,
-      "end": 862.22,
+      "start": 852.64,
+      "end": 857.08,
       "has_speech": false,
       "audio_type": "silence",
       "transcript": null,
@@ -2593,30 +2557,48 @@
       "label": "transition"
     },
     {
-      "start": 862.22,
-      "end": 864.94,
+      "start": 857.08,
+      "end": 860.56,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Integrity, Houston, Comchec, post blackout.",
-      "asr_confidence": 0.65,
+      "transcript": "And as predicted, we ventured our communications block out.",
+      "asr_confidence": 0.8,
       "label": "content"
     },
     {
-      "start": 864.94,
-      "end": 867.32,
+      "start": 860.56,
+      "end": 862.06,
       "has_speech": false,
-      "audio_type": "music",
+      "audio_type": "silence",
       "transcript": null,
       "asr_confidence": 1.0,
       "label": "transition"
     },
     {
-      "start": 867.32,
+      "start": 862.06,
+      "end": 864.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Integrity, Houston, Com check post block out.",
+      "asr_confidence": 0.65,
+      "label": "content"
+    },
+    {
+      "start": 864.92,
+      "end": 867.14,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 867.14,
       "end": 869.36,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Houston, integrity, we have you loud and clear.",
-      "asr_confidence": 0.78,
+      "transcript": "Houston, Integrity, we have you loud and clear.",
+      "asr_confidence": 0.9,
       "label": "content"
     },
     {
@@ -2630,7 +2612,7 @@
     },
     {
       "start": 871.1,
-      "end": 875.34,
+      "end": 875.36,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "Your trajectory is nominal and your recovery teams have visual.",
@@ -2638,8 +2620,8 @@
       "label": "content"
     },
     {
-      "start": 875.34,
-      "end": 876.7,
+      "start": 875.36,
+      "end": 876.74,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -2647,16 +2629,16 @@
       "label": "transition"
     },
     {
-      "start": 876.7,
-      "end": 878.38,
+      "start": 876.74,
+      "end": 878.42,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "We're at 50,000 feet.",
-      "asr_confidence": 0.97,
+      "asr_confidence": 0.98,
       "label": "content"
     },
     {
-      "start": 878.38,
+      "start": 878.42,
       "end": 885.5,
       "has_speech": false,
       "audio_type": "silence",
@@ -2666,16 +2648,16 @@
     },
     {
       "start": 885.5,
-      "end": 889.7,
+      "end": 889.62,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "And there go the first series of parachutes and we're on droves.",
-      "asr_confidence": 0.88,
+      "transcript": "And they go the first series of parachutes and we're on drugs.",
+      "asr_confidence": 0.74,
       "label": "content"
     },
     {
-      "start": 889.7,
-      "end": 891.2,
+      "start": 889.62,
+      "end": 891.16,
       "has_speech": false,
       "audio_type": "silence",
       "transcript": null,
@@ -2683,17 +2665,17 @@
       "label": "transition"
     },
     {
-      "start": 891.2,
-      "end": 893.58,
+      "start": 891.16,
+      "end": 893.56,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "And Houston were visual two droves out the window.",
-      "asr_confidence": 0.63,
+      "transcript": "And Houston were visual two drugs out the window.",
+      "asr_confidence": 0.75,
       "label": "content"
     },
     {
-      "start": 893.58,
-      "end": 897.22,
+      "start": 893.56,
+      "end": 896.94,
       "has_speech": false,
       "audio_type": "silence",
       "transcript": null,
@@ -2701,53 +2683,26 @@
       "label": "transition"
     },
     {
-      "start": 897.22,
-      "end": 899.08,
+      "start": 896.94,
+      "end": 901.86,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Two good drogue shoots.",
-      "asr_confidence": 0.81,
+      "transcript": "Two good drug shoots. Next up, we copy, we see them.",
+      "asr_confidence": 0.85,
       "label": "content"
     },
     {
-      "start": 899.08,
-      "end": 901.02,
+      "start": 901.86,
+      "end": 905.88,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Next up, we copy, we see them.",
-      "asr_confidence": 0.87,
-      "label": "content"
-    },
-    {
-      "start": 901.02,
-      "end": 902.08,
-      "has_speech": false,
-      "audio_type": "silence",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 902.08,
-      "end": 906.74,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Next up, the deployment of pilot parachutes that will pull the main shoots out,",
-      "asr_confidence": 0.98,
-      "label": "content"
-    },
-    {
-      "start": 906.74,
-      "end": 909.56,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "time to splash down three minutes and 10 seconds.",
+      "transcript": "Next up, the deployment of pilot parachutes that will pull the main shoots out.",
       "asr_confidence": 0.91,
       "label": "content"
     },
     {
-      "start": 909.56,
-      "end": 911.42,
+      "start": 905.88,
+      "end": 907.1,
       "has_speech": false,
       "audio_type": "silence",
       "transcript": null,
@@ -2755,17 +2710,17 @@
       "label": "transition"
     },
     {
-      "start": 911.42,
-      "end": 915.04,
+      "start": 907.1,
+      "end": 909.58,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Passing through 10,000 feet, still on droves.",
-      "asr_confidence": 0.97,
+      "transcript": "Time to splash down three minutes and 10 seconds.",
+      "asr_confidence": 0.86,
       "label": "content"
     },
     {
-      "start": 915.04,
-      "end": 930.3,
+      "start": 909.58,
+      "end": 911.48,
       "has_speech": false,
       "audio_type": "silence",
       "transcript": null,
@@ -2773,17 +2728,35 @@
       "label": "transition"
     },
     {
-      "start": 930.3,
+      "start": 911.48,
+      "end": 914.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Passing through 10,000 feet. Still on drugs.",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 914.96,
+      "end": 930.18,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 930.18,
       "end": 931.66,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "Main shoot deploy.",
-      "asr_confidence": 0.64,
+      "asr_confidence": 0.4,
       "label": "content"
     },
     {
       "start": 931.66,
-      "end": 935.12,
+      "end": 935.02,
       "has_speech": false,
       "audio_type": "silence",
       "transcript": null,
@@ -2791,116 +2764,26 @@
       "label": "transition"
     },
     {
-      "start": 935.12,
-      "end": 936.82,
+      "start": 935.02,
+      "end": 936.84,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "We're at 5,000 feet.",
-      "asr_confidence": 0.92,
-      "label": "content"
-    },
-    {
-      "start": 936.82,
-      "end": 942.18,
-      "has_speech": false,
-      "audio_type": "silence",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 942.18,
-      "end": 945.56,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Surgeon recovery beacon has been activated on integrity.",
-      "asr_confidence": 0.91,
-      "label": "content"
-    },
-    {
-      "start": 945.56,
-      "end": 948.72,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 948.72,
-      "end": 950.46,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "And we have three good main shoots.",
-      "asr_confidence": 0.8,
-      "label": "content"
-    },
-    {
-      "start": 950.46,
-      "end": 950.46,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": null,
-      "asr_confidence": 0.65,
-      "label": "transition"
-    },
-    {
-      "start": 950.46,
-      "end": 953.1,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 953.1,
-      "end": 957.32,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Good three main shoots, good briefing, good descent rate.",
-      "asr_confidence": 0.59,
-      "label": "transition"
-    },
-    {
-      "start": 957.32,
-      "end": 959.36,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "We see three good looking parachutes.",
-      "asr_confidence": 0.72,
-      "label": "content"
-    },
-    {
-      "start": 959.36,
-      "end": 967.9,
-      "has_speech": false,
-      "audio_type": "silence",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 967.9,
-      "end": 975.62,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Integrity about to complete a journey spanning 694,481 miles from its launch",
-      "asr_confidence": 0.93,
-      "label": "content"
-    },
-    {
-      "start": 975.62,
-      "end": 980.22,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "from the Kennedy Space Center back on April 1st and a trip around the moon.",
       "asr_confidence": 0.9,
       "label": "content"
     },
     {
-      "start": 980.22,
-      "end": 1014.0,
+      "start": 936.84,
+      "end": 938.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We're at 5,000 feet.",
+      "asr_confidence": 0.09,
+      "label": "content"
+    },
+    {
+      "start": 938.08,
+      "end": 942.58,
       "has_speech": false,
       "audio_type": "silence",
       "transcript": null,
@@ -2908,7 +2791,79 @@
       "label": "transition"
     },
     {
-      "start": 1014.0,
+      "start": 942.58,
+      "end": 945.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Surgeon recovery beacon has been activated on Integrity.",
+      "asr_confidence": 0.8,
+      "label": "content"
+    },
+    {
+      "start": 945.68,
+      "end": 948.82,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 948.82,
+      "end": 950.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And we have three good main shoots.",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 950.6,
+      "end": 953.24,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 953.24,
+      "end": 956.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Good three main shoots. Good briefing. Good to set rate.",
+      "asr_confidence": 0.73,
+      "label": "content"
+    },
+    {
+      "start": 956.68,
+      "end": 968.02,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 968.02,
+      "end": 980.22,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Integrity about to complete a journey spanning 694,481 miles from its launch from the Kennedy Space Center back on April 1st and a trip around the moon.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 980.22,
+      "end": 1014.02,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1014.02,
       "end": 1016.0,
       "has_speech": true,
       "audio_type": "speech",
@@ -2918,7 +2873,7 @@
     },
     {
       "start": 1016.0,
-      "end": 1047.96,
+      "end": 1054.7,
       "has_speech": false,
       "audio_type": "silence",
       "transcript": null,
@@ -2926,116 +2881,26 @@
       "label": "transition"
     },
     {
-      "start": 1047.96,
-      "end": 1055.26,
+      "start": 1054.7,
+      "end": 1056.82,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Passing through 10,000 feet.",
-      "asr_confidence": 0.06,
+      "transcript": "Passing through 1,000 feet.",
+      "asr_confidence": 0.13,
       "label": "content"
     },
     {
-      "start": 1055.26,
-      "end": 1059.68,
+      "start": 1056.82,
+      "end": 1059.48,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Houston, tragedy, splash down sending post landing command now.",
-      "asr_confidence": 0.44,
+      "transcript": "Passing through 1,000 feet.",
+      "asr_confidence": 0.07,
       "label": "content"
     },
     {
-      "start": 1059.68,
-      "end": 1061.4,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Splash down confirmed.",
-      "asr_confidence": 0.81,
-      "label": "content"
-    },
-    {
-      "start": 1061.4,
-      "end": 1064.1,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Copy splash down, waiting on VLDR.",
-      "asr_confidence": 0.81,
-      "label": "content"
-    },
-    {
-      "start": 1064.1,
-      "end": 1069.62,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Splash down confirmed at 707 PM Central Time, 507 PM Pacific Time.",
-      "asr_confidence": 0.77,
-      "label": "content"
-    },
-    {
-      "start": 1069.62,
-      "end": 1070.86,
-      "has_speech": false,
-      "audio_type": "silence",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 1070.86,
-      "end": 1075.38,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "From the pages of Jules Verne to a modern day mission to the moon,",
-      "asr_confidence": 0.89,
-      "label": "content"
-    },
-    {
-      "start": 1075.38,
-      "end": 1079.56,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "a new chapter of the exploration of our celestial neighbor is complete.",
-      "asr_confidence": 0.96,
-      "label": "content"
-    },
-    {
-      "start": 1079.56,
-      "end": 1082.16,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Integrity's astronauts back on Earth.",
-      "asr_confidence": 0.74,
-      "label": "content"
-    },
-    {
-      "start": 1082.16,
-      "end": 1083.56,
-      "has_speech": false,
-      "audio_type": "silence",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 1083.56,
-      "end": 1086.36,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Perfect communications established.",
-      "asr_confidence": 0.93,
-      "label": "content"
-    },
-    {
-      "start": 1086.36,
-      "end": 1090.7,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "We are stable one for green crew members.",
-      "asr_confidence": 0.58,
-      "label": "content"
-    },
-    {
-      "start": 1090.7,
-      "end": 1093.12,
+      "start": 1059.48,
+      "end": 1061.12,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -3043,16 +2908,88 @@
       "label": "transition"
     },
     {
-      "start": 1093.12,
-      "end": 1094.42,
+      "start": 1061.12,
+      "end": 1063.68,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Houston copies all.",
-      "asr_confidence": 0.64,
+      "transcript": "Passing through 1,000 feet.",
+      "asr_confidence": 0.71,
       "label": "content"
     },
     {
-      "start": 1094.42,
+      "start": 1063.68,
+      "end": 1066.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Passing through 1,000 feet.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 1066.38,
+      "end": 1076.58,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1076.58,
+      "end": 1080.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Passing through 1,000 feet.",
+      "asr_confidence": 0.06,
+      "label": "content"
+    },
+    {
+      "start": 1080.08,
+      "end": 1081.46,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1081.46,
+      "end": 1085.84,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Perfect communications established.",
+      "asr_confidence": 0.28,
+      "label": "content"
+    },
+    {
+      "start": 1085.84,
+      "end": 1090.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We are stable one for green green member.",
+      "asr_confidence": 0.33,
+      "label": "content"
+    },
+    {
+      "start": 1090.48,
+      "end": 1093.06,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1093.06,
+      "end": 1094.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "He's in copies all.",
+      "asr_confidence": 0.65,
+      "label": "content"
+    },
+    {
+      "start": 1094.46,
       "end": 1095.62,
       "has_speech": false,
       "audio_type": "silence",
@@ -3062,34 +2999,25 @@
     },
     {
       "start": 1095.62,
-      "end": 1100.26,
+      "end": 1101.75,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Read Weisman reporting for green crew members that is not their complexion.",
-      "asr_confidence": 0.87,
+      "transcript": "Read Weisman reporting for green crew members that is not their complexion, that is the fact",
+      "asr_confidence": 0.86,
       "label": "content"
     },
     {
-      "start": 1100.26,
-      "end": 1103.16,
+      "start": 1101.75,
+      "end": 1104.09,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "That is the fact that they're in great condition.",
-      "asr_confidence": 0.97,
+      "transcript": "that they're in great condition. That's what that means.",
+      "asr_confidence": 0.92,
       "label": "content"
     },
     {
-      "start": 1103.16,
-      "end": 1104.08,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "That's what that means.",
-      "asr_confidence": 1.0,
-      "label": "content"
-    },
-    {
-      "start": 1104.08,
-      "end": 1179.56,
+      "start": 1104.09,
+      "end": 1139.85,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -3097,35 +3025,125 @@
       "label": "transition"
     },
     {
-      "start": 1179.56,
-      "end": 1183.82,
+      "start": 1139.85,
+      "end": 1145.63,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "And as there are mission audio loops in mission control in Houston,",
-      "asr_confidence": 0.88,
+      "transcript": "Hey, hey, hey, hey!",
+      "asr_confidence": 0.83,
       "label": "content"
     },
     {
-      "start": 1183.82,
-      "end": 1187.62,
+      "start": 1145.63,
+      "end": 1146.81,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1146.81,
+      "end": 1148.93,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "there is a mission audio loop here on the ship.",
-      "asr_confidence": 0.99,
+      "transcript": "Be here! Be here!",
+      "asr_confidence": 0.38,
       "label": "content"
     },
     {
-      "start": 1187.62,
-      "end": 1190.56,
+      "start": 1148.93,
+      "end": 1151.47,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1151.47,
+      "end": 1161.69,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hey, hey, hey!",
+      "asr_confidence": 0.69,
+      "label": "content"
+    },
+    {
+      "start": 1161.69,
+      "end": 1161.71,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Be here! Be here!",
+      "asr_confidence": 0.54,
+      "label": "content"
+    },
+    {
+      "start": 1161.71,
+      "end": 1161.73,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hey, hey, hey!",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 1161.73,
+      "end": 1162.77,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1162.77,
+      "end": 1167.95,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Be here! Be here!",
+      "asr_confidence": 0.25,
+      "label": "content"
+    },
+    {
+      "start": 1167.95,
+      "end": 1168.97,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Be here! Be here!",
+      "asr_confidence": 0.7,
+      "label": "content"
+    },
+    {
+      "start": 1168.97,
+      "end": 1179.49,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1179.49,
+      "end": 1186.67,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And as there are mission audio loops in mission control in Houston, there is a mission audio loop here on the ship.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 1186.67,
+      "end": 1190.57,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "And it was just reported out that the side hatch is open.",
-      "asr_confidence": 0.99,
+      "asr_confidence": 0.91,
       "label": "content"
     },
     {
-      "start": 1190.56,
-      "end": 1192.64,
+      "start": 1190.57,
+      "end": 1192.51,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -3133,8 +3151,8 @@
       "label": "transition"
     },
     {
-      "start": 1192.64,
-      "end": 1195.06,
+      "start": 1192.51,
+      "end": 1195.13,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "Side hatch of integrity is open.",
@@ -3142,8 +3160,8 @@
       "label": "content"
     },
     {
-      "start": 1195.06,
-      "end": 1198.88,
+      "start": 1195.13,
+      "end": 1198.79,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -3151,242 +3169,26 @@
       "label": "transition"
     },
     {
-      "start": 1198.88,
-      "end": 1203.04,
+      "start": 1198.79,
+      "end": 1203.19,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "You're getting these beautiful shots from our aerial assets.",
-      "asr_confidence": 0.97,
-      "label": "content"
-    },
-    {
-      "start": 1203.04,
-      "end": 1205.52,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "The ship itself where I'm on just three days ago,",
-      "asr_confidence": 0.74,
-      "label": "content"
-    },
-    {
-      "start": 1205.52,
-      "end": 1206.66,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "about 30,000 yards away.",
-      "asr_confidence": 0.6,
-      "label": "content"
-    },
-    {
-      "start": 1206.66,
-      "end": 1210.94,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 1210.94,
-      "end": 1214.32,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Again, plenty of people on the boat here.",
-      "asr_confidence": 0.98,
-      "label": "content"
-    },
-    {
-      "start": 1214.32,
-      "end": 1217.66,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Glue to the side closest to where they can see all this action.",
-      "asr_confidence": 0.92,
-      "label": "content"
-    },
-    {
-      "start": 1217.66,
-      "end": 1220.94,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "And again, with just 3,000 yards separating us,",
-      "asr_confidence": 0.93,
-      "label": "content"
-    },
-    {
-      "start": 1220.94,
-      "end": 1222.6,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "great views from the bow here.",
-      "asr_confidence": 0.97,
-      "label": "content"
-    },
-    {
-      "start": 1222.6,
-      "end": 1223.78,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 1223.78,
-      "end": 1226.66,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "And the initial, you can hear it.",
-      "asr_confidence": 0.91,
-      "label": "content"
-    },
-    {
-      "start": 1226.66,
-      "end": 1244.02,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 1244.02,
-      "end": 1245.5,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Congratulations.",
-      "asr_confidence": 0.0,
-      "label": "content"
-    },
-    {
-      "start": 1245.5,
-      "end": 1248.7,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "The first crew member is out of integrity.",
-      "asr_confidence": 0.75,
-      "label": "content"
-    },
-    {
-      "start": 1248.7,
-      "end": 1261.64,
-      "has_speech": false,
-      "audio_type": "silence",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 1261.64,
-      "end": 1264.02,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Look at the power of those blades.",
-      "asr_confidence": 0.97,
-      "label": "content"
-    },
-    {
-      "start": 1264.02,
-      "end": 1266.14,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 1266.14,
-      "end": 1269.58,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Throwing water out at the center there.",
-      "asr_confidence": 0.81,
-      "label": "content"
-    },
-    {
-      "start": 1269.58,
-      "end": 1270.4,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "The front porch.",
-      "asr_confidence": 0.88,
-      "label": "content"
-    },
-    {
-      "start": 1270.4,
-      "end": 1272.06,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 1272.06,
-      "end": 1276.08,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "With now three astronauts and the recovery specialists.",
-      "asr_confidence": 0.87,
-      "label": "content"
-    },
-    {
-      "start": 1276.08,
-      "end": 1280.06,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 1280.06,
-      "end": 1283.84,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Again, crews already outfitted with a harness vest.",
-      "asr_confidence": 0.83,
-      "label": "content"
-    },
-    {
-      "start": 1283.84,
-      "end": 1287.64,
-      "has_speech": false,
-      "audio_type": "music",
-      "transcript": null,
-      "asr_confidence": 1.0,
-      "label": "transition"
-    },
-    {
-      "start": 1287.64,
-      "end": 1289.84,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "And here we go.",
       "asr_confidence": 0.94,
       "label": "content"
     },
     {
-      "start": 1289.84,
-      "end": 1290.58,
+      "start": 1203.19,
+      "end": 1206.65,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Second astronaut.",
-      "asr_confidence": 0.97,
+      "transcript": "The ship itself, where I'm on, just 3,000 yards away.",
+      "asr_confidence": 0.95,
       "label": "content"
     },
     {
-      "start": 1290.58,
-      "end": 1294.76,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "Now off the front porch, getting hoisted into the second helicopter.",
-      "asr_confidence": 0.91,
-      "label": "content"
-    },
-    {
-      "start": 1294.76,
-      "end": 1314.68,
+      "start": 1206.65,
+      "end": 1210.99,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -3394,35 +3196,62 @@
       "label": "transition"
     },
     {
-      "start": 1314.68,
-      "end": 1317.82,
+      "start": 1210.99,
+      "end": 1217.65,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Oh, there we see Christina there, also smiling.",
+      "transcript": "Again, plenty of people on the boat here glued to the side closest to where they can see all this action.",
       "asr_confidence": 0.92,
       "label": "content"
     },
     {
-      "start": 1317.82,
-      "end": 1321.12,
+      "start": 1217.65,
+      "end": 1223.59,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Finally peering out waving at the cameras.",
-      "asr_confidence": 0.74,
+      "transcript": "And again, with just 3,000 yards separating us, great views from the bow here.",
+      "asr_confidence": 0.95,
       "label": "content"
     },
     {
-      "start": 1321.12,
-      "end": 1322.7,
+      "start": 1223.59,
+      "end": 1229.65,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Hello to you too, Christina, yes.",
-      "asr_confidence": 0.86,
+      "transcript": "And the initial, you can hear it.",
+      "asr_confidence": 0.87,
       "label": "content"
     },
     {
-      "start": 1322.7,
-      "end": 1324.46,
+      "start": 1229.65,
+      "end": 1244.23,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1244.23,
+      "end": 1246.83,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Jubilation here in the flight control room.",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1246.83,
+      "end": 1248.65,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The first crew member is out of integrity.",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 1248.65,
+      "end": 1261.71,
       "has_speech": false,
       "audio_type": "silence",
       "transcript": null,
@@ -3430,8 +3259,98 @@
       "label": "transition"
     },
     {
-      "start": 1324.46,
-      "end": 1326.58,
+      "start": 1261.71,
+      "end": 1275.95,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Look at the power of those blades throwing water out at the center there, the front porch, with now three astronauts and the recovery specialists.",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 1275.95,
+      "end": 1280.09,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1280.09,
+      "end": 1283.87,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Again, crews are already outfitted with a harness vest.",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 1283.87,
+      "end": 1287.67,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1287.67,
+      "end": 1289.83,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And here we go.",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 1289.83,
+      "end": 1294.69,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Second astronaut, now off the front porch, getting hoisted into the second helicopter.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 1294.69,
+      "end": 1314.65,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1314.65,
+      "end": 1321.01,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, there we see Christina there, also smiling, finally peering out waving at the cameras.",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 1321.01,
+      "end": 1322.69,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hello to you too, Christina, yes.",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 1322.69,
+      "end": 1324.09,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1324.09,
+      "end": 1326.57,
       "has_speech": true,
       "audio_type": "speech",
       "transcript": "Welcome back. Welcome, welcome home.",
@@ -3439,8 +3358,8 @@
       "label": "content"
     },
     {
-      "start": 1326.58,
-      "end": 1329.52,
+      "start": 1326.57,
+      "end": 1329.59,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -3448,26 +3367,17 @@
       "label": "transition"
     },
     {
-      "start": 1329.52,
-      "end": 1332.68,
+      "start": 1329.59,
+      "end": 1341.57,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "A pause from the group there on the flight deck.",
-      "asr_confidence": 0.88,
+      "transcript": "A pause from the group there on the flight deck, I'm sure as well as on the level just above them packed with people.",
+      "asr_confidence": 0.9,
       "label": "content"
     },
     {
-      "start": 1332.68,
-      "end": 1340.6,
-      "has_speech": true,
-      "audio_type": "speech",
-      "transcript": "I'm sure as well as on the level just above them packed with people.",
-      "asr_confidence": 0.93,
-      "label": "content"
-    },
-    {
-      "start": 1340.6,
-      "end": 1344.16,
+      "start": 1341.57,
+      "end": 1344.17,
       "has_speech": false,
       "audio_type": "music",
       "transcript": null,
@@ -3475,16 +3385,16 @@
       "label": "transition"
     },
     {
-      "start": 1344.16,
-      "end": 1348.32,
+      "start": 1344.17,
+      "end": 1348.33,
       "has_speech": true,
       "audio_type": "speech",
-      "transcript": "Breathe looking good as he takes his steps towards the medical bay.",
-      "asr_confidence": 0.89,
+      "transcript": "Reed looking good as he takes his steps towards the medical bay.",
+      "asr_confidence": 0.9,
       "label": "content"
     },
     {
-      "start": 1348.32,
+      "start": 1348.33,
       "end": 1350.64,
       "has_speech": false,
       "audio_type": "music",

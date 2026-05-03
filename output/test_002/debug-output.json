@@ -1,0 +1,22 @@
+{
+  "LLM_Raw_Output": "{\n  \"intro\": [\n    {\"start\": 0.0, \"end\": 15.24}\n  ],\n  \"ads\": [\n    {\"start\": 134.66, \"end\": 139.82},\n    {\"start\": 495.42, \"end\": 517.3}\n  ],\n  \"outro\": []\n}",
+  "Parsed_JSON": {
+    "intro": [
+      {
+        "start": 0.0,
+        "end": 15.24
+      }
+    ],
+    "ads": [
+      {
+        "start": 134.66,
+        "end": 139.82
+      },
+      {
+        "start": 495.42,
+        "end": 517.3
+      }
+    ],
+    "outro": []
+  }
+}
