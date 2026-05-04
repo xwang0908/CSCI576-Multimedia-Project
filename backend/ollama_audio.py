@@ -25,6 +25,9 @@ OUTPUT_DIR = PROJECT_ROOT / "output"
 DEFAULT_MODEL_NAME = "qwen2.5:7b"
 MODEL_NAME = DEFAULT_MODEL_NAME  # overridden by --model CLI flag in main()
 
+# LLM 上下文长度
+LLM_NUM_CTX = 32768
+
 
 # ==========================================
 # Transition 切分参数
@@ -56,7 +59,7 @@ def get_video_duration(video_path):
         "-v", "error",
         "-show_entries", "format=duration",
         "-of", "default=noprint_wrappers=1:nokey=1",
-        video_path
+        str(video_path)
     ]
 
     result = subprocess.run(
@@ -75,12 +78,12 @@ def extract_audio_sync(video_path, audio_path):
     command = [
         "ffmpeg",
         "-y",
-        "-i", video_path,
+        "-i", str(video_path),
         "-vn",
         "-acodec", "pcm_s16le",
         "-ar", "16000",
         "-ac", "1",
-        audio_path
+        str(audio_path)
     ]
 
     subprocess.run(
@@ -92,7 +95,7 @@ def extract_audio_sync(video_path, audio_path):
 
 
 def load_audio_to_memory(wav_filename):
-    with wave.open(wav_filename, "rb") as wf:
+    with wave.open(str(wav_filename), "rb") as wf:
         framerate = wf.getframerate()
         raw_data = wf.readframes(wf.getnframes())
         audio_array = np.frombuffer(raw_data, dtype=np.int16).astype(np.float32) / 32768.0
@@ -118,9 +121,6 @@ def classify_non_speech_fast(audio_array, framerate, start_time, end_time, silen
 
 
 def run_whisper_extraction(video_path, audio_path):
-    video_path = str(video_path)
-    audio_path = str(audio_path)
-
     duration_seconds = round(get_video_duration(video_path), 2)
 
     extract_audio_sync(video_path, audio_path)
@@ -130,7 +130,7 @@ def run_whisper_extraction(video_path, audio_path):
     audio_array, framerate = load_audio_to_memory(audio_path)
 
     result = mlx_whisper.transcribe(
-        audio_path,
+        str(audio_path),
         path_or_hf_repo="mlx-community/whisper-base-mlx",
         word_timestamps=True
     )
@@ -237,21 +237,22 @@ def generate_video_profile(segments):
     full_text = " ".join(texts)
     words = full_text.split()
 
-    if len(words) > 800:
+    if len(words) > 900:
         sample_text = " ".join(
-            words[:400] + ["... [MIDDLE OMITTED] ..."] + words[-400:]
+            words[:450] + ["... [MIDDLE OMITTED] ..."] + words[-450:]
         )
     else:
         sample_text = full_text
 
     prompt = f"""
 Read this sampled video transcript, including the beginning and end:
-"{sample_text}"
+
+{sample_text}
 
 Task:
-Provide a 1 to 2 sentence global summary of what this video is about.
+Provide a 1 to 2 sentence global summary of what this video is mainly about.
 
-Return STRICTLY in JSON format:
+Return ONLY valid JSON in this format:
 {{
   "global_summary": "..."
 }}
@@ -268,7 +269,8 @@ Return STRICTLY in JSON format:
             ],
             format="json",
             options={
-                "temperature": 0.2
+                "temperature": 0.2,
+                "num_ctx": LLM_NUM_CTX
             }
         )
 
@@ -282,11 +284,12 @@ Return STRICTLY in JSON format:
 
 
 # ==========================================
-# 第三阶段：构造给 LLM 的导航版 transcript
+# 第三阶段：构造 block
+# 每个 transition 之间的 speech 合并成一个 block，并分配 block_id
 # ==========================================
 
-def build_nav_transcript_from_segments(segments, total_duration, debug_input_path):
-    print("📝 [4/6] 正在构建 adaptive navigation transcript...")
+def build_blocks_from_segments(segments):
+    print("📝 [4/6] 正在根据 transition 构造 block id...")
 
     speech_segments = [
         {
@@ -299,14 +302,9 @@ def build_nav_transcript_from_segments(segments, total_duration, debug_input_pat
     ]
 
     if not speech_segments:
-        nav_transcript = f"Video duration: {total_duration:.2f}s\n"
+        return []
 
-        with open(debug_input_path, "w", encoding="utf-8") as f:
-            f.write(nav_transcript)
-
-        return nav_transcript
-
-    blocks = []
+    raw_blocks = []
 
     current_start = speech_segments[0]["start"]
     current_end = speech_segments[0]["end"]
@@ -322,11 +320,11 @@ def build_nav_transcript_from_segments(segments, total_duration, debug_input_pat
         should_split = gap >= active_threshold
 
         if should_split:
-            blocks.append({
+            raw_blocks.append({
                 "start": current_start,
                 "end": current_end,
                 "text": current_text.strip(),
-                "next_gap": gap
+                "transition_after": gap
             })
 
             if gap >= BIG_GAP_THRESHOLD:
@@ -353,156 +351,138 @@ def build_nav_transcript_from_segments(segments, total_duration, debug_input_pat
             sensitive_mode = False
             sensitive_blocks_left = 0
 
-    blocks.append({
+    raw_blocks.append({
         "start": current_start,
         "end": current_end,
         "text": current_text.strip(),
-        "next_gap": None
+        "transition_after": None
     })
 
-    lines = [
-        f"Video duration: {total_duration:.2f}s",
-        ""
-    ]
+    blocks = []
+
+    for i, block in enumerate(raw_blocks):
+        blocks.append({
+            "id": i,
+            "start": round(block["start"], 2),
+            "end": round(block["end"], 2),
+            "text": block["text"],
+            "transition_after": block["transition_after"]
+        })
+
+    return blocks
+
+
+def build_block_classification_prompt(blocks, total_duration, global_summary, debug_block_input_path):
+    block_texts = []
 
     for block in blocks:
-        lines.append(f"[{block['start']:.2f}s -> {block['end']:.2f}s]")
-        lines.append(block["text"])
-        lines.append("")
+        block_texts.append(
+            f"""Block {block["id"]} | [{block["start"]:.2f}s -> {block["end"]:.2f}s]
+{block["text"]}"""
+        )
 
-        if block["next_gap"] is not None:
-            lines.append(f"(transition: {block['next_gap']:.2f}s)")
-            lines.append("")
+        if block["transition_after"] is not None:
+            block_texts.append(f"(transition: {block['transition_after']:.2f}s)")
 
-    nav_transcript = "\n".join(lines)
+    blocks_section = "\n\n".join(block_texts)
 
-    with open(debug_input_path, "w", encoding="utf-8") as f:
-        f.write(nav_transcript)
+    prompt = f"""
+You are analyzing the audio transcript of a video.
 
-    return nav_transcript
+Video duration:
+{total_duration:.2f}s
 
-
-# ==========================================
-# 第四阶段：一次性 LLM 提取 intro / ads / outro spans
-# ==========================================
-
-def is_valid_span(span):
-    return (
-        isinstance(span, dict)
-        and "start" in span
-        and "end" in span
-        and isinstance(span["start"], (int, float))
-        and isinstance(span["end"], (int, float))
-        and span["start"] <= span["end"]
-    )
-
-
-def normalize_spans(spans, total_duration):
-    cleaned = {
-        "intro": [],
-        "ads": [],
-        "outro": []
-    }
-
-    for key in ["intro", "ads", "outro"]:
-        raw_items = spans.get(key, [])
-
-        if not isinstance(raw_items, list):
-            continue
-
-        for span in raw_items:
-            if not is_valid_span(span):
-                continue
-
-            start = max(0.0, float(span["start"]))
-            end = min(float(span["end"]), float(total_duration))
-
-            if end <= start:
-                continue
-
-            cleaned[key].append({
-                "start": round(start, 2),
-                "end": round(end, 2)
-            })
-
-    return cleaned
-
-
-def extract_spans_from_llm(transcript, total_duration, global_summary, debug_output_path):
-    print(f"🧠 [5/6] 大模型正在进行一次性全局结构分析 ({MODEL_NAME})...")
-
-    system_prompt = f"""You are an expert Audio Transcript Structure Analyzer.
-
-Your task is to identify timestamp spans for intro, ads, and outro based only on the audio transcript.
-
-Global video topic:
+Global topic:
 {global_summary}
 
-Transcript Format Guide:
-The transcript is grouped into continuous speech blocks.
-Each block has this format:
+Task:
+Classify EVERY numbered block into exactly one of these labels:
+- intro
+- ads
+- outro
+- content
 
-[start_time_s -> end_time_s]
-spoken content
+Important:
+Each block is a continuous speech section.
+The line "(transition: X.XXs)" means there is a speech gap between two neighboring blocks.
+Use the full video context, the global topic, and the neighboring blocks to judge continuity.
 
-Blocks are separated by:
+Label definitions:
+- intro: opening countdown, opening greeting, title setup, or beginning introduction.
+- ads: inserted external audio that breaks the main video's continuity, such as a commercial, promo, trailer, music ad, brand ad, sponsor message, or unrelated inserted clip.
+- outro: final closing, goodbye, ending remarks, or end-screen style content.
+- content: the main video content, including normal narration, examples, interviews, mission audio, commentary, jokes, or topic changes that still belong to the video's main story.
 
-(transition: X.XXs)
+Decision rules:
+- Classify a block as ads only when it is clearly unrelated to the global topic and feels inserted between surrounding content.
+- A long transition alone is not enough to classify a block as ads.
+- If a block continues the global topic or surrounding narrative, classify it as content.
+- If a block is weird because ASR transcription is poor, compare it with its neighboring blocks before deciding.
+- If uncertain, classify it as content.
+- You must return one label for every block id.
+- Do not invent block ids.
+- Do not return timestamps.
 
-The transition means there was a speech gap between two speech blocks.
-Short pauses under the threshold have already been merged and are not shown.
-Very long transitions may indicate scene changes or inserted audio, but transition length alone is NOT enough to classify something as an ad.
-
-Categories to find:
-1. "intro": opening greetings, channel intro, or opening setup.
-2. "ads": clear external advertisements, sponsorships, brand promotions, product/service promotions, promo codes, discount offers, or commercial breaks.
-3. "outro": final goodbye, closing remarks, like/subscribe reminders, or ending section.
-
-How to decide ads:
-- Judge whether the speech is semantically abrupt compared with the global topic and the surrounding blocks.
-- A segment may be an ad if it suddenly switches away from the main topic into commercial or promotional language.
-- A segment may be an ad if it sounds like an inserted commercial break rather than part of the main explanation.
-- A long transition before or after a semantically unrelated segment can be supporting evidence.
-- The spoken content still matters most.
-
-Important negative rules:
-- Do NOT classify normal lecture content as ads.
-- Do NOT classify examples, jokes, stories, quotes, experiments, academic explanations, cartoons, or case studies as ads.
-- Do NOT classify mentions of companies, products, courses, money, business, famous people, or brands as ads unless the segment is actually promotional or commercial.
-- If a segment is part of the main topic or is used as an example inside the talk, classify it as content, not ads.
-- If uncertain, classify as content, not ads.
-
-Rules:
-- Use ONLY timestamps shown in the transcript.
-- Do not invent timestamps.
-- If a category is missing, return [].
-- If a section starts or ends inside a block, use the closest block boundary.
-- Output ONLY a valid JSON object.
-"""
-
-    user_prompt = f"""Transcript:
-{transcript}
-
-Output EXACTLY a JSON object with this structure:
+Return ONLY valid JSON in this exact format:
 {{
-  "intro": [
-    {{"start": 0.0, "end": 15.0}}
-  ],
-  "ads": [
-    {{"start": 120.5, "end": 180.0}},
-    {{"start": 400.0, "end": 450.5}}
-  ],
-  "outro": []
+  "results": [
+    {{"id": 0, "label": "intro"}},
+    {{"id": 1, "label": "content"}}
+  ]
 }}
+
+Blocks:
+
+{blocks_section}
 """
 
-    raw_response_text = ""
+    with open(debug_block_input_path, "w", encoding="utf-8") as f:
+        f.write(prompt)
 
-    result_json = {
-        "intro": [],
-        "ads": [],
-        "outro": []
-    }
+    return prompt
+
+
+# ==========================================
+# 第四阶段：一次性 LLM 给每个 block 分类
+# ==========================================
+
+def normalize_label(label):
+    if not isinstance(label, str):
+        return "content"
+
+    label = label.strip().lower()
+
+    if label in {"intro", "ads", "outro", "content"}:
+        return label
+
+    return "content"
+
+
+def classify_blocks_with_llm(blocks, total_duration, global_summary, debug_block_input_path, debug_block_output_path):
+    print(f"🧠 [5/6] 大模型正在进行 block-level 一次性分类 ({MODEL_NAME})...")
+
+    if not blocks:
+        return {}
+
+    system_prompt = """
+You are an expert video audio-transcript continuity classifier.
+
+You classify transcript blocks into:
+intro, ads, outro, content.
+
+Your main job is to identify inserted ads or unrelated inserted audio by comparing each block with the global topic and neighboring blocks.
+
+Return only valid JSON.
+"""
+
+    user_prompt = build_block_classification_prompt(
+        blocks=blocks,
+        total_duration=total_duration,
+        global_summary=global_summary,
+        debug_block_input_path=debug_block_input_path
+    )
+
+    result_map = {}
 
     try:
         response = ollama.chat(
@@ -520,84 +500,164 @@ Output EXACTLY a JSON object with this structure:
             format="json",
             options={
                 "temperature": 0.0,
-                "num_ctx": 8192
+                "num_ctx": LLM_NUM_CTX
             }
         )
 
-        raw_response_text = response["message"]["content"]
+        raw_output = response["message"]["content"]
 
         cleaned_json_text = re.sub(
             r"```json\n?|```",
             "",
-            raw_response_text
+            raw_output
         ).strip()
 
-        parsed_data = json.loads(cleaned_json_text)
+        parsed = json.loads(cleaned_json_text)
 
-        if isinstance(parsed_data, dict):
-            result_json["intro"] = parsed_data.get("intro", [])
-            result_json["ads"] = parsed_data.get("ads", [])
-            result_json["outro"] = parsed_data.get("outro", [])
+        results = parsed.get("results", [])
 
-        result_json = normalize_spans(result_json, total_duration)
+        if isinstance(results, list):
+            for item in results:
+                if not isinstance(item, dict):
+                    continue
+
+                block_id = item.get("id")
+                label = normalize_label(item.get("label", "content"))
+
+                if isinstance(block_id, int):
+                    result_map[block_id] = label
+
+        # 没有返回的 block 默认 content
+        for block in blocks:
+            if block["id"] not in result_map:
+                result_map[block["id"]] = "content"
+
+        debug_data = {
+            "LLM_Raw_Output": raw_output,
+            "Parsed_Block_Labels": result_map
+        }
+
+        with open(debug_block_output_path, "w", encoding="utf-8") as f:
+            json.dump(debug_data, f, indent=2, ensure_ascii=False)
+
+        return result_map
 
     except Exception as e:
-        print(f"❌ LLM 提取或解析失败: {e}")
-        raw_response_text = f"ERROR: {str(e)}\nRaw Output: {raw_response_text}"
+        print(f"❌ Block 分类失败，全部回退为 content: {e}")
 
-    debug_data = {
-        "LLM_Raw_Output": raw_response_text,
-        "Parsed_JSON": result_json
-    }
+        result_map = {
+            block["id"]: "content"
+            for block in blocks
+        }
 
-    with open(debug_output_path, "w", encoding="utf-8") as df:
-        json.dump(debug_data, df, indent=2, ensure_ascii=False)
+        debug_data = {
+            "LLM_Raw_Output": f"ERROR: {str(e)}",
+            "Parsed_Block_Labels": result_map
+        }
 
-    return result_json
+        with open(debug_block_output_path, "w", encoding="utf-8") as f:
+            json.dump(debug_data, f, indent=2, ensure_ascii=False)
+
+        return result_map
+
+
+def sanitize_intro_outro_block_labels(blocks, block_label_map, total_duration):
+    """
+    后处理 intro / outro：
+    - intro 只能保留在视频开头附近
+    - outro 只能保留在视频结尾附近
+    - intro/outro 可能是连续多个 block，要保留连续的一组，不要只保留一个 block
+    - 不符合位置要求的 intro/outro 改成 content
+    - ads 不动
+    """
+
+    intro_window_end = min(90.0, total_duration * 0.08)
+    outro_window_start = max(0.0, total_duration - min(90.0, total_duration * 0.08))
+
+    # 先把明显不在合法区域的 intro/outro 改成 content
+    for block in blocks:
+        block_id = block["id"]
+        label = block_label_map.get(block_id, "content")
+
+        if label == "intro" and block["start"] > intro_window_end:
+            block_label_map[block_id] = "content"
+
+        elif label == "outro" and block["end"] < outro_window_start:
+            block_label_map[block_id] = "content"
+
+    # 找连续 label group
+    def find_label_groups(target_label):
+        groups = []
+        current_group = []
+
+        for block in blocks:
+            block_id = block["id"]
+            label = block_label_map.get(block_id, "content")
+
+            if label == target_label:
+                current_group.append(block)
+            else:
+                if current_group:
+                    groups.append(current_group)
+                    current_group = []
+
+        if current_group:
+            groups.append(current_group)
+
+        return groups
+
+    intro_groups = find_label_groups("intro")
+    outro_groups = find_label_groups("outro")
+
+    # intro 最多保留最靠前的一组连续 block
+    if len(intro_groups) > 1:
+        intro_groups = sorted(intro_groups, key=lambda group: group[0]["start"])
+        groups_to_remove = intro_groups[1:]
+
+        for group in groups_to_remove:
+            for block in group:
+                block_label_map[block["id"]] = "content"
+
+    # outro 最多保留最靠后的一组连续 block
+    if len(outro_groups) > 1:
+        outro_groups = sorted(outro_groups, key=lambda group: group[-1]["end"], reverse=True)
+        groups_to_remove = outro_groups[1:]
+
+        for group in groups_to_remove:
+            for block in group:
+                block_label_map[block["id"]] = "content"
+
+    return block_label_map
 
 
 # ==========================================
-# 第五阶段：span 映射回原始 segments
+# 第五阶段：block label 映射回原始 segments
 # ==========================================
 
-def span_contains_midpoint(span, start, end):
-    mid_point = (start + end) / 2.0
-    return span["start"] <= mid_point <= span["end"]
+def find_block_label_for_segment(seg, blocks, block_label_map):
+    mid_point = (seg["start"] + seg["end"]) / 2.0
+
+    for block in blocks:
+        if block["start"] <= mid_point <= block["end"]:
+            return block_label_map.get(block["id"], "content")
+
+    return "content"
 
 
-def apply_labels_from_spans(segments, spans):
-    print("🎨 正在把 intro / ads / outro spans 映射回原始 segments...")
+def apply_block_labels_to_segments(segments, blocks, block_label_map):
+    print("🎨 正在把 block label 映射回原始 segments...")
 
     for seg in segments:
-        # 非语音段不交给 LLM 判，也不允许被 content 覆盖
+        # 非语音段永远是 transition
         if not seg.get("has_speech"):
             seg["label"] = "transition"
             continue
 
-        s = seg["start"]
-        e = seg["end"]
-
-        label = "content"
-
-        # 优先级：ads > intro > outro > content
-        for span in spans.get("ads", []):
-            if is_valid_span(span) and span_contains_midpoint(span, s, e):
-                label = "ads"
-                break
-
-        if label == "content":
-            for span in spans.get("intro", []):
-                if is_valid_span(span) and span_contains_midpoint(span, s, e):
-                    label = "intro"
-                    break
-
-        if label == "content":
-            for span in spans.get("outro", []):
-                if is_valid_span(span) and span_contains_midpoint(span, s, e):
-                    label = "outro"
-                    break
-
-        seg["label"] = label
+        seg["label"] = find_block_label_for_segment(
+            seg=seg,
+            blocks=blocks,
+            block_label_map=block_label_map
+        )
 
     return segments
 
@@ -617,9 +677,9 @@ def restore_transition_labels(segments):
 
 def robust_smooth_labels(segments):
     """
-    只做非常轻量的平滑：
-    - 可以填补 intro / ads / outro 内部的小 speech 缝隙
-    - 绝对不把 non-speech transition 改成 content
+    轻量平滑：
+    - 填补 intro / ads / outro 内部的小 speech 缝隙
+    - 不允许把 non-speech transition 改成 content
     """
     print("🧹 正在执行轻量平滑，保护 transition 标签...")
 
@@ -638,12 +698,12 @@ def robust_smooth_labels(segments):
             curr_label = labels[i]
             next_label = labels[i + 1]
 
-            # 非语音段永远不参与平滑改写
+            # 非语音段永远保持 transition
             if not segments[i].get("has_speech"):
                 smoothed_labels[i] = "transition"
                 continue
 
-            # 只填补 speech segment 中间的重点标签缝隙
+            # 填补重点标签内部的 speech content 缝隙
             if (
                 prev_label == next_label
                 and prev_label in protected_labels
@@ -653,7 +713,7 @@ def robust_smooth_labels(segments):
                 smoothed_labels[i] = prev_label
                 continue
 
-            # 当前本来就是重点标签，不抹掉
+            # 重点标签不被轻易抹掉
             if curr_label in protected_labels:
                 continue
 
@@ -717,12 +777,13 @@ def resolve_paths(args):
         raise SystemExit(f"error: video not found: {input_path}")
 
     output_dir.mkdir(parents=True, exist_ok=True)
+
     audio_path = output_dir / "temp_audio.wav"
     output_json = Path(args.output) if args.output else output_dir / "audio_signals.json"
-    debug_input_path = output_dir / "debug-input.txt"
-    debug_output_path = output_dir / "debug-output.json"
+    debug_block_input_path = output_dir / "debug-block-input.txt"
+    debug_block_output_path = output_dir / "debug-block-output.json"
 
-    return input_path, audio_path, output_json, debug_input_path, debug_output_path
+    return input_path, audio_path, output_json, debug_block_input_path, debug_block_output_path
 
 
 # ==========================================
@@ -731,21 +792,25 @@ def resolve_paths(args):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Audio analysis: MLX-Whisper transcription + Ollama semantic classification"
+        description="Audio analysis: MLX-Whisper transcription + Ollama block-level semantic classification"
     )
-    parser.add_argument("--name", help="test id (e.g. test_001) — auto-resolves paths")
+    parser.add_argument("--name", help="test id (e.g. test_001) — auto-resolves test/videos/<name>.mp4")
     parser.add_argument("--input", help="path to input video (overrides --name)")
     parser.add_argument("--output_dir", help="custom output directory (default: output/<name>/)")
     parser.add_argument("--output", help="custom output JSON path (overrides --output_dir)")
-    parser.add_argument("--model", default=DEFAULT_MODEL_NAME,
-                        help=f"Ollama model name (default: {DEFAULT_MODEL_NAME}). e.g. qwen2.5:3b, qwen2.5:7b")
+    parser.add_argument(
+        "--model",
+        default=DEFAULT_MODEL_NAME,
+        help=f"Ollama model name (default: {DEFAULT_MODEL_NAME}). e.g. qwen2.5:3b, qwen2.5:7b"
+    )
+
     args = parser.parse_args()
 
     global MODEL_NAME
     MODEL_NAME = args.model
     print(f"[INFO] model: {MODEL_NAME}")
 
-    input_path, audio_path, output_json, debug_input_path, debug_output_path = resolve_paths(args)
+    input_path, audio_path, output_json, debug_block_input_path, debug_block_output_path = resolve_paths(args)
     print(f"[INFO] input:  {input_path}")
     print(f"[INFO] output: {output_json}")
 
@@ -760,23 +825,30 @@ def main():
     print(f"✅ 全局主题: {global_summary}")
     print(f"✅ 总时长: {duration} 秒")
 
-    nav_transcript = build_nav_transcript_from_segments(segments, duration, debug_input_path)
+    blocks = build_blocks_from_segments(segments)
 
-    spans = extract_spans_from_llm(
-        transcript=nav_transcript,
+    block_label_map = classify_blocks_with_llm(
+        blocks=blocks,
         total_duration=duration,
         global_summary=global_summary,
-        debug_output_path=debug_output_path
+        debug_block_input_path=debug_block_input_path,
+        debug_block_output_path=debug_block_output_path
     )
 
-    # LLM 只负责 intro / ads / outro
-    # content 和 transition 在这里规则化生成
-    segments = apply_labels_from_spans(segments, spans)
+    block_label_map = sanitize_intro_outro_block_labels(
+        blocks=blocks,
+        block_label_map=block_label_map,
+        total_duration=duration
+    )
 
-    # 轻量平滑，但不允许破坏 transition
+    segments = apply_block_labels_to_segments(
+        segments=segments,
+        blocks=blocks,
+        block_label_map=block_label_map
+    )
+
     segments = robust_smooth_labels(segments)
 
-    # 最后一层保险：所有 non-speech 必须是 transition
     segments = restore_transition_labels(segments)
 
     macro_blocks = generate_macro_blocks(segments)
@@ -796,8 +868,8 @@ def main():
         audio_path.unlink()
 
     print(f"🎉 任务完成！完整数据已保存至 {output_json}")
-    print(f"🧾 Debug LLM 输入保存至: {debug_input_path}")
-    print(f"🧾 Debug LLM 输出保存至: {debug_output_path}")
+    print(f"🧾 Debug block 输入保存至: {debug_block_input_path}")
+    print(f"🧾 Debug block 输出保存至: {debug_block_output_path}")
 
 
 if __name__ == "__main__":
