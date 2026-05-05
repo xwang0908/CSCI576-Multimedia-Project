@@ -1,7 +1,7 @@
 {
   "video_filename": "test_001.mp4",
   "duration_seconds": 1458.6,
-  "global_summary": "This video discusses the evolution of the human brain, focusing on the prefrontal cortex and its role as an experience simulator. It explores how our ability to simulate experiences can influence our preferences and decisions, suggesting that some of our longings and worries might be overblown due to this capability.",
+  "global_summary": "The video discusses how the human prefrontal cortex allows us to simulate experiences, enabling us to make decisions based on imagined outcomes rather than just current circumstances. It explores how overestimating the difference between various life situations can lead to negative behaviors and emotions.",
   "video_chapters": [
     {
       "label": "transition",
@@ -49,7 +49,7 @@
       "end": 369.44
     },
     {
-      "label": "ads",
+      "label": "content",
       "start": 369.44,
       "end": 422.76
     },
@@ -59,7 +59,7 @@
       "end": 424.18
     },
     {
-      "label": "ads",
+      "label": "content",
       "start": 424.18,
       "end": 521.02
     },
@@ -69,7 +69,7 @@
       "end": 522.4
     },
     {
-      "label": "ads",
+      "label": "content",
       "start": 522.4,
       "end": 592.48
     },
@@ -99,7 +99,7 @@
       "end": 644.2
     },
     {
-      "label": "ads",
+      "label": "content",
       "start": 644.2,
       "end": 711.82
     },
@@ -109,7 +109,7 @@
       "end": 713.04
     },
     {
-      "label": "ads",
+      "label": "content",
       "start": 713.04,
       "end": 776.74
     },
@@ -119,7 +119,7 @@
       "end": 778.08
     },
     {
-      "label": "ads",
+      "label": "content",
       "start": 778.08,
       "end": 797.66
     },
@@ -189,7 +189,7 @@
       "end": 1092.22
     },
     {
-      "label": "content",
+      "label": "ads",
       "start": 1092.22,
       "end": 1100.4
     },
@@ -199,7 +199,7 @@
       "end": 1102.18
     },
     {
-      "label": "content",
+      "label": "ads",
       "start": 1102.18,
       "end": 1103.5
     },
@@ -209,7 +209,7 @@
       "end": 1117.8
     },
     {
-      "label": "content",
+      "label": "outro",
       "start": 1117.8,
       "end": 1261.62
     },
@@ -219,7 +219,7 @@
       "end": 1262.74
     },
     {
-      "label": "content",
+      "label": "outro",
       "start": 1262.74,
       "end": 1452.96
     },
@@ -525,7 +525,7 @@
       "audio_type": "speech",
       "transcript": "Why? Because happiness can be synthesized. Sir Thomas Brown wrote in 1642, I am the happiest man alive.",
       "asr_confidence": 0.94,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 379.0,
@@ -534,7 +534,7 @@
       "audio_type": "speech",
       "transcript": "I have that in me that can convert poverty to riches, adversity to prosperity. I am more invulnerable than a killee's fortune, half not one place to hit me.",
       "asr_confidence": 0.92,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 389.54,
@@ -543,7 +543,7 @@
       "audio_type": "speech",
       "transcript": "Kind of remarkable machinery does this guy have in his head. Well, it turns out it's precisely the same remarkable machinery that all of us have.",
       "asr_confidence": 0.96,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 397.68,
@@ -552,7 +552,7 @@
       "audio_type": "speech",
       "transcript": "Human beings have something that we might think of as a psychological immune system, a system of cognitive processes, largely non-conscious cognitive processes that help them change their views of the world so that they can feel better about the worlds in which they find themselves.",
       "asr_confidence": 0.96,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 416.8,
@@ -561,7 +561,7 @@
       "audio_type": "speech",
       "transcript": "Like Sir Thomas, you have this machine unlike Sir Thomas, you seem not to know it.",
       "asr_confidence": 0.95,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 422.76,
@@ -579,7 +579,7 @@
       "audio_type": "speech",
       "transcript": "We synthesize happiness, but we think happiness is a thing to be found. Now, you don't need me to tell you, give you too many examples of people synthesizing happiness, I suspect though.",
       "asr_confidence": 0.93,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 434.72,
@@ -588,7 +588,7 @@
       "audio_type": "speech",
       "transcript": "I'm going to show you some experimental evidence. You don't have to look very far for evidence. I, as a challenge to myself, since I say this once in a while in lectures, I took a copy of The New York Times and tried to find some instances of people synthesizing happiness.",
       "asr_confidence": 0.96,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 447.08,
@@ -597,7 +597,7 @@
       "audio_type": "speech",
       "transcript": "And here are three guys synthesizing happiness. I'm so much better off physically, financially, emotionally, and almost every other way, mentally, almost every other way.",
       "asr_confidence": 0.92,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 455.08,
@@ -606,7 +606,7 @@
       "audio_type": "speech",
       "transcript": "And on one minute's regret, it was a glorious experience. I believe it turned out for the best. Who are these characters who are so damn happy? Well, the first one is Jim Wright. Some of you are old enough to remember. He was the chairman of the House of Representatives.",
       "asr_confidence": 0.96,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 467.5,
@@ -615,7 +615,7 @@
       "audio_type": "speech",
       "transcript": "And he resigned in disgrace when this young Republican named Newt Green Gritch found out about a shady book deal he had done. He lost everything.",
       "asr_confidence": 0.89,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 474.5,
@@ -624,7 +624,7 @@
       "audio_type": "speech",
       "transcript": "Most powerful Democrat in the country lost everything. He lost his money, lost his power. What does he have to say all these years later about it? I am so much better off physically, financially, mentally, and almost every other way. What other way would there be to be better off?",
       "asr_confidence": 0.94,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 488.66,
@@ -633,7 +633,7 @@
       "audio_type": "speech",
       "transcript": "Vegetablee, Minerale, Animale? He's pretty much covered in there.",
       "asr_confidence": 0.77,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 493.66,
@@ -642,7 +642,7 @@
       "audio_type": "speech",
       "transcript": "Maurice Bicum is somebody you've never heard of. Maurice Bicum uttered these words. Upon being released, he was 78 years old. He spent 37 years in Louisiana State Penitentiary for a crime he didn't commit.",
       "asr_confidence": 0.91,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 504.42,
@@ -651,7 +651,7 @@
       "audio_type": "speech",
       "transcript": "He was ultimately exonerated at the age of 78 through DNA evidence. And what did he have to say about his experience? I don't have one minute's regret. It was a glorious experience. Glorious!",
       "asr_confidence": 0.94,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 513.76,
@@ -660,7 +660,7 @@
       "audio_type": "speech",
       "transcript": "This guy is not saying, why are some nice guys that are Jim? It's glorious! A word we usually reserve for something like a religious experience.",
       "asr_confidence": 0.83,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 521.02,
@@ -678,7 +678,7 @@
       "audio_type": "speech",
       "transcript": "Harrius Langerman uttered these words, and he's somebody you might have known but didn't. Because in 1949 he read a little article in the paper about a hamburger stand owned by these two brothers named McDonald's. And he thought, that's a really neat idea. So he went to find them. They said, we'd give you a franchise on this for $3,000.",
       "asr_confidence": 0.91,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 539.02,
@@ -687,7 +687,7 @@
       "audio_type": "speech",
       "transcript": "Harrius Langerman went back to New York, asked his brother who was an investment banker to loan him the $3,000 and his brothers immortal words were, you idiot, nobody eats hamburgers.",
       "asr_confidence": 0.74,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 547.44,
@@ -696,7 +696,7 @@
       "audio_type": "speech",
       "transcript": "He wouldn't land in the money, and of course six months later Ray Croc had exactly the same idea. It turns out people do eat hamburgers, and Ray Croc for a while became the richest man in America.",
       "asr_confidence": 0.92,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 557.52,
@@ -705,7 +705,7 @@
       "audio_type": "speech",
       "transcript": "Oh, and then finally, the best of all possible worlds, some of you recognize this young photo of Pete Best, who was the original drummer for the Beatles. Until they sent him out on an errand and snuck away, and picked up Ringo on a tour.",
       "asr_confidence": 0.89,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 572.34,
@@ -714,7 +714,7 @@
       "audio_type": "speech",
       "transcript": "Well, in 1994 when Pete Best was interviewed, yes, he's still a drummer, yes, he's a studio musician. He had this to say, I'm happier than I would have been with the Beatles.",
       "asr_confidence": 0.9,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 581.48,
@@ -723,7 +723,7 @@
       "audio_type": "speech",
       "transcript": "Okay, there's something important to be learned from these people, and it is the secret of happiness. Here it is, finally to be revealed.",
       "asr_confidence": 0.95,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 588.94,
@@ -732,7 +732,7 @@
       "audio_type": "speech",
       "transcript": "First, a crew wealth power and prestige, then lose it.",
       "asr_confidence": 0.86,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 592.48,
@@ -804,7 +804,7 @@
       "audio_type": "speech",
       "transcript": "You're sampled in mall because the crisp is so good on your lips.",
       "asr_confidence": 0.67,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 649.4,
@@ -813,7 +813,7 @@
       "audio_type": "speech",
       "transcript": "Yeah, you left your wallet at home, but now you have a new best friend.",
       "asr_confidence": 0.86,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 656.08,
@@ -822,7 +822,7 @@
       "audio_type": "speech",
       "transcript": "The many flavors of lace chips, one taste, and you're in love.",
       "asr_confidence": 0.94,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 659.84,
@@ -831,7 +831,7 @@
       "audio_type": "speech",
       "transcript": "And you figured that out just about the time she threw the engagement ring in your face.",
       "asr_confidence": 0.94,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 664.44,
@@ -840,7 +840,7 @@
       "audio_type": "speech",
       "transcript": "We smirk because we believe that synthetic happiness is not of the same quality as what we might call natural happiness.",
       "asr_confidence": 0.95,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 672.42,
@@ -849,7 +849,7 @@
       "audio_type": "speech",
       "transcript": "What are these terms? Natural happiness is what we get when we get what we wanted, and synthetic happiness is what we make when we don't get what we wanted.",
       "asr_confidence": 0.98,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 682.04,
@@ -858,7 +858,7 @@
       "audio_type": "speech",
       "transcript": "In our society, we have a strong belief that synthetic happiness is of an inferior kind.",
       "asr_confidence": 0.99,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 688.32,
@@ -867,7 +867,7 @@
       "audio_type": "speech",
       "transcript": "Why do we have that belief? Well, it's very simple.",
       "asr_confidence": 1.0,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 691.88,
@@ -876,7 +876,7 @@
       "audio_type": "speech",
       "transcript": "What kind of economic engine would keep churning if we believe that not getting what we want could make us just as happy as getting it?",
       "asr_confidence": 0.95,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 701.94,
@@ -885,7 +885,7 @@
       "audio_type": "speech",
       "transcript": "With all apologies to my friend Mathew Ricard, a shopping mall full of Zen monks is not going to be particularly profitable because they don't want stuff enough.",
       "asr_confidence": 0.93,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 711.82,
@@ -903,7 +903,7 @@
       "audio_type": "speech",
       "transcript": "I want to suggest to you that synthetic happiness is every bit as real and adoring as the kind of happiness you stumble upon when you get exactly what you were aiming for.",
       "asr_confidence": 0.93,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 724.02,
@@ -912,7 +912,7 @@
       "audio_type": "speech",
       "transcript": "Now I'm a scientist, so I'm going to do this not with a rhetoric, but by marinating you in a little bit of data.",
       "asr_confidence": 0.93,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 729.0,
@@ -921,7 +921,7 @@
       "audio_type": "speech",
       "transcript": "Let me first show you an experimental paradigm that is used to demonstrate the synthesis of happiness among regular old folks.",
       "asr_confidence": 0.99,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 736.46,
@@ -930,7 +930,7 @@
       "audio_type": "speech",
       "transcript": "This isn't mine, there's a 50-year-old paradigm called the free choice paradigm. It's very simple.",
       "asr_confidence": 0.85,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 741.7,
@@ -939,7 +939,7 @@
       "audio_type": "speech",
       "transcript": "You bring in say six objects, and you ask a subject to rank them from the most to the least like.",
       "asr_confidence": 0.92,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 747.42,
@@ -948,7 +948,7 @@
       "audio_type": "speech",
       "transcript": "In this case, because the experiment I'm going to tell you about uses them, these are Monet prints.",
       "asr_confidence": 0.93,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 752.28,
@@ -957,7 +957,7 @@
       "audio_type": "speech",
       "transcript": "So everybody can rank these Monet prints from the one they like the most to the one they like the least.",
       "asr_confidence": 0.94,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 756.66,
@@ -966,7 +966,7 @@
       "audio_type": "speech",
       "transcript": "Now we give you a choice. We happen to have some extra prints in the closet, and we're going to give you one as your prize to take home.",
       "asr_confidence": 0.98,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 763.28,
@@ -975,7 +975,7 @@
       "audio_type": "speech",
       "transcript": "We happen to have number three and number four. We tell the subject.",
       "asr_confidence": 0.85,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 767.54,
@@ -984,7 +984,7 @@
       "audio_type": "speech",
       "transcript": "There's a bit of a difficult choice because neither one is preferred strongly to the other, but naturally people tend to pick number three because they like to the little better than number four.",
       "asr_confidence": 0.93,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 776.74,
@@ -1002,7 +1002,7 @@
       "audio_type": "speech",
       "transcript": "Sometime later, it could be 15 minutes, it could be 15 days. The same stimuli are put before the subject, and the subject is asked to re-rank the stimuli.",
       "asr_confidence": 0.96,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 786.36,
@@ -1011,7 +1011,7 @@
       "audio_type": "speech",
       "transcript": "Tell us how much you like them now.",
       "asr_confidence": 0.98,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 787.82,
@@ -1020,7 +1020,7 @@
       "audio_type": "speech",
       "transcript": "What happens? Watch this happiness is synthesized. This is the result that has been replicated over and over again.",
       "asr_confidence": 0.87,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 794.98,
@@ -1029,7 +1029,7 @@
       "audio_type": "speech",
       "transcript": "You're watching happiness be synthesized. Would you like to see it again?",
       "asr_confidence": 0.97,
-      "label": "ads"
+      "label": "content"
     },
     {
       "start": 797.66,
@@ -1389,7 +1389,7 @@
       "audio_type": "speech",
       "transcript": "You want one? Sorry. Too bad of a year down there. She's our love here.",
       "asr_confidence": 0.66,
-      "label": "content"
+      "label": "ads"
     },
     {
       "start": 1100.4,
@@ -1407,7 +1407,7 @@
       "audio_type": "speech",
       "transcript": "So so.",
       "asr_confidence": 0.37,
-      "label": "content"
+      "label": "ads"
     },
     {
       "start": 1103.5,
@@ -1425,7 +1425,7 @@
       "audio_type": "speech",
       "transcript": "So we gave them cameras. They went around campus. They took 12 pictures of their favorite professors in their dorm room and their, you know, their dog and all the other things they wanted to have her memories of.",
       "asr_confidence": 0.9,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1127.86,
@@ -1434,7 +1434,7 @@
       "audio_type": "speech",
       "transcript": "They bring us the camera. We make up a contact sheet. They figure out which are the two best pictures and we now spend six hours teaching them about dark rooms and they blow two of them up and they have two gorgeous eight by ten glossies of meaningful things to them and we say which one would you like to give up?",
       "asr_confidence": 0.92,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1142.6,
@@ -1443,7 +1443,7 @@
       "audio_type": "speech",
       "transcript": "I have to give one up. Oh yes, we need one is evidence of the class project. So you have to give me one. You have to make a choice. You get to keep one and I get to keep one.",
       "asr_confidence": 0.95,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1152.8,
@@ -1452,7 +1452,7 @@
       "audio_type": "speech",
       "transcript": "Now there are two conditions in this experiment. In one case the students are told, but you know if you want to change your mind, I'll always have the other one here and in the next four days before I actually mail it to headquarters.",
       "asr_confidence": 0.91,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1166.88,
@@ -1461,7 +1461,7 @@
       "audio_type": "speech",
       "transcript": "I'll be glad to head quarters. I'll be glad to swap it out with you. In fact, I'll come to your dorm room and give just give me an email better yet. I'll check with you.",
       "asr_confidence": 0.91,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1176.6,
@@ -1470,7 +1470,7 @@
       "audio_type": "speech",
       "transcript": "You ever want to change your mind? It's totally returnable. The other half of the students are told exactly the opposite. Make your choice and by the way the mail is going out gosh in two minutes to England, your picture will be winging its way over the Atlantic. You will never see it again. Now, half of the students in each of these conditions are estimate predictions about how much they're going to come to like the picture that they keep in the picture they leave behind.",
       "asr_confidence": 0.94,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1201.1,
@@ -1479,7 +1479,7 @@
       "audio_type": "speech",
       "transcript": "Other students are just sent back to their little dorm rooms and they are measured over the next six to three to six days on their liking, satisfaction with the pictures. Look at what we find. First of all, here's what students think is going to happen.",
       "asr_confidence": 0.93,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1215.84,
@@ -1488,7 +1488,7 @@
       "audio_type": "speech",
       "transcript": "They think they're going to maybe come to like the picture they chose a little more than the one they left behind, but these are not statistically significant differences. It's a very small increase and it doesn't much matter whether they were in the reversible or irreversible.",
       "asr_confidence": 0.96,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1231.08,
@@ -1497,7 +1497,7 @@
       "audio_type": "speech",
       "transcript": "Condition wrong go bad simulators because here's what's really happening both right before the swap and five days later. People who are stuck with that picture who have no choice who can never change their mind like it a lot.",
       "asr_confidence": 0.89,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1246.96,
@@ -1506,7 +1506,7 @@
       "audio_type": "speech",
       "transcript": "And people who are deliberating should I return it have I gotten the right one maybe this isn't the good one maybe I left the good one have killed themselves they don't like their picture and in fact even after the opportunity to swap has expired they still don't like their picture.",
       "asr_confidence": 0.87,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1261.62,
@@ -1524,7 +1524,7 @@
       "audio_type": "speech",
       "transcript": "Why because the irreversible condition is not conducive to the synthesis of happiness. So here's the final piece of this experiment.",
       "asr_confidence": 0.96,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1272.0,
@@ -1533,7 +1533,7 @@
       "audio_type": "speech",
       "transcript": "We bring in a whole new group of naive Harvard students and we say you know we're doing a photography course and we can do it one or two ways.",
       "asr_confidence": 0.9,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1281.7,
@@ -1542,7 +1542,7 @@
       "audio_type": "speech",
       "transcript": "We could do it so that when you take the two pictures you'd have four days to change your mind. We're doing another course where you take the two pictures and you make up your mind right away and you can never change it which course would you like to be in the 66% of the students two thirds preferred to be in the course where they have the opportunity to change their mind.",
       "asr_confidence": 0.94,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1300.98,
@@ -1551,7 +1551,7 @@
       "audio_type": "speech",
       "transcript": "Hello 66% of the students choose to be in the course in which they will ultimately be deeply dissatisfied with the picture because they do not know the conditions under which synthetic happiness grows.",
       "asr_confidence": 0.93,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1315.66,
@@ -1560,7 +1560,7 @@
       "audio_type": "speech",
       "transcript": "The Bard said everything best of course and he's making my point here but he's making it hyper-bolicly.",
       "asr_confidence": 0.8,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1323.14,
@@ -1569,7 +1569,7 @@
       "audio_type": "speech",
       "transcript": "It is nothing good or bad but thinking makes it so it's nice poetry but that can't exactly be right. Is there really nothing good or bad? Is it really the case that gallbladder surgery and a trip to Paris are just the same thing?",
       "asr_confidence": 0.93,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1337.06,
@@ -1578,7 +1578,7 @@
       "audio_type": "speech",
       "transcript": "That seems like a one question IQ test. They can't be exactly the same. In more turgid prose but closer to the truth was the father of modern capitalism Adam Smith and he said this, this is worth contemplating.",
       "asr_confidence": 0.88,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1352.26,
@@ -1587,7 +1587,7 @@
       "audio_type": "speech",
       "transcript": "The great source of both the misery and disorders of human life seems to arise from overrating the difference between one permanent situation and another.",
       "asr_confidence": 0.92,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1362.38,
@@ -1596,7 +1596,7 @@
       "audio_type": "speech",
       "transcript": "Some of these situations may no doubt deserve to be preferred to others but none of them can be deserved, none of them can deserve to be pursued with that passionate order which drives us to violate the rules either of prudence or of justice or to corrupt the future tranquility of our society.",
       "asr_confidence": 0.91,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1382.24,
@@ -1605,7 +1605,7 @@
       "audio_type": "speech",
       "transcript": "We are not going to be able to do our minds either by shame from the remembrance of our own folly or by remorse for the horror of our own injustice.",
       "asr_confidence": 0.68,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1390.72,
@@ -1614,7 +1614,7 @@
       "audio_type": "speech",
       "transcript": "In other words yes, some things are better than others. We should have preferences that lead us into one future over another.",
       "asr_confidence": 0.94,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1400.16,
@@ -1623,7 +1623,7 @@
       "audio_type": "speech",
       "transcript": "But when those preferences drive us too hard and too fast because we have overrated the difference between these futures we are at risk.",
       "asr_confidence": 0.91,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1411.0,
@@ -1632,7 +1632,7 @@
       "audio_type": "speech",
       "transcript": "When our ambition is bounded it leads us to work joyfully. When our ambition is unbounded it leads us to lie, to cheat, to steal, to hurt others, to sacrifice things of real value.",
       "asr_confidence": 0.97,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1422.94,
@@ -1641,7 +1641,7 @@
       "audio_type": "speech",
       "transcript": "When our fears are bounded we are prudent, we are cautious, we are thoughtful when our fears are unbounded and overblown we are reckless and we are cowardly.",
       "asr_confidence": 0.83,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1434.4,
@@ -1650,7 +1650,7 @@
       "audio_type": "speech",
       "transcript": "The lesson I want to leave you with from these data is that our longings and our worries are both to some degree overblown because we have within us the capacity to manufacture the very commodity we are constantly chasing when we choose experience.",
       "asr_confidence": 0.97,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1452.02,
@@ -1659,7 +1659,7 @@
       "audio_type": "speech",
       "transcript": "Thank you.",
       "asr_confidence": 0.59,
-      "label": "content"
+      "label": "outro"
     },
     {
       "start": 1452.96,

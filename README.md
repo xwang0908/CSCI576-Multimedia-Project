@@ -45,8 +45,7 @@ The system produces structured segment signals for each video, including content
 ├── backend/
 │   ├── video.py            # Person A: visual analysis (CLIP + TransNetV2)
 │   ├── ollama_audio.py     # Person B: audio analysis (Whisper + Ollama)
-│   ├── integrator.py       # Person C: fuse signals → segments.json
-│   └── mock_generator.py
+│   └── integrator.py       # Person C: fuse signals → segments.json
 ├── frontend/               # Person D: video player UI
 │   ├── index.html
 │   ├── style.css
@@ -59,8 +58,7 @@ The system produces structured segment signals for each video, including content
 │       ├── video_signals.json
 │       ├── audio_signals.json
 │       └── segments.json
-├── third_party/
-│   └── TransNetV2/         # Vendored scene-cut model
+├── TransNetV2/             # Vendored scene-cut model
 ├── blaze_face_short_range.tflite
 ├── requirements.txt
 ├── FRONTEND_README.md      # Detailed frontend running guide
@@ -146,7 +144,7 @@ If that happens, bypass it through the GitHub media CDN:
 
 ```bash
 WEIGHTS_URL=https://media.githubusercontent.com/media/soCzech/TransNetV2/master/inference/transnetv2-weights
-WEIGHTS_DIR=third_party/TransNetV2/inference/transnetv2-weights
+WEIGHTS_DIR=TransNetV2/inference/transnetv2-weights
 
 curl -sL -o "$WEIGHTS_DIR/saved_model.pb"                            "$WEIGHTS_URL/saved_model.pb"
 curl -sL -o "$WEIGHTS_DIR/variables/variables.data-00000-of-00001"   "$WEIGHTS_URL/variables/variables.data-00000-of-00001"
@@ -156,7 +154,7 @@ curl -sL -o "$WEIGHTS_DIR/variables/variables.index"                 "$WEIGHTS_U
 Verify the weights file:
 
 ```bash
-shasum -a 256 third_party/TransNetV2/inference/transnetv2-weights/saved_model.pb
+shasum -a 256 TransNetV2/inference/transnetv2-weights/saved_model.pb
 ```
 
 Expected checksum:
@@ -354,42 +352,6 @@ http://127.0.0.1:5500/frontend/index.html
 ```
 
 The exact port number may be different.
-
----
-
-## Alternative Frontend Running Method
-
-If Live Server is not available, use Python's local server from the project root.
-
-Make sure the terminal is inside the folder that directly contains:
-
-```txt
-frontend
-output
-test
-```
-
-Then run:
-
-### Windows PowerShell
-
-```powershell
-py -m http.server 5173
-```
-
-### macOS / Linux
-
-```bash
-python3 -m http.server 5173
-```
-
-Then open:
-
-```txt
-http://localhost:5173/frontend/index.html
-```
-
-Note: VS Code Live Server is recommended because it is more reliable for video seeking and timestamp jumping.
 
 ---
 

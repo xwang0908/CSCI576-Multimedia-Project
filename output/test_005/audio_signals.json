@@ -1,0 +1,4869 @@
+{
+  "video_filename": "test_005.mp4",
+  "duration_seconds": 1419.82,
+  "global_summary": "This video documents an expedition led by Julian Bayless, a conservation scientist, to explore and study a pristine rainforest located in a volcanic crater, aiming to understand its ecological value and potential medicinal resources while highlighting the importance of forest conservation.",
+  "video_chapters": [
+    {
+      "label": "transition",
+      "start": 0.0,
+      "end": 16.94
+    },
+    {
+      "label": "intro",
+      "start": 16.94,
+      "end": 18.52
+    },
+    {
+      "label": "transition",
+      "start": 18.52,
+      "end": 21.18
+    },
+    {
+      "label": "content",
+      "start": 21.18,
+      "end": 24.86
+    },
+    {
+      "label": "transition",
+      "start": 24.86,
+      "end": 27.06
+    },
+    {
+      "label": "content",
+      "start": 27.06,
+      "end": 27.44
+    },
+    {
+      "label": "transition",
+      "start": 27.44,
+      "end": 54.96
+    },
+    {
+      "label": "content",
+      "start": 54.96,
+      "end": 59.44
+    },
+    {
+      "label": "transition",
+      "start": 59.44,
+      "end": 82.24
+    },
+    {
+      "label": "content",
+      "start": 82.24,
+      "end": 87.14
+    },
+    {
+      "label": "transition",
+      "start": 87.14,
+      "end": 89.64
+    },
+    {
+      "label": "content",
+      "start": 89.64,
+      "end": 97.66
+    },
+    {
+      "label": "transition",
+      "start": 97.66,
+      "end": 99.18
+    },
+    {
+      "label": "content",
+      "start": 99.18,
+      "end": 131.6
+    },
+    {
+      "label": "transition",
+      "start": 131.6,
+      "end": 133.48
+    },
+    {
+      "label": "content",
+      "start": 133.48,
+      "end": 136.74
+    },
+    {
+      "label": "transition",
+      "start": 136.74,
+      "end": 138.62
+    },
+    {
+      "label": "content",
+      "start": 138.62,
+      "end": 143.5
+    },
+    {
+      "label": "transition",
+      "start": 143.5,
+      "end": 145.62
+    },
+    {
+      "label": "content",
+      "start": 145.62,
+      "end": 150.7
+    },
+    {
+      "label": "transition",
+      "start": 150.7,
+      "end": 166.74
+    },
+    {
+      "label": "ads",
+      "start": 166.74,
+      "end": 169.14
+    },
+    {
+      "label": "transition",
+      "start": 169.14,
+      "end": 171.24
+    },
+    {
+      "label": "ads",
+      "start": 171.24,
+      "end": 196.72
+    },
+    {
+      "label": "transition",
+      "start": 196.72,
+      "end": 214.6
+    },
+    {
+      "label": "ads",
+      "start": 214.6,
+      "end": 226.14
+    },
+    {
+      "label": "transition",
+      "start": 226.14,
+      "end": 246.22
+    },
+    {
+      "label": "content",
+      "start": 246.22,
+      "end": 250.0
+    },
+    {
+      "label": "transition",
+      "start": 250.0,
+      "end": 251.2
+    },
+    {
+      "label": "content",
+      "start": 251.2,
+      "end": 264.34
+    },
+    {
+      "label": "transition",
+      "start": 264.34,
+      "end": 265.96
+    },
+    {
+      "label": "content",
+      "start": 265.96,
+      "end": 267.9
+    },
+    {
+      "label": "transition",
+      "start": 267.9,
+      "end": 271.12
+    },
+    {
+      "label": "content",
+      "start": 271.12,
+      "end": 274.56
+    },
+    {
+      "label": "transition",
+      "start": 274.56,
+      "end": 275.78
+    },
+    {
+      "label": "content",
+      "start": 275.78,
+      "end": 283.24
+    },
+    {
+      "label": "transition",
+      "start": 283.24,
+      "end": 284.3
+    },
+    {
+      "label": "content",
+      "start": 284.3,
+      "end": 287.0
+    },
+    {
+      "label": "transition",
+      "start": 287.0,
+      "end": 288.5
+    },
+    {
+      "label": "content",
+      "start": 288.5,
+      "end": 323.18
+    },
+    {
+      "label": "transition",
+      "start": 323.18,
+      "end": 330.26
+    },
+    {
+      "label": "content",
+      "start": 330.26,
+      "end": 332.38
+    },
+    {
+      "label": "transition",
+      "start": 332.38,
+      "end": 342.76
+    },
+    {
+      "label": "content",
+      "start": 342.76,
+      "end": 354.06
+    },
+    {
+      "label": "transition",
+      "start": 354.06,
+      "end": 357.66
+    },
+    {
+      "label": "content",
+      "start": 357.66,
+      "end": 367.3
+    },
+    {
+      "label": "transition",
+      "start": 367.3,
+      "end": 371.22
+    },
+    {
+      "label": "content",
+      "start": 371.22,
+      "end": 377.76
+    },
+    {
+      "label": "transition",
+      "start": 377.76,
+      "end": 379.24
+    },
+    {
+      "label": "content",
+      "start": 379.24,
+      "end": 382.62
+    },
+    {
+      "label": "transition",
+      "start": 382.62,
+      "end": 388.3
+    },
+    {
+      "label": "content",
+      "start": 388.3,
+      "end": 389.1
+    },
+    {
+      "label": "transition",
+      "start": 389.1,
+      "end": 394.82
+    },
+    {
+      "label": "content",
+      "start": 394.82,
+      "end": 395.62
+    },
+    {
+      "label": "transition",
+      "start": 395.62,
+      "end": 396.72
+    },
+    {
+      "label": "content",
+      "start": 396.72,
+      "end": 397.36
+    },
+    {
+      "label": "transition",
+      "start": 397.36,
+      "end": 430.96
+    },
+    {
+      "label": "content",
+      "start": 430.96,
+      "end": 431.08
+    },
+    {
+      "label": "transition",
+      "start": 431.08,
+      "end": 438.82
+    },
+    {
+      "label": "content",
+      "start": 438.82,
+      "end": 442.52
+    },
+    {
+      "label": "transition",
+      "start": 442.52,
+      "end": 448.06
+    },
+    {
+      "label": "content",
+      "start": 448.06,
+      "end": 452.58
+    },
+    {
+      "label": "transition",
+      "start": 452.58,
+      "end": 469.64
+    },
+    {
+      "label": "content",
+      "start": 469.64,
+      "end": 470.28
+    },
+    {
+      "label": "transition",
+      "start": 470.28,
+      "end": 472.8
+    },
+    {
+      "label": "content",
+      "start": 472.8,
+      "end": 475.62
+    },
+    {
+      "label": "transition",
+      "start": 475.62,
+      "end": 481.22
+    },
+    {
+      "label": "content",
+      "start": 481.22,
+      "end": 496.2
+    },
+    {
+      "label": "transition",
+      "start": 496.2,
+      "end": 501.18
+    },
+    {
+      "label": "content",
+      "start": 501.18,
+      "end": 515.7
+    },
+    {
+      "label": "transition",
+      "start": 515.7,
+      "end": 516.96
+    },
+    {
+      "label": "content",
+      "start": 516.96,
+      "end": 518.6
+    },
+    {
+      "label": "transition",
+      "start": 518.6,
+      "end": 526.46
+    },
+    {
+      "label": "content",
+      "start": 526.46,
+      "end": 527.94
+    },
+    {
+      "label": "transition",
+      "start": 527.94,
+      "end": 529.46
+    },
+    {
+      "label": "content",
+      "start": 529.46,
+      "end": 530.28
+    },
+    {
+      "label": "transition",
+      "start": 530.28,
+      "end": 532.02
+    },
+    {
+      "label": "content",
+      "start": 532.02,
+      "end": 533.42
+    },
+    {
+      "label": "transition",
+      "start": 533.42,
+      "end": 535.1
+    },
+    {
+      "label": "content",
+      "start": 535.1,
+      "end": 536.18
+    },
+    {
+      "label": "transition",
+      "start": 536.18,
+      "end": 540.36
+    },
+    {
+      "label": "ads",
+      "start": 540.36,
+      "end": 556.56
+    },
+    {
+      "label": "transition",
+      "start": 556.56,
+      "end": 557.6
+    },
+    {
+      "label": "ads",
+      "start": 557.6,
+      "end": 557.74
+    },
+    {
+      "label": "transition",
+      "start": 557.74,
+      "end": 558.96
+    },
+    {
+      "label": "ads",
+      "start": 558.96,
+      "end": 563.34
+    },
+    {
+      "label": "transition",
+      "start": 563.34,
+      "end": 564.9
+    },
+    {
+      "label": "ads",
+      "start": 564.9,
+      "end": 566.16
+    },
+    {
+      "label": "transition",
+      "start": 566.16,
+      "end": 573.46
+    },
+    {
+      "label": "content",
+      "start": 573.46,
+      "end": 575.82
+    },
+    {
+      "label": "transition",
+      "start": 575.82,
+      "end": 578.3
+    },
+    {
+      "label": "content",
+      "start": 578.3,
+      "end": 584.38
+    },
+    {
+      "label": "transition",
+      "start": 584.38,
+      "end": 586.7
+    },
+    {
+      "label": "content",
+      "start": 586.7,
+      "end": 597.08
+    },
+    {
+      "label": "transition",
+      "start": 597.08,
+      "end": 601.38
+    },
+    {
+      "label": "content",
+      "start": 601.38,
+      "end": 632.24
+    },
+    {
+      "label": "transition",
+      "start": 632.24,
+      "end": 635.16
+    },
+    {
+      "label": "content",
+      "start": 635.16,
+      "end": 648.4
+    },
+    {
+      "label": "transition",
+      "start": 648.4,
+      "end": 652.46
+    },
+    {
+      "label": "ads",
+      "start": 652.46,
+      "end": 686.6
+    },
+    {
+      "label": "transition",
+      "start": 686.6,
+      "end": 687.82
+    },
+    {
+      "label": "ads",
+      "start": 687.82,
+      "end": 693.72
+    },
+    {
+      "label": "transition",
+      "start": 693.72,
+      "end": 696.5
+    },
+    {
+      "label": "ads",
+      "start": 696.5,
+      "end": 697.16
+    },
+    {
+      "label": "transition",
+      "start": 697.16,
+      "end": 698.18
+    },
+    {
+      "label": "ads",
+      "start": 698.18,
+      "end": 698.54
+    },
+    {
+      "label": "transition",
+      "start": 698.54,
+      "end": 706.38
+    },
+    {
+      "label": "ads",
+      "start": 706.38,
+      "end": 713.88
+    },
+    {
+      "label": "transition",
+      "start": 713.88,
+      "end": 716.98
+    },
+    {
+      "label": "content",
+      "start": 716.98,
+      "end": 723.5
+    },
+    {
+      "label": "transition",
+      "start": 723.5,
+      "end": 724.58
+    },
+    {
+      "label": "content",
+      "start": 724.58,
+      "end": 732.42
+    },
+    {
+      "label": "transition",
+      "start": 732.42,
+      "end": 739.5
+    },
+    {
+      "label": "content",
+      "start": 739.5,
+      "end": 744.46
+    },
+    {
+      "label": "transition",
+      "start": 744.46,
+      "end": 745.7
+    },
+    {
+      "label": "content",
+      "start": 745.7,
+      "end": 758.68
+    },
+    {
+      "label": "transition",
+      "start": 758.68,
+      "end": 760.64
+    },
+    {
+      "label": "content",
+      "start": 760.64,
+      "end": 762.36
+    },
+    {
+      "label": "transition",
+      "start": 762.36,
+      "end": 768.3
+    },
+    {
+      "label": "content",
+      "start": 768.3,
+      "end": 770.04
+    },
+    {
+      "label": "transition",
+      "start": 770.04,
+      "end": 773.16
+    },
+    {
+      "label": "content",
+      "start": 773.16,
+      "end": 786.04
+    },
+    {
+      "label": "transition",
+      "start": 786.04,
+      "end": 789.02
+    },
+    {
+      "label": "content",
+      "start": 789.02,
+      "end": 793.56
+    },
+    {
+      "label": "transition",
+      "start": 793.56,
+      "end": 794.76
+    },
+    {
+      "label": "content",
+      "start": 794.76,
+      "end": 796.36
+    },
+    {
+      "label": "transition",
+      "start": 796.36,
+      "end": 802.52
+    },
+    {
+      "label": "ads",
+      "start": 802.52,
+      "end": 804.28
+    },
+    {
+      "label": "transition",
+      "start": 804.28,
+      "end": 805.44
+    },
+    {
+      "label": "ads",
+      "start": 805.44,
+      "end": 805.94
+    },
+    {
+      "label": "transition",
+      "start": 805.94,
+      "end": 810.18
+    },
+    {
+      "label": "ads",
+      "start": 810.18,
+      "end": 812.8
+    },
+    {
+      "label": "transition",
+      "start": 812.8,
+      "end": 831.68
+    },
+    {
+      "label": "content",
+      "start": 831.68,
+      "end": 837.04
+    },
+    {
+      "label": "transition",
+      "start": 837.04,
+      "end": 838.56
+    },
+    {
+      "label": "content",
+      "start": 838.56,
+      "end": 846.42
+    },
+    {
+      "label": "transition",
+      "start": 846.42,
+      "end": 847.84
+    },
+    {
+      "label": "content",
+      "start": 847.84,
+      "end": 849.4
+    },
+    {
+      "label": "transition",
+      "start": 849.4,
+      "end": 850.78
+    },
+    {
+      "label": "content",
+      "start": 850.78,
+      "end": 860.04
+    },
+    {
+      "label": "transition",
+      "start": 860.04,
+      "end": 864.7
+    },
+    {
+      "label": "content",
+      "start": 864.7,
+      "end": 875.06
+    },
+    {
+      "label": "transition",
+      "start": 875.06,
+      "end": 876.42
+    },
+    {
+      "label": "content",
+      "start": 876.42,
+      "end": 880.68
+    },
+    {
+      "label": "transition",
+      "start": 880.68,
+      "end": 886.54
+    },
+    {
+      "label": "ads",
+      "start": 886.54,
+      "end": 891.38
+    },
+    {
+      "label": "transition",
+      "start": 891.38,
+      "end": 902.6
+    },
+    {
+      "label": "content",
+      "start": 902.6,
+      "end": 910.98
+    },
+    {
+      "label": "transition",
+      "start": 910.98,
+      "end": 914.36
+    },
+    {
+      "label": "ads",
+      "start": 914.36,
+      "end": 923.16
+    },
+    {
+      "label": "transition",
+      "start": 923.16,
+      "end": 999.72
+    },
+    {
+      "label": "ads",
+      "start": 999.72,
+      "end": 1000.52
+    },
+    {
+      "label": "transition",
+      "start": 1000.52,
+      "end": 1002.98
+    },
+    {
+      "label": "ads",
+      "start": 1002.98,
+      "end": 1015.3
+    },
+    {
+      "label": "transition",
+      "start": 1015.3,
+      "end": 1022.46
+    },
+    {
+      "label": "ads",
+      "start": 1022.46,
+      "end": 1023.7
+    },
+    {
+      "label": "transition",
+      "start": 1023.7,
+      "end": 1026.1
+    },
+    {
+      "label": "ads",
+      "start": 1026.1,
+      "end": 1026.62
+    },
+    {
+      "label": "transition",
+      "start": 1026.62,
+      "end": 1028.8
+    },
+    {
+      "label": "content",
+      "start": 1028.8,
+      "end": 1029.94
+    },
+    {
+      "label": "transition",
+      "start": 1029.94,
+      "end": 1031.0
+    },
+    {
+      "label": "content",
+      "start": 1031.0,
+      "end": 1033.36
+    },
+    {
+      "label": "transition",
+      "start": 1033.36,
+      "end": 1034.48
+    },
+    {
+      "label": "content",
+      "start": 1034.48,
+      "end": 1043.5
+    },
+    {
+      "label": "transition",
+      "start": 1043.5,
+      "end": 1044.56
+    },
+    {
+      "label": "content",
+      "start": 1044.56,
+      "end": 1045.24
+    },
+    {
+      "label": "transition",
+      "start": 1045.24,
+      "end": 1047.44
+    },
+    {
+      "label": "content",
+      "start": 1047.44,
+      "end": 1056.22
+    },
+    {
+      "label": "transition",
+      "start": 1056.22,
+      "end": 1058.64
+    },
+    {
+      "label": "content",
+      "start": 1058.64,
+      "end": 1060.06
+    },
+    {
+      "label": "transition",
+      "start": 1060.06,
+      "end": 1061.14
+    },
+    {
+      "label": "content",
+      "start": 1061.14,
+      "end": 1062.24
+    },
+    {
+      "label": "transition",
+      "start": 1062.24,
+      "end": 1071.54
+    },
+    {
+      "label": "content",
+      "start": 1071.54,
+      "end": 1073.76
+    },
+    {
+      "label": "transition",
+      "start": 1073.76,
+      "end": 1077.96
+    },
+    {
+      "label": "content",
+      "start": 1077.96,
+      "end": 1113.66
+    },
+    {
+      "label": "transition",
+      "start": 1113.66,
+      "end": 1115.08
+    },
+    {
+      "label": "content",
+      "start": 1115.08,
+      "end": 1131.04
+    },
+    {
+      "label": "transition",
+      "start": 1131.04,
+      "end": 1138.88
+    },
+    {
+      "label": "content",
+      "start": 1138.88,
+      "end": 1140.12
+    },
+    {
+      "label": "transition",
+      "start": 1140.12,
+      "end": 1141.18
+    },
+    {
+      "label": "content",
+      "start": 1141.18,
+      "end": 1143.62
+    },
+    {
+      "label": "transition",
+      "start": 1143.62,
+      "end": 1145.18
+    },
+    {
+      "label": "content",
+      "start": 1145.18,
+      "end": 1146.06
+    },
+    {
+      "label": "transition",
+      "start": 1146.06,
+      "end": 1147.9
+    },
+    {
+      "label": "content",
+      "start": 1147.9,
+      "end": 1150.56
+    },
+    {
+      "label": "transition",
+      "start": 1150.56,
+      "end": 1157.42
+    },
+    {
+      "label": "content",
+      "start": 1157.42,
+      "end": 1164.56
+    },
+    {
+      "label": "transition",
+      "start": 1164.56,
+      "end": 1165.58
+    },
+    {
+      "label": "content",
+      "start": 1165.58,
+      "end": 1167.68
+    },
+    {
+      "label": "transition",
+      "start": 1167.68,
+      "end": 1170.02
+    },
+    {
+      "label": "content",
+      "start": 1170.02,
+      "end": 1182.6
+    },
+    {
+      "label": "transition",
+      "start": 1182.6,
+      "end": 1185.11
+    },
+    {
+      "label": "content",
+      "start": 1185.11,
+      "end": 1191.14
+    },
+    {
+      "label": "transition",
+      "start": 1191.14,
+      "end": 1194.17
+    },
+    {
+      "label": "content",
+      "start": 1194.17,
+      "end": 1213.2
+    },
+    {
+      "label": "transition",
+      "start": 1213.2,
+      "end": 1215.32
+    },
+    {
+      "label": "content",
+      "start": 1215.32,
+      "end": 1218.24
+    },
+    {
+      "label": "transition",
+      "start": 1218.24,
+      "end": 1219.34
+    },
+    {
+      "label": "content",
+      "start": 1219.34,
+      "end": 1222.36
+    },
+    {
+      "label": "transition",
+      "start": 1222.36,
+      "end": 1223.66
+    },
+    {
+      "label": "content",
+      "start": 1223.66,
+      "end": 1233.5
+    },
+    {
+      "label": "transition",
+      "start": 1233.5,
+      "end": 1236.88
+    },
+    {
+      "label": "content",
+      "start": 1236.88,
+      "end": 1240.82
+    },
+    {
+      "label": "transition",
+      "start": 1240.82,
+      "end": 1242.44
+    },
+    {
+      "label": "content",
+      "start": 1242.44,
+      "end": 1244.22
+    },
+    {
+      "label": "transition",
+      "start": 1244.22,
+      "end": 1247.84
+    },
+    {
+      "label": "content",
+      "start": 1247.84,
+      "end": 1256.1
+    },
+    {
+      "label": "transition",
+      "start": 1256.1,
+      "end": 1260.98
+    },
+    {
+      "label": "ads",
+      "start": 1260.98,
+      "end": 1263.06
+    },
+    {
+      "label": "transition",
+      "start": 1263.06,
+      "end": 1355.3
+    },
+    {
+      "label": "ads",
+      "start": 1355.3,
+      "end": 1363.52
+    },
+    {
+      "label": "transition",
+      "start": 1363.52,
+      "end": 1385.02
+    },
+    {
+      "label": "ads",
+      "start": 1385.02,
+      "end": 1393.44
+    },
+    {
+      "label": "transition",
+      "start": 1393.44,
+      "end": 1418.4
+    },
+    {
+      "label": "outro",
+      "start": 1418.4,
+      "end": 1419.82
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 16.94,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 16.94,
+      "end": 18.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm sorry.",
+      "asr_confidence": 0.13,
+      "label": "intro"
+    },
+    {
+      "start": 18.52,
+      "end": 21.18,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 21.18,
+      "end": 23.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm sorry.",
+      "asr_confidence": 0.6,
+      "label": "content"
+    },
+    {
+      "start": 23.5,
+      "end": 24.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm sorry.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 24.86,
+      "end": 27.06,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 27.06,
+      "end": 27.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm sorry.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 27.44,
+      "end": 54.96,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 54.96,
+      "end": 57.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm sorry.",
+      "asr_confidence": 0.12,
+      "label": "content"
+    },
+    {
+      "start": 57.44,
+      "end": 59.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm sorry.",
+      "asr_confidence": 0.09,
+      "label": "content"
+    },
+    {
+      "start": 59.44,
+      "end": 82.24,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 82.24,
+      "end": 84.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So look puppy. Can you see?",
+      "asr_confidence": 0.59,
+      "label": "content"
+    },
+    {
+      "start": 84.64,
+      "end": 87.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "This is where daddy's going to go.",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 87.06,
+      "end": 87.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No.",
+      "asr_confidence": 0.0,
+      "label": "content"
+    },
+    {
+      "start": 87.14,
+      "end": 89.64,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 89.64,
+      "end": 91.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You're going to go in climb this mountain.",
+      "asr_confidence": 0.64,
+      "label": "content"
+    },
+    {
+      "start": 91.64,
+      "end": 93.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to go in a jungle.",
+      "asr_confidence": 0.37,
+      "label": "content"
+    },
+    {
+      "start": 93.64,
+      "end": 95.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "My name is Julian Bayless.",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 95.38,
+      "end": 96.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm a conservation scientist.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 96.96,
+      "end": 97.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm an ecologist.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 97.66,
+      "end": 99.18,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 99.18,
+      "end": 101.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "My job is to try and help",
+      "asr_confidence": 1.0,
+      "label": "content"
+    },
+    {
+      "start": 101.64,
+      "end": 104.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "conserve and protect areas that are not previously",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 104.62,
+      "end": 107.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "under any form of official protection.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 107.24,
+      "end": 109.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Daddy, go in a big, I would pay.",
+      "asr_confidence": 0.57,
+      "label": "content"
+    },
+    {
+      "start": 109.6,
+      "end": 111.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I saw this site through satellite imagery.",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 111.86,
+      "end": 116.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And I've never, ever come across a site like this.",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 116.02,
+      "end": 117.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "What was interesting about this site",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 117.92,
+      "end": 120.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "was the surrounding land was heavily cultivated.",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 120.72,
+      "end": 123.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And then the crater containing rainforest",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 123.82,
+      "end": 126.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "was very dense and intact.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 126.58,
+      "end": 128.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And I thought that was a little bit strange",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 128.32,
+      "end": 131.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "because there should be evidence of human disturbance.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 131.6,
+      "end": 133.48,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 133.48,
+      "end": 136.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Today I thought, well maybe, actually, you cannot get to the forest.",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 136.74,
+      "end": 138.62,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 138.62,
+      "end": 140.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Therefore potentially this forest has never",
+      "asr_confidence": 0.76,
+      "label": "content"
+    },
+    {
+      "start": 140.88,
+      "end": 143.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "had any human interference.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 143.5,
+      "end": 145.62,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 145.62,
+      "end": 148.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "To actually find a site with no human interference",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 148.1,
+      "end": 150.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "gives us this unique chance to investigate and measure.",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 150.7,
+      "end": 166.74,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 166.74,
+      "end": 169.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to go in a small, red cloud.",
+      "asr_confidence": 0.17,
+      "label": "ads"
+    },
+    {
+      "start": 169.14,
+      "end": 171.24,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 171.24,
+      "end": 175.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to go in a small, red cloud.",
+      "asr_confidence": 0.71,
+      "label": "ads"
+    },
+    {
+      "start": 175.42,
+      "end": 175.84,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to go in a small, red cloud.",
+      "asr_confidence": 0.87,
+      "label": "ads"
+    },
+    {
+      "start": 175.84,
+      "end": 177.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to go in a small, red cloud.",
+      "asr_confidence": 0.91,
+      "label": "ads"
+    },
+    {
+      "start": 177.24,
+      "end": 186.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to go in a small, red cloud.",
+      "asr_confidence": 0.93,
+      "label": "ads"
+    },
+    {
+      "start": 186.66,
+      "end": 190.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to go in a small, red cloud.",
+      "asr_confidence": 0.94,
+      "label": "ads"
+    },
+    {
+      "start": 190.06,
+      "end": 196.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to go in a small, red cloud.",
+      "asr_confidence": 0.94,
+      "label": "ads"
+    },
+    {
+      "start": 196.72,
+      "end": 214.6,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 214.6,
+      "end": 220.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to go in a small, red cloud.",
+      "asr_confidence": 0.13,
+      "label": "ads"
+    },
+    {
+      "start": 220.64,
+      "end": 220.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to go in a small, red cloud.",
+      "asr_confidence": 0.57,
+      "label": "ads"
+    },
+    {
+      "start": 220.74,
+      "end": 220.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to go in a small, red cloud.",
+      "asr_confidence": 0.88,
+      "label": "ads"
+    },
+    {
+      "start": 220.82,
+      "end": 226.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to go in a small, red cloud.",
+      "asr_confidence": 0.9,
+      "label": "ads"
+    },
+    {
+      "start": 226.14,
+      "end": 246.22,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 246.22,
+      "end": 247.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "change.",
+      "asr_confidence": 0.32,
+      "label": "content"
+    },
+    {
+      "start": 247.32,
+      "end": 250.0,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "My vehicle looks a bit like a volcano.",
+      "asr_confidence": 0.73,
+      "label": "content"
+    },
+    {
+      "start": 250.0,
+      "end": 251.2,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 251.2,
+      "end": 253.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's about a kilometer across.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 253.26,
+      "end": 254.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It has a crater.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 254.1,
+      "end": 258.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It has a rim and it has a basin of rainforest.",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 258.38,
+      "end": 264.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It has these very smooth granite edges that rise up to over half a kilometer.",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 264.34,
+      "end": 265.96,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 265.96,
+      "end": 267.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It looks a little bit like a fortress.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 267.9,
+      "end": 271.12,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 271.12,
+      "end": 274.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "One deer, one deer, Thomas Steevall.",
+      "asr_confidence": 0.35,
+      "label": "content"
+    },
+    {
+      "start": 274.56,
+      "end": 275.78,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 275.78,
+      "end": 279.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Everybody, welcome to this expedition.",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 279.06,
+      "end": 279.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "To Mount Lico.",
+      "asr_confidence": 0.36,
+      "label": "content"
+    },
+    {
+      "start": 279.94,
+      "end": 281.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We've got a great team together.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 281.26,
+      "end": 283.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Lots of specialities, lots of nationalities.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 283.24,
+      "end": 284.3,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 284.3,
+      "end": 287.0,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Young and old and everything in between.",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 287.0,
+      "end": 288.5,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 288.5,
+      "end": 291.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The two climbers, Jules Lyons.",
+      "asr_confidence": 0.81,
+      "label": "content"
+    },
+    {
+      "start": 291.34,
+      "end": 293.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "One of the best three climbers in the UK.",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 293.54,
+      "end": 294.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And Mike Robinson.",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 294.42,
+      "end": 297.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Also one of the best three climbers in the UK.",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 297.08,
+      "end": 298.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I've been rigging the climb.",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 298.44,
+      "end": 300.22,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's 125 meters.",
+      "asr_confidence": 0.77,
+      "label": "content"
+    },
+    {
+      "start": 300.22,
+      "end": 301.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The last couple of days now.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 301.66,
+      "end": 302.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And it's basically ready.",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 302.92,
+      "end": 304.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "They're going to finish it off this morning.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 304.18,
+      "end": 306.4,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And then we're going to start sending people up.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 306.4,
+      "end": 306.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So good.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 306.92,
+      "end": 309.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I think this is going to be a really interesting expedition.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 309.56,
+      "end": 311.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I think it's going to be a really exciting expedition.",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 311.92,
+      "end": 316.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm expecting to find lots of new stuff, new species hopefully.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 316.98,
+      "end": 319.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And make this trip really worthwhile.",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 319.44,
+      "end": 320.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Anyway, everybody's welcome.",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 320.6,
+      "end": 322.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Thank you very much for coming.",
+      "asr_confidence": 1.0,
+      "label": "content"
+    },
+    {
+      "start": 322.06,
+      "end": 323.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Let's start working.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 323.18,
+      "end": 330.26,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 330.26,
+      "end": 332.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm very nervous about the climb, yes.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 332.38,
+      "end": 342.76,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 342.76,
+      "end": 350.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The thought of being alone and exposed on the rock face is terrifying to most of the scientists",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 350.58,
+      "end": 354.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "because none of us are actually climbers.",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 354.06,
+      "end": 357.66,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 357.66,
+      "end": 364.78,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The local people, you know of nobody in the surrounding communities who has ever been up to the forest.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 364.78,
+      "end": 366.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Okay, so that feel okay?",
+      "asr_confidence": 0.62,
+      "label": "content"
+    },
+    {
+      "start": 366.56,
+      "end": 367.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yeah, I feel okay.",
+      "asr_confidence": 0.77,
+      "label": "content"
+    },
+    {
+      "start": 367.3,
+      "end": 371.22,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 371.22,
+      "end": 372.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Okay, keep doing that.",
+      "asr_confidence": 0.55,
+      "label": "content"
+    },
+    {
+      "start": 372.88,
+      "end": 374.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Just pay some time.",
+      "asr_confidence": 0.23,
+      "label": "content"
+    },
+    {
+      "start": 374.28,
+      "end": 375.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And then up again.",
+      "asr_confidence": 0.31,
+      "label": "content"
+    },
+    {
+      "start": 375.44,
+      "end": 376.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Okay, you just cut it like this.",
+      "asr_confidence": 0.36,
+      "label": "content"
+    },
+    {
+      "start": 376.98,
+      "end": 377.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Just up in like this.",
+      "asr_confidence": 0.57,
+      "label": "content"
+    },
+    {
+      "start": 377.76,
+      "end": 379.24,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 379.24,
+      "end": 382.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "If you can, you'll push the tide in the leg of all the time.",
+      "asr_confidence": 0.54,
+      "label": "content"
+    },
+    {
+      "start": 382.62,
+      "end": 388.3,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 388.3,
+      "end": 389.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Stand lightly.",
+      "asr_confidence": 0.43,
+      "label": "content"
+    },
+    {
+      "start": 389.1,
+      "end": 394.82,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 394.82,
+      "end": 395.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Go out!",
+      "asr_confidence": 0.11,
+      "label": "content"
+    },
+    {
+      "start": 395.62,
+      "end": 396.72,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 396.72,
+      "end": 397.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You'll get it.",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 397.36,
+      "end": 430.96,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 430.96,
+      "end": 431.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You'll get it.",
+      "asr_confidence": 0.04,
+      "label": "content"
+    },
+    {
+      "start": 431.06,
+      "end": 431.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Okay.",
+      "asr_confidence": 0.03,
+      "label": "content"
+    },
+    {
+      "start": 431.08,
+      "end": 438.82,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 438.82,
+      "end": 441.84,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Okay, I'm up.",
+      "asr_confidence": 0.7,
+      "label": "content"
+    },
+    {
+      "start": 441.84,
+      "end": 442.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Woohoo!",
+      "asr_confidence": 0.46,
+      "label": "content"
+    },
+    {
+      "start": 442.52,
+      "end": 448.06,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 448.06,
+      "end": 450.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh wow.",
+      "asr_confidence": 0.51,
+      "label": "content"
+    },
+    {
+      "start": 450.6,
+      "end": 452.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Look at all these beautiful carfines.",
+      "asr_confidence": 0.75,
+      "label": "content"
+    },
+    {
+      "start": 452.58,
+      "end": 469.64,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 469.64,
+      "end": 470.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Beautiful.",
+      "asr_confidence": 0.46,
+      "label": "content"
+    },
+    {
+      "start": 470.28,
+      "end": 472.8,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 472.8,
+      "end": 475.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Very, very nice to be here.",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 475.62,
+      "end": 481.22,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 481.22,
+      "end": 484.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "As a scientist, I'm very lucky to be able to visit",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 484.82,
+      "end": 489.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "these largely unexplored natural areas such as these rainforests",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 489.36,
+      "end": 496.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "and to spend time in them and to see the magic and the beauty that they have to offer and to show people.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 496.2,
+      "end": 501.18,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 501.18,
+      "end": 504.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We can't camp up here unless we find some water.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 504.12,
+      "end": 510.22,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "But I noticed from down the base camp there's a massive sea pitch thing coming off the cliff over that side.",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 510.22,
+      "end": 513.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So we can find the source of that.",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 513.6,
+      "end": 515.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And a camp nearby there should be good.",
+      "asr_confidence": 0.78,
+      "label": "content"
+    },
+    {
+      "start": 515.7,
+      "end": 516.96,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 516.96,
+      "end": 518.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Okay, let's go to this flat bit up here.",
+      "asr_confidence": 0.8,
+      "label": "content"
+    },
+    {
+      "start": 518.6,
+      "end": 526.46,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 526.46,
+      "end": 527.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "But this would make a lovely campsite.",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 527.94,
+      "end": 529.46,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 529.46,
+      "end": 530.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Look at it, beautiful.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 530.28,
+      "end": 532.02,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 532.02,
+      "end": 533.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Nice on the edge, nice and open.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 533.42,
+      "end": 535.1,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 535.1,
+      "end": 536.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Okay, let's set up camp.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 536.18,
+      "end": 540.36,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 540.36,
+      "end": 544.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We have the best scientists in the world on this expedition.",
+      "asr_confidence": 0.95,
+      "label": "ads"
+    },
+    {
+      "start": 544.44,
+      "end": 548.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We have a truly international and global team.",
+      "asr_confidence": 0.99,
+      "label": "ads"
+    },
+    {
+      "start": 548.02,
+      "end": 551.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "There's nobody being paid for this expedition.",
+      "asr_confidence": 0.99,
+      "label": "ads"
+    },
+    {
+      "start": 551.02,
+      "end": 556.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Everybody here is here because of the desire to conserve these places.",
+      "asr_confidence": 0.96,
+      "label": "ads"
+    },
+    {
+      "start": 556.28,
+      "end": 556.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Done.",
+      "asr_confidence": 0.01,
+      "label": "ads"
+    },
+    {
+      "start": 556.56,
+      "end": 557.6,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 557.6,
+      "end": 557.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "How?",
+      "asr_confidence": 0.39,
+      "label": "ads"
+    },
+    {
+      "start": 557.74,
+      "end": 558.96,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 558.96,
+      "end": 560.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm so happy.",
+      "asr_confidence": 0.23,
+      "label": "ads"
+    },
+    {
+      "start": 560.36,
+      "end": 561.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm so happy.",
+      "asr_confidence": 0.65,
+      "label": "ads"
+    },
+    {
+      "start": 561.2,
+      "end": 562.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm so happy.",
+      "asr_confidence": 0.55,
+      "label": "ads"
+    },
+    {
+      "start": 562.1,
+      "end": 563.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm so happy.",
+      "asr_confidence": 0.62,
+      "label": "ads"
+    },
+    {
+      "start": 563.16,
+      "end": 563.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm so happy.",
+      "asr_confidence": 0.75,
+      "label": "ads"
+    },
+    {
+      "start": 563.34,
+      "end": 564.9,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 564.9,
+      "end": 566.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm so happy.",
+      "asr_confidence": 0.84,
+      "label": "ads"
+    },
+    {
+      "start": 566.04,
+      "end": 566.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm so happy.",
+      "asr_confidence": 0.88,
+      "label": "ads"
+    },
+    {
+      "start": 566.16,
+      "end": 573.46,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 573.46,
+      "end": 575.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Climate change will change habitats.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 575.82,
+      "end": 578.3,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 578.3,
+      "end": 580.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Nothing works in isolation.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 580.12,
+      "end": 582.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So if the climate changes, then the forest changes.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 582.76,
+      "end": 584.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The plants change, the animals change.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 584.38,
+      "end": 586.7,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 586.7,
+      "end": 590.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "When you've got human interference on top of these habitats,",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 590.48,
+      "end": 594.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "it's very difficult to actually distinguish between what is actually relating to climate change",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 594.64,
+      "end": 597.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "and what is actually relating to human interference.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 597.08,
+      "end": 601.38,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 601.38,
+      "end": 604.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So here we have a very unique experience with a forest,",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 604.26,
+      "end": 605.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "which has had no human interference.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 605.9,
+      "end": 608.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And so therefore any changes that we find on Mount Lico",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 608.96,
+      "end": 611.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "compared to other forests that we looked at",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 611.28,
+      "end": 613.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "will be down to climate change.",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 613.96,
+      "end": 616.78,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "To have a good baseline to compare it to,",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 616.78,
+      "end": 619.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "so it would be like this is the carbon that should be in the forest,",
+      "asr_confidence": 0.81,
+      "label": "content"
+    },
+    {
+      "start": 619.68,
+      "end": 622.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "and then compare that to other sites that are disturbed.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 622.26,
+      "end": 625.0,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We can see effectively what the human influence is",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 625.0,
+      "end": 628.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "and add that to the man-made climate change part of the equation",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 628.18,
+      "end": 630.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "because it's not the forest for releasing carbon,",
+      "asr_confidence": 0.77,
+      "label": "content"
+    },
+    {
+      "start": 630.06,
+      "end": 632.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "it's us causing the forests to release carbon.",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 632.24,
+      "end": 635.16,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 635.16,
+      "end": 637.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We're looking to maybe through the soil cores,",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 637.7,
+      "end": 639.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "go down, go back in history,",
+      "asr_confidence": 1.0,
+      "label": "content"
+    },
+    {
+      "start": 639.7,
+      "end": 644.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "and see if it gets some estimation on what the climate was like maybe a thousand years ago here.",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 644.76,
+      "end": 648.4,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We're looking for a history, a bit of a storyline between then and now.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 648.4,
+      "end": 652.46,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 652.46,
+      "end": 657.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The other major aspects of this expedition will be to look for new species to science.",
+      "asr_confidence": 0.97,
+      "label": "ads"
+    },
+    {
+      "start": 657.12,
+      "end": 658.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And it passed me a bucket.",
+      "asr_confidence": 0.64,
+      "label": "ads"
+    },
+    {
+      "start": 658.62,
+      "end": 662.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It is a bucket right here. See how you're doing.",
+      "asr_confidence": 0.74,
+      "label": "ads"
+    },
+    {
+      "start": 662.18,
+      "end": 664.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, so bad.",
+      "asr_confidence": 0.55,
+      "label": "ads"
+    },
+    {
+      "start": 664.44,
+      "end": 667.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We put them level with the soil.",
+      "asr_confidence": 0.85,
+      "label": "ads"
+    },
+    {
+      "start": 667.98,
+      "end": 675.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So what we're doing is putting in brackets so that we can catch small vertebrates.",
+      "asr_confidence": 0.91,
+      "label": "ads"
+    },
+    {
+      "start": 675.34,
+      "end": 677.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So any shrew we get up here.",
+      "asr_confidence": 0.85,
+      "label": "ads"
+    },
+    {
+      "start": 677.3,
+      "end": 678.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hi, can I take your order?",
+      "asr_confidence": 0.94,
+      "label": "ads"
+    },
+    {
+      "start": 678.66,
+      "end": 680.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Can I get a plate of half jaw mane, half supergreens,",
+      "asr_confidence": 0.85,
+      "label": "ads"
+    },
+    {
+      "start": 680.94,
+      "end": 682.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "orange chicken, and kung-pang?",
+      "asr_confidence": 0.42,
+      "label": "ads"
+    },
+    {
+      "start": 682.76,
+      "end": 684.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Beef and cheddar sandwich.",
+      "asr_confidence": 0.59,
+      "label": "ads"
+    },
+    {
+      "start": 684.08,
+      "end": 684.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Brass.",
+      "asr_confidence": 0.19,
+      "label": "ads"
+    },
+    {
+      "start": 684.9,
+      "end": 686.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Crowley Brass.",
+      "asr_confidence": 0.73,
+      "label": "ads"
+    },
+    {
+      "start": 686.02,
+      "end": 686.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Men for dessert.",
+      "asr_confidence": 0.43,
+      "label": "ads"
+    },
+    {
+      "start": 686.6,
+      "end": 687.82,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 687.82,
+      "end": 690.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Redalocks Butter Burgers with cats and cheese curds.",
+      "asr_confidence": 0.61,
+      "label": "ads"
+    },
+    {
+      "start": 690.2,
+      "end": 691.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ooh, also the brass.",
+      "asr_confidence": 0.54,
+      "label": "ads"
+    },
+    {
+      "start": 691.58,
+      "end": 693.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Two piece combo. Classic, quite deep-kitted brass.",
+      "asr_confidence": 0.48,
+      "label": "ads"
+    },
+    {
+      "start": 693.72,
+      "end": 696.5,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 696.5,
+      "end": 697.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "To drink.",
+      "asr_confidence": 0.91,
+      "label": "ads"
+    },
+    {
+      "start": 697.16,
+      "end": 698.18,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 698.18,
+      "end": 698.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And coke.",
+      "asr_confidence": 0.39,
+      "label": "ads"
+    },
+    {
+      "start": 698.54,
+      "end": 706.38,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 706.38,
+      "end": 711.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Here is almost certainly going to be a new to science.",
+      "asr_confidence": 0.76,
+      "label": "ads"
+    },
+    {
+      "start": 711.38,
+      "end": 713.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So any shrew, I will be very excited about.",
+      "asr_confidence": 0.85,
+      "label": "ads"
+    },
+    {
+      "start": 713.88,
+      "end": 716.98,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 716.98,
+      "end": 719.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The world is full of secrets.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 719.52,
+      "end": 723.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And we have not discovered a fraction of them.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 723.5,
+      "end": 724.58,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 724.58,
+      "end": 727.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And the more new species of particular site has, the more important.",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 727.52,
+      "end": 729.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And you can then attribute to that site.",
+      "asr_confidence": 0.64,
+      "label": "content"
+    },
+    {
+      "start": 729.82,
+      "end": 732.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And that can then leverage what's protecting these sites.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 732.42,
+      "end": 739.5,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 739.5,
+      "end": 744.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The idea is to raise butterfly trap as high as possible.",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 744.46,
+      "end": 745.7,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 745.7,
+      "end": 748.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And then you bait it with a fermenting banana mix.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 748.76,
+      "end": 753.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And that attracts the canopy flying butterflies, such as your caracters.",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 753.86,
+      "end": 756.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We could find a new species of corrects,",
+      "asr_confidence": 0.74,
+      "label": "content"
+    },
+    {
+      "start": 756.08,
+      "end": 758.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "which would be as big as it gets in the butterfly world.",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 758.68,
+      "end": 760.64,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 760.64,
+      "end": 762.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "That's like finding a new monkey.",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 762.36,
+      "end": 768.3,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 768.3,
+      "end": 770.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah, not too far off.",
+      "asr_confidence": 0.7,
+      "label": "content"
+    },
+    {
+      "start": 770.04,
+      "end": 773.16,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 773.16,
+      "end": 777.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "This time probably tomorrow we'll come back and have a look at it.",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 777.06,
+      "end": 781.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And I can almost guarantee you will have butterflies in there.",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 781.32,
+      "end": 784.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "They are very magical creatures.",
+      "asr_confidence": 0.76,
+      "label": "content"
+    },
+    {
+      "start": 784.32,
+      "end": 786.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Most of the time I was just like watching them.",
+      "asr_confidence": 0.81,
+      "label": "content"
+    },
+    {
+      "start": 786.04,
+      "end": 789.02,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 789.02,
+      "end": 793.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We only have a limited amount of time in the forest on Mount Lico to discover as much as we can.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 793.56,
+      "end": 794.76,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 794.76,
+      "end": 796.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's going to be intense work.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 796.36,
+      "end": 802.52,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 802.52,
+      "end": 803.78,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Saisigeum.",
+      "asr_confidence": 0.15,
+      "label": "ads"
+    },
+    {
+      "start": 803.78,
+      "end": 804.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Saisigeum.",
+      "asr_confidence": 0.92,
+      "label": "ads"
+    },
+    {
+      "start": 804.28,
+      "end": 805.44,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 805.44,
+      "end": 805.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No.",
+      "asr_confidence": 0.29,
+      "label": "ads"
+    },
+    {
+      "start": 805.94,
+      "end": 810.18,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 810.18,
+      "end": 811.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Saisigeum.",
+      "asr_confidence": 0.01,
+      "label": "ads"
+    },
+    {
+      "start": 811.12,
+      "end": 811.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Saisigeum.",
+      "asr_confidence": 0.72,
+      "label": "ads"
+    },
+    {
+      "start": 811.58,
+      "end": 812.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "That's the first one I've seen.",
+      "asr_confidence": 0.74,
+      "label": "ads"
+    },
+    {
+      "start": 812.8,
+      "end": 831.68,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 831.68,
+      "end": 835.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I've been lucky enough to find quite a few new species over the years,",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 835.68,
+      "end": 837.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "including many butterflies.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 837.04,
+      "end": 838.56,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 838.56,
+      "end": 841.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And for my daughter's first birthday,",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 841.04,
+      "end": 843.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I named the butterfly after her.",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 843.5,
+      "end": 844.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Poppy on her.",
+      "asr_confidence": 0.41,
+      "label": "content"
+    },
+    {
+      "start": 844.72,
+      "end": 846.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Sima Tobi, valeside, Poppy on her.",
+      "asr_confidence": 0.65,
+      "label": "content"
+    },
+    {
+      "start": 846.42,
+      "end": 847.84,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 847.84,
+      "end": 849.4,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "My beautiful daughter Poppy,",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 849.4,
+      "end": 850.78,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 850.78,
+      "end": 853.22,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "she's very inquisitive.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 853.22,
+      "end": 854.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So, she says,",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 854.56,
+      "end": 856.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Dad, he's going to the mountain.",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 856.16,
+      "end": 857.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Well, Dad, he's going to the forest.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 857.7,
+      "end": 860.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So she's already knows where I am.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 860.04,
+      "end": 864.7,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 864.7,
+      "end": 869.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It is a unique experience to see the wonders of nature, the magic of nature.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 869.86,
+      "end": 873.4,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And for my daughter, not to be able to experience that,",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 873.4,
+      "end": 875.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "it makes me very sad.",
+      "asr_confidence": 0.8,
+      "label": "content"
+    },
+    {
+      "start": 875.06,
+      "end": 876.42,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 876.42,
+      "end": 878.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It is a possibility that she won't,",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 878.5,
+      "end": 880.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "because it is possible that these sites won't be there.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 880.68,
+      "end": 886.54,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 886.54,
+      "end": 889.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "They're just being destroyed through climate change,",
+      "asr_confidence": 0.97,
+      "label": "ads"
+    },
+    {
+      "start": 889.46,
+      "end": 891.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "or through human destruction.",
+      "asr_confidence": 0.99,
+      "label": "ads"
+    },
+    {
+      "start": 891.38,
+      "end": 902.6,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 902.6,
+      "end": 906.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "These animals and plants that are being forced into extinction",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 906.42,
+      "end": 909.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "have been evolving over millions and millions of years",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 909.36,
+      "end": 910.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "to get to where they are today.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 910.98,
+      "end": 914.36,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 914.36,
+      "end": 917.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And for them to be just destroyed in a matter of years",
+      "asr_confidence": 0.95,
+      "label": "ads"
+    },
+    {
+      "start": 917.54,
+      "end": 923.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "by ignorance and short-sightedness makes me very angry.",
+      "asr_confidence": 0.93,
+      "label": "ads"
+    },
+    {
+      "start": 923.16,
+      "end": 999.72,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 999.72,
+      "end": 1000.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm so angry.",
+      "asr_confidence": 0.18,
+      "label": "ads"
+    },
+    {
+      "start": 1000.52,
+      "end": 1002.98,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1002.98,
+      "end": 1008.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm so angry.",
+      "asr_confidence": 0.44,
+      "label": "ads"
+    },
+    {
+      "start": 1008.72,
+      "end": 1010.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "But this is obviously his part of the mountain.",
+      "asr_confidence": 0.8,
+      "label": "ads"
+    },
+    {
+      "start": 1010.92,
+      "end": 1013.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Maybe we could have camera trapped here.",
+      "asr_confidence": 0.61,
+      "label": "ads"
+    },
+    {
+      "start": 1013.32,
+      "end": 1015.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And a new species of reed, but maybe.",
+      "asr_confidence": 0.65,
+      "label": "ads"
+    },
+    {
+      "start": 1015.3,
+      "end": 1022.46,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1022.46,
+      "end": 1023.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "There's somebody inside.",
+      "asr_confidence": 0.81,
+      "label": "ads"
+    },
+    {
+      "start": 1023.7,
+      "end": 1026.1,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1026.1,
+      "end": 1026.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Here's a fellow.",
+      "asr_confidence": 0.39,
+      "label": "ads"
+    },
+    {
+      "start": 1026.62,
+      "end": 1028.8,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1028.8,
+      "end": 1029.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Have you got something, Error?",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 1029.94,
+      "end": 1031.0,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1031.0,
+      "end": 1032.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We got a mask through.",
+      "asr_confidence": 0.72,
+      "label": "content"
+    },
+    {
+      "start": 1032.44,
+      "end": 1032.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yes.",
+      "asr_confidence": 0.61,
+      "label": "content"
+    },
+    {
+      "start": 1032.96,
+      "end": 1033.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hey!",
+      "asr_confidence": 0.35,
+      "label": "content"
+    },
+    {
+      "start": 1033.36,
+      "end": 1034.48,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1034.48,
+      "end": 1036.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "That could be our first new species.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 1036.38,
+      "end": 1037.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So far.",
+      "asr_confidence": 0.38,
+      "label": "content"
+    },
+    {
+      "start": 1037.7,
+      "end": 1038.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's pretty cool.",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 1038.74,
+      "end": 1040.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yeah, I was very happy.",
+      "asr_confidence": 0.6,
+      "label": "content"
+    },
+    {
+      "start": 1040.76,
+      "end": 1041.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The first decent discovery.",
+      "asr_confidence": 0.8,
+      "label": "content"
+    },
+    {
+      "start": 1041.66,
+      "end": 1042.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Excellent.",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 1042.2,
+      "end": 1042.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "That's great.",
+      "asr_confidence": 0.75,
+      "label": "content"
+    },
+    {
+      "start": 1042.7,
+      "end": 1043.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "All that hard work.",
+      "asr_confidence": 0.81,
+      "label": "content"
+    },
+    {
+      "start": 1043.5,
+      "end": 1044.56,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1044.56,
+      "end": 1045.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hey, look, already.",
+      "asr_confidence": 0.51,
+      "label": "content"
+    },
+    {
+      "start": 1045.24,
+      "end": 1047.44,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1047.44,
+      "end": 1050.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Every layer of soil is going back in time.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 1050.66,
+      "end": 1052.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And at this point,",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 1052.38,
+      "end": 1054.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "while the deepest part of this...",
+      "asr_confidence": 0.73,
+      "label": "content"
+    },
+    {
+      "start": 1054.8,
+      "end": 1056.22,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "In the search for wonder.",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 1056.22,
+      "end": 1058.64,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1058.64,
+      "end": 1060.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "There are no endings.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 1060.06,
+      "end": 1061.14,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1061.14,
+      "end": 1062.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Only new beginnings.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 1062.24,
+      "end": 1071.54,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1071.54,
+      "end": 1073.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The discovery of wonder.",
+      "asr_confidence": 0.14,
+      "label": "content"
+    },
+    {
+      "start": 1073.66,
+      "end": 1073.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The discovery of wonder.",
+      "asr_confidence": 0.51,
+      "label": "content"
+    },
+    {
+      "start": 1073.76,
+      "end": 1077.96,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1077.96,
+      "end": 1080.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The discovery of wonder.",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 1080.82,
+      "end": 1083.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "To discover unexpected wonders.",
+      "asr_confidence": 0.72,
+      "label": "content"
+    },
+    {
+      "start": 1083.74,
+      "end": 1086.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "This pit is probably 1.3 metres.",
+      "asr_confidence": 0.7,
+      "label": "content"
+    },
+    {
+      "start": 1086.86,
+      "end": 1089.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And at the average rate of the position around here,",
+      "asr_confidence": 0.75,
+      "label": "content"
+    },
+    {
+      "start": 1089.26,
+      "end": 1092.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "we'd expect to be several thousand years old.",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 1092.44,
+      "end": 1096.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We were expecting maybe a 30 centimetre to saw pit.",
+      "asr_confidence": 0.73,
+      "label": "content"
+    },
+    {
+      "start": 1096.68,
+      "end": 1098.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "To go back this deep,",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 1098.26,
+      "end": 1102.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "back in that many thousands of years of life history of this forest,",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 1102.52,
+      "end": 1104.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "and knowing that that's been without people,",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 1104.52,
+      "end": 1107.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "is, well, it'd be fascinating.",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 1107.14,
+      "end": 1109.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The results, for me, will be incredible.",
+      "asr_confidence": 0.68,
+      "label": "content"
+    },
+    {
+      "start": 1109.42,
+      "end": 1111.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "They could dramatically improve our understanding",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 1111.54,
+      "end": 1113.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "of how climate change has affected our planet.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 1113.66,
+      "end": 1115.08,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1115.08,
+      "end": 1118.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Well, I'm surprised how many animals have made it up.",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 1118.18,
+      "end": 1119.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The droppings that you've found that you've found.",
+      "asr_confidence": 0.7,
+      "label": "content"
+    },
+    {
+      "start": 1119.66,
+      "end": 1121.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And there's antelope.",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 1121.32,
+      "end": 1123.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We haven't seen the antelope yet.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 1123.08,
+      "end": 1125.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We've put camera traps out.",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 1125.02,
+      "end": 1127.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "But how would an antelope get up that cliff face?",
+      "asr_confidence": 0.73,
+      "label": "content"
+    },
+    {
+      "start": 1127.98,
+      "end": 1129.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's just bizarre.",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 1129.12,
+      "end": 1131.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I think it's very interesting.",
+      "asr_confidence": 0.65,
+      "label": "content"
+    },
+    {
+      "start": 1131.04,
+      "end": 1138.88,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1138.88,
+      "end": 1140.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "There's five here.",
+      "asr_confidence": 0.77,
+      "label": "content"
+    },
+    {
+      "start": 1140.12,
+      "end": 1141.18,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1141.18,
+      "end": 1142.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Three of them are the black characters,",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 1142.62,
+      "end": 1143.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "which is that group.",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 1143.62,
+      "end": 1145.18,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1145.18,
+      "end": 1146.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Black Margarita.",
+      "asr_confidence": 0.77,
+      "label": "content"
+    },
+    {
+      "start": 1146.06,
+      "end": 1147.9,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1147.9,
+      "end": 1149.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And there are two that remainings.",
+      "asr_confidence": 0.6,
+      "label": "content"
+    },
+    {
+      "start": 1149.52,
+      "end": 1150.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "These are the interesting ones.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 1150.56,
+      "end": 1157.42,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1157.42,
+      "end": 1159.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The black correctis group,",
+      "asr_confidence": 0.4,
+      "label": "content"
+    },
+    {
+      "start": 1159.96,
+      "end": 1162.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "which is very interesting group,",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1162.36,
+      "end": 1164.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "is potential for this to be new.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 1164.56,
+      "end": 1165.58,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1165.58,
+      "end": 1167.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So there's a fair chance that this could be a new solution.",
+      "asr_confidence": 0.74,
+      "label": "content"
+    },
+    {
+      "start": 1167.68,
+      "end": 1170.02,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1170.02,
+      "end": 1171.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Within these forests,",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 1171.72,
+      "end": 1176.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "you could have all sorts of medicines and new antibiotics",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 1176.08,
+      "end": 1178.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "that we as a human race could actually use",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 1178.5,
+      "end": 1182.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "to make our lives more valuable and richer and healthier.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 1182.6,
+      "end": 1185.11,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1185.11,
+      "end": 1189.78,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "A rainforest also where 70% of all terrestrial life",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 1189.78,
+      "end": 1191.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "is found on this planet.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 1191.14,
+      "end": 1194.17,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1194.17,
+      "end": 1198.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "What is being lost is disgraceful.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 1198.52,
+      "end": 1200.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's actually disgusting,",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1200.1,
+      "end": 1202.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "and I'm almost a little bit ashamed,",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1202.7,
+      "end": 1204.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "that we as a human race",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1204.32,
+      "end": 1206.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "cannot actually gather ourselves together",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1206.14,
+      "end": 1210.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "and see the magic and the quality and the value",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 1210.38,
+      "end": 1213.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "of these habitats actually contain.",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1213.2,
+      "end": 1215.32,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1215.32,
+      "end": 1217.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, yeah.",
+      "asr_confidence": 0.63,
+      "label": "content"
+    },
+    {
+      "start": 1217.36,
+      "end": 1218.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, look.",
+      "asr_confidence": 0.62,
+      "label": "content"
+    },
+    {
+      "start": 1218.24,
+      "end": 1219.34,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1219.34,
+      "end": 1220.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's beautiful.",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 1220.58,
+      "end": 1222.0,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It does.",
+      "asr_confidence": 0.42,
+      "label": "content"
+    },
+    {
+      "start": 1222.0,
+      "end": 1222.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grumpy.",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 1222.36,
+      "end": 1223.66,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1223.66,
+      "end": 1226.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hopefully, the evidence that we generate,",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1226.6,
+      "end": 1228.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "the research, the new species,",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 1228.06,
+      "end": 1231.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "all of that we're going to use towards protecting these sites",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1231.52,
+      "end": 1233.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "and conserving them for future generations.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 1233.5,
+      "end": 1236.88,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1236.88,
+      "end": 1238.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Is that Poppy?",
+      "asr_confidence": 0.8,
+      "label": "content"
+    },
+    {
+      "start": 1238.68,
+      "end": 1239.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Daddy.",
+      "asr_confidence": 0.0,
+      "label": "content"
+    },
+    {
+      "start": 1239.44,
+      "end": 1240.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hello, Poppy. It's Daddy.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1240.82,
+      "end": 1242.44,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1242.44,
+      "end": 1243.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Daddy's in the forest.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 1243.56,
+      "end": 1244.22,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm a mountain.",
+      "asr_confidence": 0.47,
+      "label": "content"
+    },
+    {
+      "start": 1244.22,
+      "end": 1247.84,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1247.84,
+      "end": 1249.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm having a lovely day on the mountain.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 1249.86,
+      "end": 1250.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Thank you, Poppy.",
+      "asr_confidence": 0.74,
+      "label": "content"
+    },
+    {
+      "start": 1250.62,
+      "end": 1253.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yes, I wish you could be here, Poppy.",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1253.5,
+      "end": 1256.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I think we have it in us to find a different path.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 1256.1,
+      "end": 1260.98,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1260.98,
+      "end": 1263.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I have to believe that it's not too late.",
+      "asr_confidence": 0.98,
+      "label": "ads"
+    },
+    {
+      "start": 1263.06,
+      "end": 1355.3,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1355.3,
+      "end": 1358.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to believe that it's not too late.",
+      "asr_confidence": 0.21,
+      "label": "ads"
+    },
+    {
+      "start": 1358.1,
+      "end": 1358.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to believe that it's not too late.",
+      "asr_confidence": 0.97,
+      "label": "ads"
+    },
+    {
+      "start": 1358.12,
+      "end": 1358.22,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to believe that it's not too late.",
+      "asr_confidence": 0.97,
+      "label": "ads"
+    },
+    {
+      "start": 1358.22,
+      "end": 1363.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to believe that it's not too late.",
+      "asr_confidence": 0.98,
+      "label": "ads"
+    },
+    {
+      "start": 1363.52,
+      "end": 1385.02,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1385.02,
+      "end": 1387.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to believe that it's not too late.",
+      "asr_confidence": 0.22,
+      "label": "ads"
+    },
+    {
+      "start": 1387.82,
+      "end": 1387.84,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to believe that it's not too late.",
+      "asr_confidence": 0.97,
+      "label": "ads"
+    },
+    {
+      "start": 1387.84,
+      "end": 1393.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to believe that it's not too late.",
+      "asr_confidence": 0.97,
+      "label": "ads"
+    },
+    {
+      "start": 1393.44,
+      "end": 1418.4,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1418.4,
+      "end": 1419.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to believe that it's not too late.",
+      "asr_confidence": 0.22,
+      "label": "outro"
+    }
+  ]
+}

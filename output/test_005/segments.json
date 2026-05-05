@@ -1,148 +1,166 @@
 {
-  "videoTitle": "test_002",
-  "videoFilename": "test_002.mp4",
-  "duration_seconds": 1379.296,
-  "generated_at": "2026-05-04T18:51:39.781836",
+  "videoTitle": "test_005",
+  "videoFilename": "test_005.mp4",
+  "duration_seconds": 1421.355,
+  "generated_at": "2026-05-04T18:51:39.957748",
   "segments": [
     {
-      "label": "Main Content",
-      "type": "content",
+      "label": "Intro",
+      "type": "non_content",
       "start": 0.0,
-      "end": 35.94,
-      "subtype": "main",
-      "confidence": 0.634881893513668,
-      "skip_recommended": false
-    },
-    {
-      "label": "Ad Break",
-      "type": "non_content",
-      "start": 35.94,
-      "end": 38.22,
-      "subtype": "ad",
-      "confidence": 0.7012499999999999,
+      "end": 82.24,
+      "subtype": "intro",
+      "confidence": 0.8264759101371402,
       "skip_recommended": true
     },
     {
       "label": "Main Content",
       "type": "content",
-      "start": 38.22,
-      "end": 71.32,
+      "start": 82.24,
+      "end": 161.782,
       "subtype": "main",
-      "confidence": 0.6456274999999999,
+      "confidence": 0.55,
       "skip_recommended": false
     },
     {
       "label": "Ad Break",
       "type": "non_content",
-      "start": 71.32,
-      "end": 116.48,
+      "start": 161.822,
+      "end": 243.713,
       "subtype": "ad",
-      "confidence": 0.6521990116163692,
+      "confidence": 0.7399457788705008,
       "skip_recommended": true
     },
     {
       "label": "Main Content",
       "type": "content",
-      "start": 116.48,
-      "end": 219.56,
+      "start": 243.753,
+      "end": 540.36,
       "subtype": "main",
-      "confidence": 0.48000000000000004,
+      "confidence": 0.55,
       "skip_recommended": false
     },
     {
       "label": "Ad Break",
       "type": "non_content",
-      "start": 219.56,
-      "end": 333.58,
+      "start": 540.36,
+      "end": 556.28,
       "subtype": "ad",
+      "confidence": 0.8476515305796796,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 556.28,
+      "end": 654.454,
+      "subtype": "main",
+      "confidence": 0.5245803357314147,
+      "skip_recommended": false
+    },
+    {
+      "label": "Ad Break",
+      "type": "non_content",
+      "start": 654.494,
+      "end": 719.52,
+      "subtype": "ad",
+      "confidence": 0.7066669645594791,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 719.52,
+      "end": 886.54,
+      "subtype": "main",
+      "confidence": 0.52003,
+      "skip_recommended": false
+    },
+    {
+      "label": "Ad Break",
+      "type": "non_content",
+      "start": 886.54,
+      "end": 923.16,
+      "subtype": "ad",
+      "confidence": 0.5322304453067399,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 923.16,
+      "end": 1002.98,
+      "subtype": "main",
+      "confidence": 0.49697084437712985,
+      "skip_recommended": false
+    },
+    {
+      "label": "Ad Break",
+      "type": "non_content",
+      "start": 1002.98,
+      "end": 1013.32,
+      "subtype": "ad",
+      "confidence": 0.9221037706361844,
+      "skip_recommended": true
+    },
+    {
+      "label": "Main Content",
+      "type": "content",
+      "start": 1013.32,
+      "end": 1062.24,
+      "subtype": "main",
+      "confidence": 0.5264,
+      "skip_recommended": false
+    },
+    {
+      "label": "Transition",
+      "type": "non_content",
+      "start": 1062.24,
+      "end": 1065.315,
+      "subtype": "transition",
       "confidence": 0.8,
       "skip_recommended": true
     },
     {
       "label": "Main Content",
       "type": "content",
-      "start": 333.58,
-      "end": 679.6,
+      "start": 1065.355,
+      "end": 1260.98,
       "subtype": "main",
-      "confidence": 0.48000000000000004,
+      "confidence": 0.55,
       "skip_recommended": false
     },
     {
       "label": "Ad Break",
       "type": "non_content",
-      "start": 679.6,
-      "end": 704.58,
+      "start": 1260.98,
+      "end": 1263.06,
       "subtype": "ad",
-      "confidence": 0.9239156154546397,
+      "confidence": 0.98952,
       "skip_recommended": true
     },
     {
       "label": "Main Content",
       "type": "content",
-      "start": 704.58,
-      "end": 956.68,
+      "start": 1263.06,
+      "end": 1277.313,
       "subtype": "main",
-      "confidence": 0.48000000000000004,
+      "confidence": 0.55,
       "skip_recommended": false
     },
     {
-      "label": "Ad Break",
+      "label": "Outro",
       "type": "non_content",
-      "start": 956.68,
-      "end": 968.02,
-      "subtype": "ad",
-      "confidence": 0.8,
+      "start": 1277.353,
+      "end": 1421.315,
+      "subtype": "outro",
+      "confidence": 0.7205472222005865,
       "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 968.02,
-      "end": 1104.08,
-      "subtype": "main",
-      "confidence": 0.48000000000000004,
-      "skip_recommended": false
-    },
-    {
-      "label": "Ad Break",
-      "type": "non_content",
-      "start": 1104.08,
-      "end": 1179.26,
-      "subtype": "ad",
-      "confidence": 0.8,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 1179.26,
-      "end": 1229.64,
-      "subtype": "main",
-      "confidence": 0.48000000000000004,
-      "skip_recommended": false
-    },
-    {
-      "label": "Ad Break",
-      "type": "non_content",
-      "start": 1229.64,
-      "end": 1244.22,
-      "subtype": "ad",
-      "confidence": 0.8,
-      "skip_recommended": true
-    },
-    {
-      "label": "Main Content",
-      "type": "content",
-      "start": 1244.22,
-      "end": 1379.262,
-      "subtype": "main",
-      "confidence": 0.48000000000000004,
-      "skip_recommended": false
     }
   ],
   "summary": {
-    "content_duration": 1091.72,
-    "non_content_duration": 287.54,
-    "content_percentage": 79.2
+    "content_duration": 979.96,
+    "non_content_duration": 441.15,
+    "content_percentage": 69.0
   }
 }

@@ -1,0 +1,3057 @@
+{
+  "video_filename": "test_004.mp4",
+  "duration_seconds": 1935.97,
+  "global_summary": "This lecture discusses enhancing large language models (LLMs) through various techniques such as prompting methods, fine-tuning alternatives, and retrieval-augmented generation (RAG), with a focus on practical agent AI workflows and providing examples to help students understand these concepts better.",
+  "video_chapters": [
+    {
+      "label": "transition",
+      "start": 0.0,
+      "end": 4.84
+    },
+    {
+      "label": "intro",
+      "start": 4.84,
+      "end": 21.94
+    },
+    {
+      "label": "transition",
+      "start": 21.94,
+      "end": 23.38
+    },
+    {
+      "label": "intro",
+      "start": 23.38,
+      "end": 90.96
+    },
+    {
+      "label": "transition",
+      "start": 90.96,
+      "end": 92.54
+    },
+    {
+      "label": "content",
+      "start": 92.54,
+      "end": 318.24
+    },
+    {
+      "label": "transition",
+      "start": 318.24,
+      "end": 326.1
+    },
+    {
+      "label": "content",
+      "start": 326.1,
+      "end": 354.44
+    },
+    {
+      "label": "transition",
+      "start": 354.44,
+      "end": 355.72
+    },
+    {
+      "label": "content",
+      "start": 355.72,
+      "end": 355.86
+    },
+    {
+      "label": "transition",
+      "start": 355.86,
+      "end": 357.8
+    },
+    {
+      "label": "content",
+      "start": 357.8,
+      "end": 358.92
+    },
+    {
+      "label": "transition",
+      "start": 358.92,
+      "end": 360.3
+    },
+    {
+      "label": "content",
+      "start": 360.3,
+      "end": 371.72
+    },
+    {
+      "label": "transition",
+      "start": 371.72,
+      "end": 372.74
+    },
+    {
+      "label": "content",
+      "start": 372.74,
+      "end": 382.24
+    },
+    {
+      "label": "transition",
+      "start": 382.24,
+      "end": 383.3
+    },
+    {
+      "label": "content",
+      "start": 383.3,
+      "end": 418.42
+    },
+    {
+      "label": "transition",
+      "start": 418.42,
+      "end": 419.48
+    },
+    {
+      "label": "content",
+      "start": 419.48,
+      "end": 442.12
+    },
+    {
+      "label": "transition",
+      "start": 442.12,
+      "end": 443.76
+    },
+    {
+      "label": "content",
+      "start": 443.76,
+      "end": 475.04
+    },
+    {
+      "label": "transition",
+      "start": 475.04,
+      "end": 483.46
+    },
+    {
+      "label": "content",
+      "start": 483.46,
+      "end": 537.18
+    },
+    {
+      "label": "transition",
+      "start": 537.18,
+      "end": 538.6
+    },
+    {
+      "label": "content",
+      "start": 538.6,
+      "end": 607.28
+    },
+    {
+      "label": "transition",
+      "start": 607.28,
+      "end": 609.26
+    },
+    {
+      "label": "content",
+      "start": 609.26,
+      "end": 759.98
+    },
+    {
+      "label": "transition",
+      "start": 759.98,
+      "end": 761.28
+    },
+    {
+      "label": "content",
+      "start": 761.28,
+      "end": 805.06
+    },
+    {
+      "label": "transition",
+      "start": 805.06,
+      "end": 806.86
+    },
+    {
+      "label": "content",
+      "start": 806.86,
+      "end": 851.48
+    },
+    {
+      "label": "transition",
+      "start": 851.48,
+      "end": 853.18
+    },
+    {
+      "label": "content",
+      "start": 853.18,
+      "end": 869.82
+    },
+    {
+      "label": "transition",
+      "start": 869.82,
+      "end": 871.66
+    },
+    {
+      "label": "content",
+      "start": 871.66,
+      "end": 985.46
+    },
+    {
+      "label": "transition",
+      "start": 985.46,
+      "end": 989.76
+    },
+    {
+      "label": "content",
+      "start": 989.76,
+      "end": 1007.24
+    },
+    {
+      "label": "transition",
+      "start": 1007.24,
+      "end": 1008.8
+    },
+    {
+      "label": "content",
+      "start": 1008.8,
+      "end": 1096.3
+    },
+    {
+      "label": "transition",
+      "start": 1096.3,
+      "end": 1142.7
+    },
+    {
+      "label": "content",
+      "start": 1142.7,
+      "end": 1153.98
+    },
+    {
+      "label": "transition",
+      "start": 1153.98,
+      "end": 1155.16
+    },
+    {
+      "label": "content",
+      "start": 1155.16,
+      "end": 1160.76
+    },
+    {
+      "label": "transition",
+      "start": 1160.76,
+      "end": 1164.52
+    },
+    {
+      "label": "content",
+      "start": 1164.52,
+      "end": 1235.72
+    },
+    {
+      "label": "transition",
+      "start": 1235.72,
+      "end": 1236.82
+    },
+    {
+      "label": "content",
+      "start": 1236.82,
+      "end": 1274.62
+    },
+    {
+      "label": "transition",
+      "start": 1274.62,
+      "end": 1277.12
+    },
+    {
+      "label": "content",
+      "start": 1277.12,
+      "end": 1382.32
+    },
+    {
+      "label": "transition",
+      "start": 1382.32,
+      "end": 1385.32
+    },
+    {
+      "label": "content",
+      "start": 1385.32,
+      "end": 1397.28
+    },
+    {
+      "label": "transition",
+      "start": 1397.28,
+      "end": 1398.32
+    },
+    {
+      "label": "content",
+      "start": 1398.32,
+      "end": 1492.76
+    },
+    {
+      "label": "transition",
+      "start": 1492.76,
+      "end": 1496.66
+    },
+    {
+      "label": "content",
+      "start": 1496.66,
+      "end": 1631.66
+    },
+    {
+      "label": "transition",
+      "start": 1631.66,
+      "end": 1638.08
+    },
+    {
+      "label": "content",
+      "start": 1638.08,
+      "end": 1638.76
+    },
+    {
+      "label": "transition",
+      "start": 1638.76,
+      "end": 1661.46
+    },
+    {
+      "label": "ads",
+      "start": 1661.46,
+      "end": 1683.5
+    },
+    {
+      "label": "transition",
+      "start": 1683.5,
+      "end": 1692.0
+    },
+    {
+      "label": "ads",
+      "start": 1692.0,
+      "end": 1721.68
+    },
+    {
+      "label": "transition",
+      "start": 1721.68,
+      "end": 1731.1
+    },
+    {
+      "label": "outro",
+      "start": 1731.1,
+      "end": 1922.5
+    },
+    {
+      "label": "transition",
+      "start": 1922.5,
+      "end": 1923.56
+    },
+    {
+      "label": "outro",
+      "start": 1923.56,
+      "end": 1935.97
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.84,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 4.84,
+      "end": 12.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hi, everyone. Welcome to another lecture for CS230 Deep Learning. Today, we're going to",
+      "asr_confidence": 0.87,
+      "label": "intro"
+    },
+    {
+      "start": 12.88,
+      "end": 21.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "talk about enhancing large language model applications. And I call this lecture beyond LLM.",
+      "asr_confidence": 0.92,
+      "label": "intro"
+    },
+    {
+      "start": 21.94,
+      "end": 23.38,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 23.38,
+      "end": 32.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It has a lot of newer content. And the idea behind this lecture is we started to learn",
+      "asr_confidence": 0.9,
+      "label": "intro"
+    },
+    {
+      "start": 32.56,
+      "end": 38.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "about neurons and then we learned about layers and then we learned about deep neural networks.",
+      "asr_confidence": 0.92,
+      "label": "intro"
+    },
+    {
+      "start": 38.42,
+      "end": 45.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And then we learned a little bit about how to structure projects in C3. And now we're",
+      "asr_confidence": 0.98,
+      "label": "intro"
+    },
+    {
+      "start": 45.44,
+      "end": 53.0,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "going one level beyond into what would it look like if you were building agent AI systems",
+      "asr_confidence": 0.84,
+      "label": "intro"
+    },
+    {
+      "start": 53.0,
+      "end": 62.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "at work in a startup, in a company. And it's probably one of the more practical lectures.",
+      "asr_confidence": 0.95,
+      "label": "intro"
+    },
+    {
+      "start": 62.86,
+      "end": 68.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Again, the goal is not to build a product end to end in the next hour or so, but rather",
+      "asr_confidence": 0.97,
+      "label": "intro"
+    },
+    {
+      "start": 68.14,
+      "end": 75.11,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "to tell you all the techniques that AI engineers have cracked, figured out or exploring.",
+      "asr_confidence": 0.94,
+      "label": "intro"
+    },
+    {
+      "start": 75.11,
+      "end": 79.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So that after the class, you have sort of the breadth of view of different",
+      "asr_confidence": 0.91,
+      "label": "intro"
+    },
+    {
+      "start": 79.14,
+      "end": 86.0,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "prompting techniques, different agency workflows, multi-agency systems, eVALs. And then when you want",
+      "asr_confidence": 0.83,
+      "label": "intro"
+    },
+    {
+      "start": 86.0,
+      "end": 90.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "to dive deeper, you have the baggage to dive deeper and learn faster about it. Okay.",
+      "asr_confidence": 0.94,
+      "label": "intro"
+    },
+    {
+      "start": 90.96,
+      "end": 92.54,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 92.54,
+      "end": 99.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Let's try to make it as interactive as possible as usual. When we look at the agenda,",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 99.6,
+      "end": 106.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "the agenda is going to start with the core idea behind challenges and opportunities",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 106.62,
+      "end": 113.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "for augmenting LLMs. So we start from a base model. How do we maximize the performance of that",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 113.86,
+      "end": 120.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "base model? Then we dive deep into the first line of optimization, which is prompting methods,",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 120.62,
+      "end": 126.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "and we see a variety of them. Then we go slightly deeper if we were to get our hands under the",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 126.54,
+      "end": 131.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "hood and do some fine tuning. What would it look like? I'm not a fan of fine tuning. And I",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 131.42,
+      "end": 138.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "talk a lot about that, but I'll explain why I try to avoid fine tuning as much as possible.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 138.2,
+      "end": 144.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And then we'll do a section four on retrieval, augmented generation or rag, which you've probably",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 144.86,
+      "end": 150.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "heard of in the news. Maybe some of you have played with rags. We're going to sort of unpack what",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 150.74,
+      "end": 158.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "a rag is and how it works and then the different methods within rags. And then we talk about",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 158.06,
+      "end": 167.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "agent AI workflows. I define it. Andrew Eng is one of the first ones who have called this trend",
+      "asr_confidence": 0.81,
+      "label": "content"
+    },
+    {
+      "start": 167.6,
+      "end": 173.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "agent AI workflows. And so we look at the definition that Andrew gives to agent workflows.",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 173.36,
+      "end": 182.79,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And then we start seeing examples. The section six is very practical. It's a case study where we will",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 182.79,
+      "end": 191.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "think about an agent workflow and we'll ask you to measure if the agent actually works. And we",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 191.32,
+      "end": 203.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "brainstorm how we can measure if an agent workflow is working the way you want it to work. There's",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 203.34,
+      "end": 208.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "three feet at multi agent workflow and then we can have a sort of open ended discussion where I'll",
+      "asr_confidence": 0.75,
+      "label": "content"
+    },
+    {
+      "start": 208.48,
+      "end": 214.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "share some thoughts on what's next in AI. And I'm looking forward to hearing from you all as well on",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 214.58,
+      "end": 223.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "that one. Okay. So let's get started with the problem of augmenting LLM. So open ended question for",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 223.3,
+      "end": 232.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "you. You are all familiar with pre-trained models like GPT 3.5 turbo or GPT 4L. What's the",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 232.58,
+      "end": 240.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "limitation of using just a base model? What are the typical issues that might arise as you're",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 240.3,
+      "end": 253.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "using a vanilla pre-trained model? Yes. Lacks some domain knowledge. You're perfectly right.",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 253.36,
+      "end": 261.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We had a group of students a few years ago. It was not too late. I'm related. But you know,",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 261.28,
+      "end": 291.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "don't you want to adopt me to take your order? Hi, can I get up? Can I get up? Take it into my",
+      "asr_confidence": 0.61,
+      "label": "content"
+    },
+    {
+      "start": 291.14,
+      "end": 298.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "device. I'm just forming device or vehicle that had a camera underneath taking pictures of crops",
+      "asr_confidence": 0.73,
+      "label": "content"
+    },
+    {
+      "start": 298.5,
+      "end": 303.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "to determine if the crop is a sick or not. If it should be thrown away, like if it should be",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 303.86,
+      "end": 311.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "if it should be used or not. And that data set is not a data set you find out there. And the",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 311.7,
+      "end": 318.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "base model or a pre-trained computer vision model would lack that knowledge of course. What else?",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 318.24,
+      "end": 326.1,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 326.1,
+      "end": 327.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yes.",
+      "asr_confidence": 0.22,
+      "label": "content"
+    },
+    {
+      "start": 327.6,
+      "end": 333.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Maybe you're saying so just to repeat for people online, you're saying the model might have been",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 333.92,
+      "end": 338.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "trained on high quality data but the data in the wild is actually not that high quality.",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 338.88,
+      "end": 344.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And in fact, yes, the distribution of the real world might differ as we've seen with GANS",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 344.3,
+      "end": 348.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "from the training sets. And that might create an issue with pre-trained models.",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 348.94,
+      "end": 354.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Although pre-trained LLMs are getting better at, you know, handling all sorts of data inputs.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 354.44,
+      "end": 355.72,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 355.72,
+      "end": 355.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yes.",
+      "asr_confidence": 0.75,
+      "label": "content"
+    },
+    {
+      "start": 355.86,
+      "end": 357.8,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 357.8,
+      "end": 358.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Like what?",
+      "asr_confidence": 0.67,
+      "label": "content"
+    },
+    {
+      "start": 358.92,
+      "end": 360.3,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 360.3,
+      "end": 366.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Lacks current information. The LLM is not up to date. And in fact, you're right. Imagine you have",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 366.28,
+      "end": 371.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "to retrain from scratch your LLM every couple of months. One story that I found funny.",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 371.72,
+      "end": 372.74,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 372.74,
+      "end": 379.4,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's from probably three years ago or maybe more five years ago where during his first presidency,",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 379.4,
+      "end": 382.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "President Trump one day tweeted,",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 382.24,
+      "end": 383.3,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 383.3,
+      "end": 389.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "quote, fefe. You remember that Twitter, no. Just quote fefe. And it was probably a typo or it was in",
+      "asr_confidence": 0.8,
+      "label": "content"
+    },
+    {
+      "start": 389.46,
+      "end": 396.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "this pocket, I don't know. But that word did not exist. The LLMs in fact that Twitter was running at",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 396.12,
+      "end": 401.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "the time could not recognize that word. And so the recommender system sort of went wide.",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 401.94,
+      "end": 407.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And because suddenly everybody was making fun of that tweet using the word called fefe. And the LLM",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 407.42,
+      "end": 411.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "was so confused on, you know, what does that mean? Where should we show it? To whom should we",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 411.96,
+      "end": 418.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "show it? And it's an example of nowadays, especially on social media. There's so many new trends.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 418.42,
+      "end": 419.48,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 419.48,
+      "end": 424.84,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And it's very hard to retrain an LLM too much to new trend and understand the new words out there.",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 424.84,
+      "end": 431.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I mean, you know, oftentimes here, Gen Z words like reads or reads or whatever, I don't know all of them.",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 431.98,
+      "end": 438.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "But you probably want to find a way that can allow the LLM to understand those trends without",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 438.66,
+      "end": 442.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "retraining the LLM from scratch. Yeah. What else?",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 442.12,
+      "end": 443.76,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 443.76,
+      "end": 454.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's trained to have a rep knowledge. And if you want to do so, it might be trained on a breath of",
+      "asr_confidence": 0.64,
+      "label": "content"
+    },
+    {
+      "start": 454.82,
+      "end": 461.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "form adequately on a narrow task that is very well defined. Think about enterprise applications that's",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 461.94,
+      "end": 468.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "yeah, enterprise application. You need high precision, high fidelity, low latency. And maybe the",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 468.34,
+      "end": 473.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "model is not great at that specific thing. It might define, but just not good enough. And you might",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 473.18,
+      "end": 475.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "want to augment it in a certain way. Yeah.",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 475.04,
+      "end": 483.46,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 483.46,
+      "end": 489.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So maybe it has a lot of broad domain knowledge that might not be needed for your application.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 489.48,
+      "end": 493.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And so you're using a massive heavy model when you're actually only using 2% of the model",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 493.98,
+      "end": 498.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "capability. You're perfectly right. You might not need all of it. So you might find ways to prove",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 498.74,
+      "end": 506.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "quantize the model modified. All of these are our good points. I'm going to add a few more as well.",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 506.18,
+      "end": 511.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "LLMs are very difficult to control. Your last point is actually an example of that. You want to",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 511.32,
+      "end": 516.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "control the LLM to use a part of its knowledge, but it's not. It's in fact getting confused.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 516.86,
+      "end": 524.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We've seen that in history in 2016. Microsoft created notorious Twitter bot that learned from",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 524.94,
+      "end": 532.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "users and it quickly became a racist jerk. Microsoft ended up removing the bot 16 hours after",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 532.14,
+      "end": 537.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "launching it. The community was really fast at determining that this was a racist bot.",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 537.18,
+      "end": 538.6,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 538.6,
+      "end": 543.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And you know, you can empathize with Microsoft in the sense that it is actually hard to control",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 543.3,
+      "end": 549.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "the LLM. They might have done a better job to qualify before launching, but it is really hard",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 549.02,
+      "end": 556.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "to control the LLM. Even more recently, this is a tweet from Sam Altman last November,",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 556.06,
+      "end": 563.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "where there was this debate between Elon Musk and Sam Altman on whose LLM is the left wing",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 563.58,
+      "end": 569.78,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "propaganda machine or the right wing propaganda machine. And they were hating on each other's LLMs.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 569.78,
+      "end": 574.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "But that tells you at the end of the day that even those two teams, Groc and OpenAI,",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 574.64,
+      "end": 580.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "which are probably the best funded team with a lot of talents, are not doing a great job at",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 580.26,
+      "end": 588.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "controlling their LLMs. And from time to time, if you hang out on X, you might see",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 588.34,
+      "end": 596.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "screenshots of users interacting with LLMs and the LLM saying something really controversial or",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 596.06,
+      "end": 603.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "racist or something that would not be considered a great by social standards, I guess.",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 603.36,
+      "end": 607.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And that tells you that the model is really hard to control.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 607.28,
+      "end": 609.26,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 609.26,
+      "end": 617.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The second aspect of it is something that you mentioned earlier. LLMs may underperform in your task.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 617.12,
+      "end": 622.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And that might include specific knowledge gaps, such as medical diagnosis. If you're doing",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 622.2,
+      "end": 626.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "medical diagnosis, you'd rather have a LLM that is specialized for that and is great at it.",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 626.88,
+      "end": 632.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And in fact, something that we haven't mentioned as a group has sources. So the answer is sourced,",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 632.06,
+      "end": 637.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "specifically. You have a hard time believing something unless you have the actual source of the",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 637.34,
+      "end": 643.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "research that backs it up. In consistency, it's in style and formats. So imagine you're building a",
+      "asr_confidence": 0.81,
+      "label": "content"
+    },
+    {
+      "start": 643.66,
+      "end": 653.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "legal AI agentic workflow. Legal has a very specific way to write and read where every word counts.",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 653.1,
+      "end": 658.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "If you're negotiating a large contract, every word on that contract might mean something else",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 658.54,
+      "end": 664.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "when it comes to the courts. And so it's very important that you use an LLM that is very good at it.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 664.28,
+      "end": 669.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The precision matters. And then, you know, task-specific understanding, such as doing a classification",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 669.48,
+      "end": 675.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "on a niche field. Here, I pulled an example where, you know, let's say a biotech product is trying",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 675.44,
+      "end": 685.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "to use an LLM to categorize user reviews into positive, neutral, or negative. You know, maybe for",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 685.16,
+      "end": 693.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "that company, something that's, will be considered a negative review typically is actually considered",
+      "asr_confidence": 0.76,
+      "label": "content"
+    },
+    {
+      "start": 693.04,
+      "end": 699.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "a neutral review because the NPS of that industry tends to be way lower than other industries.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 699.12,
+      "end": 704.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Let's say, that's a task-specific understanding. And the LLM needs to be aligned to what the",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 704.82,
+      "end": 710.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "company believes is the categorization that it wants. We will see an example of how to solve that",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 710.08,
+      "end": 717.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "problem in a second. And then, limited context handling. A lot of AI applications, especially in the",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 717.72,
+      "end": 725.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "enterprise, have required data that has a lot of context. Like, just to give you a simple example,",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 725.44,
+      "end": 730.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "knowledge management is an important space that enterprises by a lot of knowledge management tool.",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 730.8,
+      "end": 735.4,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "When you go on your drive and you have all your documents, ideally, you could have an LLM",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 735.4,
+      "end": 740.84,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "running on top of that drive. You can ask any question and it would read immediately",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 740.84,
+      "end": 748.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "thousands of documents and answer, what was our two four performance in sales? It was $X.",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 748.1,
+      "end": 754.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It finds it super quickly. In practice, because LLM do not have a large enough context,",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 754.32,
+      "end": 759.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "you cannot use a standalone vanilla pre-trained LLM to solve that problem. You will have to augment it.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 759.98,
+      "end": 761.28,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 761.28,
+      "end": 767.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Does that make sense? The other aspect around context windows is they are, in fact, limited. If you",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 767.66,
+      "end": 775.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "look at the context windows of the models from the last five years, even the best models,",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 775.58,
+      "end": 782.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "today will range in context window or number of tokens it can take as input,",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 782.36,
+      "end": 789.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "somewhere in the hundreds of thousands of tokens max, just to give you a sense, 200,000 tokens,",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 789.98,
+      "end": 798.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "is roughly two books. That's how much you can upload and it can read pretty much. You can imagine that",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 798.12,
+      "end": 805.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "when you're dealing with video understanding or heavier data files, that is of course an issue.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 805.06,
+      "end": 806.86,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 806.86,
+      "end": 811.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So you might have to chunk it, you might have to embed it, you might have to find other ways to",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 811.08,
+      "end": 819.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "get the LLM to handle larger contexts. The attention mechanism is also a powerful",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 819.28,
+      "end": 826.84,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "bit problematic because it does not do a great job at attending in very large contexts. There is",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 826.84,
+      "end": 833.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "actually an interesting problem called needle in a haystack. It's an AI problem where",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 833.5,
+      "end": 841.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "we call it a benchmark where in order to test if your LLM is good at putting attention on a very",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 841.66,
+      "end": 851.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "specific fact within a large corpus, researchers might randomly insert in a book one sentence that",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 851.48,
+      "end": 853.18,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 853.18,
+      "end": 859.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "outlines a certain fact, such as Arun and Max are having coffee at Blue Bottle in the middle of",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 859.96,
+      "end": 869.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "the Bible, let's say, or some very long texts. Then you ask the LLM, what were Arun and Max having",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 869.82,
+      "end": 871.66,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 871.66,
+      "end": 876.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "at Blue Bottle and you see if it remembers they was coffee. It's actually a complex problem, not",
+      "asr_confidence": 0.8,
+      "label": "content"
+    },
+    {
+      "start": 876.52,
+      "end": 881.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "because the question is complex, but because you're asking the model to find a fact within a very",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 881.34,
+      "end": 891.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "large corpus and that's complicated. So again, this is a limiting factor for LLMs. We talk about",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 891.08,
+      "end": 897.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Rage in a second, but I want to preview the, there is debates around whether Rage is the right",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 897.76,
+      "end": 904.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "long-term approach for AI systems. So as a high-level idea, Rage is a mechanism if you will that",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 904.72,
+      "end": 913.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "embeds documents that an LLM can retrieve and then add as context to its initial prompt and answer",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 913.46,
+      "end": 918.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "a question. It has lots of application knowledge management is an example, so imagine you have your",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 918.26,
+      "end": 925.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "drive again, but every document is sort of compressed in representation and the LLM has access to",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 925.34,
+      "end": 934.41,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "that lower dimensional representation. The debates that this tweet from Yalfu outlines is",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 934.41,
+      "end": 942.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "in theory, if we have infinite compute, then Rage is useless because you can just read a massive",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 942.82,
+      "end": 949.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "corpus immediately and answer your question. But even in that case, latency might be an issue.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 949.32,
+      "end": 954.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Imagine the time it takes for an AI to read all your drive every single time you ask a question.",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 954.34,
+      "end": 962.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It doesn't make sense. So Rage has other advantages beyond even the accuracy. On top of that,",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 962.18,
+      "end": 967.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "the sourcing matters as well, so it might rag allows you to source. We will talk about all that",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 967.8,
+      "end": 975.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "later, but there is always this debate in the community whether a certain method is actually",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 975.36,
+      "end": 981.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "future proof, because in practice, as compute-powered doubles every year, let's say, some of the methods",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 981.38,
+      "end": 985.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "we're learning right now might not be relevant three years from now. We don't know.",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 985.46,
+      "end": 989.76,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 989.76,
+      "end": 997.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And the analogy that he makes on context windows and why Rage approaches might be relevant even",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 997.06,
+      "end": 1003.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "a long time from now is search. When you search on a search engine, you still find",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 1003.94,
+      "end": 1007.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "sources of information. And in fact, in the background, there is very",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1007.24,
+      "end": 1008.8,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1008.8,
+      "end": 1015.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "detailed traversal algorithms that rank and find the specific links that might be the best to present",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1015.82,
+      "end": 1021.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "you. Versus if you had to read, imagine you had to read the entire web every single time you're",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 1021.76,
+      "end": 1027.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "doing a search query without being able to narrow to certain portion of the space that might,",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1027.6,
+      "end": 1038.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "again, not the reasonable. Okay, when we're thinking of improving LLMs, the easiest way we think",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 1038.38,
+      "end": 1044.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "of it is two dimensions. One dimension is we are going to improve the foundation model itself. So",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 1044.5,
+      "end": 1055.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "for example, we move from GPT 3.5 turbo to GPT4 to GPT4O to GPT5. Each of that is supposed to",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1055.8,
+      "end": 1062.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "improve the base model. GPT5 is another debate because it's sort of packaging other models within",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 1062.2,
+      "end": 1067.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "itself. But you know, if you're thinking about 3.54 and 4.0, that's really what it is. The pre-trained",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 1067.68,
+      "end": 1074.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "model improves. And so you should see your performance improve on your tasks. But the other dimension is",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 1074.66,
+      "end": 1083.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "we can actually engineer leverage the LLM in a way that makes it better. So you can prompt simply",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 1083.26,
+      "end": 1090.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "GPT4O. You can change some prompts and improve the prompt and it will improve the performance.",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 1090.42,
+      "end": 1096.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's strong. You can even put a rag around it. You can put an agent, it work flow around it. You can even",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 1096.3,
+      "end": 1142.7,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1142.7,
+      "end": 1148.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "key agent system around it. And that is another dimension for you to improve performance. So that's",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 1148.92,
+      "end": 1153.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "how I want you to think about it. We shall LLM I'm using and then how can I maximize the performance of that LLM?",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1153.98,
+      "end": 1155.16,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1155.16,
+      "end": 1160.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "This lecture is about the vertical axis. Those are the methods that we will see with it together.",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 1160.76,
+      "end": 1164.52,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1164.52,
+      "end": 1171.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Sounds good for the introduction. So let's move to prompt engineering. I'm going to start with an",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 1171.64,
+      "end": 1179.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "interesting study just to motivate why prompt engineering matters. There is a study from HPS,",
+      "asr_confidence": 0.78,
+      "label": "content"
+    },
+    {
+      "start": 1179.94,
+      "end": 1188.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "UPAN, as well as Harvard Business School and others also involved Wharton that took a subset of",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 1188.7,
+      "end": 1195.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "BCG consultants, individual contributors, split them into three groups. One group had no access to AI,",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 1195.34,
+      "end": 1204.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "one group had access to GPT4 and one group had access to the LLM but also a training on how to",
+      "asr_confidence": 0.8,
+      "label": "content"
+    },
+    {
+      "start": 1204.92,
+      "end": 1212.0,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "prompt better. And then they observed the performance of these consultants across a wide variety of tasks.",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 1212.0,
+      "end": 1216.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "There's a few things that they noticed that I thought was interesting. One is something they called",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1216.7,
+      "end": 1225.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "the Jag Frontier, meaning that certain tasks that consultants are doing fall beyond the Jag Frontier,",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 1225.8,
+      "end": 1235.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "meaning AI is not good enough. It's not improving human performance. In fact, it's actually making it worse.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 1235.72,
+      "end": 1236.82,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1236.82,
+      "end": 1243.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And sometimes we're within the Frontier, meaning that AI is actually significantly improving the",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1243.44,
+      "end": 1250.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "performance, the speed, the quality of the consultants. Many tasks fell within and many tasks fell",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 1250.6,
+      "end": 1257.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "without and they shared their insights. But the TLDR is there is a Frontier within which AI is",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 1257.34,
+      "end": 1264.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "absolutely helping and one where they call out these behavioral falling asleep at the wheel,",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 1264.52,
+      "end": 1270.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "where people relied on AI on a task that was beyond the Frontier and in fact it ended up",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 1270.6,
+      "end": 1274.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "going worse because the human was not reviewing the output carefully enough.",
+      "asr_confidence": 0.81,
+      "label": "content"
+    },
+    {
+      "start": 1274.62,
+      "end": 1277.12,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1277.12,
+      "end": 1283.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "They did note that the group that was trained was the best, better than the group that was not trained",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1283.96,
+      "end": 1290.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "on Frontier engineering, which also motivates why this lecture matters, so that you're within that group",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 1290.44,
+      "end": 1297.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "afterwards. One other insights were the centers and the cyborgs. The notice that consultants had",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 1297.74,
+      "end": 1305.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "the tendency to work with AI in one of two ways and you might be part of one of these groups.",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 1305.02,
+      "end": 1316.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The centers are mythical creatures that are half human, half what courses, half horses,",
+      "asr_confidence": 0.78,
+      "label": "content"
+    },
+    {
+      "start": 1316.44,
+      "end": 1322.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "half something. And those were individuals that would divide and delegate. They might give a",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 1322.38,
+      "end": 1327.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "pretty big task to the AI. So imagine you're working on a PowerPoints which consultants are",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 1327.26,
+      "end": 1332.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "known to do. You might actually write a very long prompt on how you wanted to do your PowerPoint",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 1332.66,
+      "end": 1337.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "and then let it work for some time and then come back and it's done. When others would act as cyborgs,",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 1337.9,
+      "end": 1346.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "cyborgs are fully blended by unique human robots and robots are augmented with robotic parts.",
+      "asr_confidence": 0.78,
+      "label": "content"
+    },
+    {
+      "start": 1346.38,
+      "end": 1350.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And those individuals would not delegate fully a task. They would actually work super quickly",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 1350.94,
+      "end": 1355.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "with the model and back and forth. I find that a lot of students are actually more working",
+      "asr_confidence": 0.8,
+      "label": "content"
+    },
+    {
+      "start": 1355.68,
+      "end": 1361.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "like cyborgs than centers. But why maybe in the enterprise when you're trying to automate a workflow,",
+      "asr_confidence": 0.81,
+      "label": "content"
+    },
+    {
+      "start": 1361.98,
+      "end": 1367.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "you're thinking more like a center. That's just something good to keep in mind. Also, a lot of",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1367.66,
+      "end": 1373.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "companies would tell you we're hiring prompt engineers, etc. It's a career. I don't buy that. I think",
+      "asr_confidence": 0.81,
+      "label": "content"
+    },
+    {
+      "start": 1373.1,
+      "end": 1377.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "it's just a skill that everybody should have. You're not going to make a career out of front engineering,",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 1377.46,
+      "end": 1382.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "but you're probably going to use it as a very powerful skill in your career.",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 1382.32,
+      "end": 1385.32,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1385.32,
+      "end": 1391.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So let's talk about basic prompt design principles. I'm giving you a very simple prompt here.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1391.9,
+      "end": 1397.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Summarize these documents and then the document is uploaded alongside it. And the model has not",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 1397.28,
+      "end": 1398.32,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1398.32,
+      "end": 1403.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "much context around what should be the summary. Well, how long should we be the summary? What should",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 1403.62,
+      "end": 1411.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "we talk about? You can actually improve these prompts by doing something like summarize this 10-page",
+      "asr_confidence": 0.8,
+      "label": "content"
+    },
+    {
+      "start": 1411.58,
+      "end": 1418.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "scientific paper on renewable energy in five bullet points focusing on key findings and",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1418.48,
+      "end": 1424.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "implications for policymakers. That's already better. You're sharing the agents and it's going to",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 1424.8,
+      "end": 1429.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "tailor it to the agents. You're saying that you want five bullet points and you want to focus only",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 1429.94,
+      "end": 1438.0,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "on key findings. That's a better prompt. How could you even make these prompts better? What are",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 1438.0,
+      "end": 1443.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "other techniques that you've heard of? Let's try it yourself. That could make these one shot",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 1443.32,
+      "end": 1459.22,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "better. Yeah. Okay, right example. So say you mean here is an example of a great summary. Yeah,",
+      "asr_confidence": 0.69,
+      "label": "content"
+    },
+    {
+      "start": 1459.22,
+      "end": 1469.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "you're right. That's a good idea. Very popular technique acts like renewable energy experts",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 1469.42,
+      "end": 1480.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "giving a conference at Davos. Let's say yeah, that's great. Someone where you're the best in the world",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 1480.42,
+      "end": 1487.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "at this explain. Yeah, actually, I mean these things work. It's funny, but it does work to say act",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 1487.6,
+      "end": 1492.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "like xyz. It's a very popular prompt template. We see a few examples. What else could you do?",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1492.76,
+      "end": 1496.66,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1496.66,
+      "end": 1501.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yes. I think you're all right. Okay.",
+      "asr_confidence": 0.12,
+      "label": "content"
+    },
+    {
+      "start": 1501.52,
+      "end": 1506.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yeah. Protect your own project so you're using reflection. So you might actually do one output",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 1506.24,
+      "end": 1510.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "and then ask it to critique it and then give it back. Yeah, we see that. That's a great one.",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 1510.74,
+      "end": 1516.22,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "That's the one that probably works best within those typically, but we see some examples. What else?",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 1516.22,
+      "end": 1522.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yeah. Okay, break the task down into steps. You know how that is called.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 1522.86,
+      "end": 1530.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Okay, chain of thoughts. So this is actually a popular method that's been shown in research that",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 1530.44,
+      "end": 1535.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "it improves. You could actually give a clear instruction and also encourage the model to think",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1535.36,
+      "end": 1541.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "step by step approach the task step by step and do not steep any step and then you give it some",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 1541.02,
+      "end": 1546.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "steps such as step one, identify the three most important findings step two, explain how key",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1546.42,
+      "end": 1552.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "each finding impact renewable energy policy step three writes the five-wheeled summary with each",
+      "asr_confidence": 0.78,
+      "label": "content"
+    },
+    {
+      "start": 1552.5,
+      "end": 1560.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "point addressing a finding, et cetera. So chain of thoughts. I linked the paper from 2023",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 1560.46,
+      "end": 1565.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "that popularized chain of thoughts. Chain of thoughts is very very popular right now, especially in",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1565.36,
+      "end": 1574.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "AI startups that are trying to control their elements. Okay, to go back to your examples about act",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 1574.54,
+      "end": 1582.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "like XYZ. What I like to do, Andrew, and also talks about that is to look at other people's prompts.",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 1582.1,
+      "end": 1588.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And in fact, in a online, you have a lot of prompt repositories for free on GitHub. In fact,",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 1588.14,
+      "end": 1594.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I linked the awesome prompt template repo on GitHub where you have so many examples of great",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1594.46,
+      "end": 1599.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "prompt that engineers have built. They said it works great for us and they publish it online.",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 1599.06,
+      "end": 1606.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And a lot of them starts with act as, you know, act as a Linux terminal act as an English",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 1606.08,
+      "end": 1615.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "translator act like a position interviewer, et cetera. The advantage of a prompt template is that",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 1615.04,
+      "end": 1621.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "you can actually put it in your code and scale it for many user requests. So let me give you an",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 1621.3,
+      "end": 1628.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "example from work era, you know, work era evaluates skills. Some of you have taken the assessments",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 1628.02,
+      "end": 1631.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "already and tries to personalize it to the user.",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 1631.66,
+      "end": 1638.08,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1638.08,
+      "end": 1638.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Bye kids.",
+      "asr_confidence": 0.62,
+      "label": "content"
+    },
+    {
+      "start": 1638.76,
+      "end": 1661.46,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1661.46,
+      "end": 1672.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "If I had a million dollars or 10, I'd give it to you world and then you'd go away and let me",
+      "asr_confidence": 0.81,
+      "label": "ads"
+    },
+    {
+      "start": 1672.98,
+      "end": 1678.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "jump in. Which of these would be a little less expected? Check out the alliums. They'd go great with",
+      "asr_confidence": 0.84,
+      "label": "ads"
+    },
+    {
+      "start": 1678.2,
+      "end": 1683.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "the hydrangeas below. Well, those last two Saturdays? Yeah, they should last until Saturday if they're kept in water.",
+      "asr_confidence": 0.82,
+      "label": "ads"
+    },
+    {
+      "start": 1683.5,
+      "end": 1692.0,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1692.0,
+      "end": 1697.84,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And in fact, if you actually read in an HR system in an enterprise, in the HR system, you might",
+      "asr_confidence": 0.87,
+      "label": "ads"
+    },
+    {
+      "start": 1697.84,
+      "end": 1705.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "have Jane is a product manager, level three, and she is in the US and her preferred language is",
+      "asr_confidence": 0.89,
+      "label": "ads"
+    },
+    {
+      "start": 1705.74,
+      "end": 1711.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "English. And actually that's metadata can be inserted in a prompt template that we personalize",
+      "asr_confidence": 0.89,
+      "label": "ads"
+    },
+    {
+      "start": 1711.88,
+      "end": 1718.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "for Jane and similarly for Joe, whose favorite language is preferred language is Spanish. It will",
+      "asr_confidence": 0.82,
+      "label": "ads"
+    },
+    {
+      "start": 1718.96,
+      "end": 1721.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "tailor it to Joe. And that's called a prompt template.",
+      "asr_confidence": 0.85,
+      "label": "ads"
+    },
+    {
+      "start": 1721.68,
+      "end": 1731.1,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1731.1,
+      "end": 1737.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So the question is, do the foundation models use a prompt template or do you have to integrate",
+      "asr_confidence": 0.86,
+      "label": "outro"
+    },
+    {
+      "start": 1737.82,
+      "end": 1744.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "it yourself? So the foundation models probably use a system from that you don't see. When actually you",
+      "asr_confidence": 0.81,
+      "label": "outro"
+    },
+    {
+      "start": 1744.26,
+      "end": 1752.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "type on chat GPT, it is possible, it's not public, that's open AI behind the scene has like act like a",
+      "asr_confidence": 0.81,
+      "label": "outro"
+    },
+    {
+      "start": 1752.86,
+      "end": 1759.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "very helpful assistant for this user. And by the way, here is your memories about the user that we",
+      "asr_confidence": 0.94,
+      "label": "outro"
+    },
+    {
+      "start": 1759.5,
+      "end": 1764.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "kept in a database. You can actually check your memories. And then your prompt goes under and then",
+      "asr_confidence": 0.96,
+      "label": "outro"
+    },
+    {
+      "start": 1764.98,
+      "end": 1770.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "the generation starts. So probably they're using something like that, but it doesn't mean you can't",
+      "asr_confidence": 0.89,
+      "label": "outro"
+    },
+    {
+      "start": 1770.24,
+      "end": 1775.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "add one yourself. So in fact, if you think about a prompt template for the work, here example,",
+      "asr_confidence": 0.85,
+      "label": "outro"
+    },
+    {
+      "start": 1775.8,
+      "end": 1781.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I was showing, maybe it starts when you call open AI by act like a head through the assistant. And",
+      "asr_confidence": 0.8,
+      "label": "outro"
+    },
+    {
+      "start": 1781.62,
+      "end": 1788.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "then underneath it's like act like a great AI mentor that helps people in their career. And open AI's",
+      "asr_confidence": 0.88,
+      "label": "outro"
+    },
+    {
+      "start": 1788.54,
+      "end": 1793.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "prompt template also has full of the instruction from the creator or something like that. You know,",
+      "asr_confidence": 0.83,
+      "label": "outro"
+    },
+    {
+      "start": 1793.44,
+      "end": 1800.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "it's possible. Questions about prompt templates? Again, I would encourage you to go and read",
+      "asr_confidence": 0.98,
+      "label": "outro"
+    },
+    {
+      "start": 1800.72,
+      "end": 1807.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "examples of prompts. Some of them are quite thoughtful. Let's talk about zero shot versus few shot",
+      "asr_confidence": 0.92,
+      "label": "outro"
+    },
+    {
+      "start": 1807.04,
+      "end": 1812.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "prompting. It came up earlier. Here's an example again, going back to the categorization of",
+      "asr_confidence": 0.94,
+      "label": "outro"
+    },
+    {
+      "start": 1812.92,
+      "end": 1820.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "product reviews. Let's say that we're working on a task where the prompt is classify the tone of",
+      "asr_confidence": 0.86,
+      "label": "outro"
+    },
+    {
+      "start": 1820.32,
+      "end": 1827.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "these sentence as positive, negative or neutral. And then you paste the review, which is the product",
+      "asr_confidence": 0.9,
+      "label": "outro"
+    },
+    {
+      "start": 1827.06,
+      "end": 1835.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "is fine, but I was expecting more. If I were to survey the room, I would bet that some of you would",
+      "asr_confidence": 0.99,
+      "label": "outro"
+    },
+    {
+      "start": 1835.82,
+      "end": 1840.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "say it's negative. Some of you would say neutral because you actually have a first part that is",
+      "asr_confidence": 0.91,
+      "label": "outro"
+    },
+    {
+      "start": 1840.92,
+      "end": 1846.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "relatively positive. It's fine. And then the second part I was expecting more, which is",
+      "asr_confidence": 0.87,
+      "label": "outro"
+    },
+    {
+      "start": 1846.8,
+      "end": 1852.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "relatively negative. So where do you land? This can be a subjective question. And maybe one",
+      "asr_confidence": 0.91,
+      "label": "outro"
+    },
+    {
+      "start": 1852.02,
+      "end": 1856.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "industry this would be considered amazing. And another one it would be considered really bad,",
+      "asr_confidence": 0.91,
+      "label": "outro"
+    },
+    {
+      "start": 1856.16,
+      "end": 1861.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "because people are used to really flourishing reviews. And so the way you can actually align",
+      "asr_confidence": 0.99,
+      "label": "outro"
+    },
+    {
+      "start": 1861.88,
+      "end": 1866.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "the model to your task is by converting that zero shot prompt, zero shot reference to the",
+      "asr_confidence": 0.83,
+      "label": "outro"
+    },
+    {
+      "start": 1866.44,
+      "end": 1873.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "fact that it's not beginning to give an any example into a few shot prompt where the model is given",
+      "asr_confidence": 0.73,
+      "label": "outro"
+    },
+    {
+      "start": 1873.12,
+      "end": 1878.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "in the prompt a set of examples to align it to what you want it to do. So the example here is",
+      "asr_confidence": 0.95,
+      "label": "outro"
+    },
+    {
+      "start": 1878.92,
+      "end": 1883.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "you again, you paste the same prompt as before with the user review. And then you are, here are",
+      "asr_confidence": 0.87,
+      "label": "outro"
+    },
+    {
+      "start": 1883.82,
+      "end": 1890.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "examples of tone classifications. This exceeded my expectation completely positive. It's okay,",
+      "asr_confidence": 0.9,
+      "label": "outro"
+    },
+    {
+      "start": 1890.54,
+      "end": 1898.78,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "but I wish it had more features negative. The service was adequate, neither good nor bad,",
+      "asr_confidence": 0.85,
+      "label": "outro"
+    },
+    {
+      "start": 1898.78,
+      "end": 1905.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "neutral. Now classified a tone of this sentence, after you've heard about these things, then the",
+      "asr_confidence": 0.82,
+      "label": "outro"
+    },
+    {
+      "start": 1905.14,
+      "end": 1912.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "model then says negative. And the reason it says negative, of course, is likely because of the",
+      "asr_confidence": 0.97,
+      "label": "outro"
+    },
+    {
+      "start": 1912.62,
+      "end": 1918.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "second example, which was it's okay, but I wish it had more features, which we told the model",
+      "asr_confidence": 0.96,
+      "label": "outro"
+    },
+    {
+      "start": 1918.26,
+      "end": 1922.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "that was negative, because the model so that it's aligned now with your expectations.",
+      "asr_confidence": 0.87,
+      "label": "outro"
+    },
+    {
+      "start": 1922.5,
+      "end": 1923.56,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1923.56,
+      "end": 1930.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Few shot prompts are very popular. And in fact, for AI startups that are slightly more sophisticated,",
+      "asr_confidence": 0.84,
+      "label": "outro"
+    },
+    {
+      "start": 1930.6,
+      "end": 1935.97,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "you might see them keep a prompt up to date whenever the user says something.",
+      "asr_confidence": 0.84,
+      "label": "outro"
+    }
+  ]
+}

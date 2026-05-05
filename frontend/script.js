@@ -25,17 +25,17 @@ const skipNonContentBtn = document.getElementById("skipNonContent");
   ├── script.js
   ├── style.css
   ├── videos/
-  │   └── test_001.mp4
+  │   └── test_002.mp4
   └── data/
-      └── test_001/
+      └── test_002/
           └── segments.json
 */
 
 const SEGMENTS_JSON_PATHS = [
-  "./data/test_001/segments.json",
+  "./data/test_005/segments.json",
   "./segments.json",
-  "../output/test_001/segments.json",
-  "./output/test_001/segments.json"
+  "../output/test_005/segments.json",
+  "./output/test_005/segments.json"
 ];
 
 const VIDEO_BASE_PATHS = [

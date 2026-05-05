@@ -1,0 +1,8137 @@
+{
+  "video_filename": "test_003.mp4",
+  "duration_seconds": 1826.66,
+  "global_summary": "This video features a villain who boasts about stealing famous landmarks like the Statue of Liberty and plans to steal an anti-gravity scene with the help of a friend named Dr. Nefariel, while also dealing with various quirky characters and situations.",
+  "video_chapters": [
+    {
+      "label": "intro",
+      "start": 0.0,
+      "end": 19.5
+    },
+    {
+      "label": "transition",
+      "start": 19.5,
+      "end": 20.94
+    },
+    {
+      "label": "intro",
+      "start": 20.94,
+      "end": 34.38
+    },
+    {
+      "label": "transition",
+      "start": 34.38,
+      "end": 35.7
+    },
+    {
+      "label": "intro",
+      "start": 35.7,
+      "end": 42.98
+    },
+    {
+      "label": "transition",
+      "start": 42.98,
+      "end": 44.44
+    },
+    {
+      "label": "intro",
+      "start": 44.44,
+      "end": 44.74
+    },
+    {
+      "label": "transition",
+      "start": 44.74,
+      "end": 47.0
+    },
+    {
+      "label": "content",
+      "start": 47.0,
+      "end": 48.22
+    },
+    {
+      "label": "transition",
+      "start": 48.22,
+      "end": 49.62
+    },
+    {
+      "label": "content",
+      "start": 49.62,
+      "end": 58.4
+    },
+    {
+      "label": "transition",
+      "start": 58.4,
+      "end": 60.2
+    },
+    {
+      "label": "content",
+      "start": 60.2,
+      "end": 62.62
+    },
+    {
+      "label": "transition",
+      "start": 62.62,
+      "end": 64.22
+    },
+    {
+      "label": "content",
+      "start": 64.22,
+      "end": 111.32
+    },
+    {
+      "label": "transition",
+      "start": 111.32,
+      "end": 113.38
+    },
+    {
+      "label": "content",
+      "start": 113.38,
+      "end": 117.52
+    },
+    {
+      "label": "transition",
+      "start": 117.52,
+      "end": 121.51
+    },
+    {
+      "label": "content",
+      "start": 121.51,
+      "end": 124.46
+    },
+    {
+      "label": "transition",
+      "start": 124.46,
+      "end": 126.02
+    },
+    {
+      "label": "content",
+      "start": 126.02,
+      "end": 131.9
+    },
+    {
+      "label": "transition",
+      "start": 131.9,
+      "end": 133.06
+    },
+    {
+      "label": "content",
+      "start": 133.06,
+      "end": 134.44
+    },
+    {
+      "label": "transition",
+      "start": 134.44,
+      "end": 144.0
+    },
+    {
+      "label": "content",
+      "start": 144.0,
+      "end": 149.0
+    },
+    {
+      "label": "transition",
+      "start": 149.0,
+      "end": 154.34
+    },
+    {
+      "label": "content",
+      "start": 154.34,
+      "end": 163.22
+    },
+    {
+      "label": "transition",
+      "start": 163.22,
+      "end": 164.82
+    },
+    {
+      "label": "content",
+      "start": 164.82,
+      "end": 167.7
+    },
+    {
+      "label": "transition",
+      "start": 167.7,
+      "end": 171.44
+    },
+    {
+      "label": "content",
+      "start": 171.44,
+      "end": 176.08
+    },
+    {
+      "label": "transition",
+      "start": 176.08,
+      "end": 177.24
+    },
+    {
+      "label": "content",
+      "start": 177.24,
+      "end": 186.64
+    },
+    {
+      "label": "transition",
+      "start": 186.64,
+      "end": 192.08
+    },
+    {
+      "label": "content",
+      "start": 192.08,
+      "end": 194.62
+    },
+    {
+      "label": "transition",
+      "start": 194.62,
+      "end": 199.72
+    },
+    {
+      "label": "content",
+      "start": 199.72,
+      "end": 209.36
+    },
+    {
+      "label": "transition",
+      "start": 209.36,
+      "end": 212.46
+    },
+    {
+      "label": "content",
+      "start": 212.46,
+      "end": 221.52
+    },
+    {
+      "label": "transition",
+      "start": 221.52,
+      "end": 223.18
+    },
+    {
+      "label": "content",
+      "start": 223.18,
+      "end": 236.12
+    },
+    {
+      "label": "transition",
+      "start": 236.12,
+      "end": 240.16
+    },
+    {
+      "label": "content",
+      "start": 240.16,
+      "end": 240.76
+    },
+    {
+      "label": "transition",
+      "start": 240.76,
+      "end": 242.06
+    },
+    {
+      "label": "content",
+      "start": 242.06,
+      "end": 243.1
+    },
+    {
+      "label": "transition",
+      "start": 243.1,
+      "end": 244.24
+    },
+    {
+      "label": "content",
+      "start": 244.24,
+      "end": 251.18
+    },
+    {
+      "label": "transition",
+      "start": 251.18,
+      "end": 256.52
+    },
+    {
+      "label": "content",
+      "start": 256.52,
+      "end": 261.86
+    },
+    {
+      "label": "transition",
+      "start": 261.86,
+      "end": 263.14
+    },
+    {
+      "label": "content",
+      "start": 263.14,
+      "end": 265.7
+    },
+    {
+      "label": "transition",
+      "start": 265.7,
+      "end": 268.98
+    },
+    {
+      "label": "content",
+      "start": 268.98,
+      "end": 271.1
+    },
+    {
+      "label": "transition",
+      "start": 271.1,
+      "end": 272.88
+    },
+    {
+      "label": "content",
+      "start": 272.88,
+      "end": 283.3
+    },
+    {
+      "label": "transition",
+      "start": 283.3,
+      "end": 285.0
+    },
+    {
+      "label": "content",
+      "start": 285.0,
+      "end": 293.96
+    },
+    {
+      "label": "transition",
+      "start": 293.96,
+      "end": 295.78
+    },
+    {
+      "label": "content",
+      "start": 295.78,
+      "end": 296.34
+    },
+    {
+      "label": "transition",
+      "start": 296.34,
+      "end": 297.94
+    },
+    {
+      "label": "content",
+      "start": 297.94,
+      "end": 298.54
+    },
+    {
+      "label": "transition",
+      "start": 298.54,
+      "end": 304.12
+    },
+    {
+      "label": "content",
+      "start": 304.12,
+      "end": 304.72
+    },
+    {
+      "label": "transition",
+      "start": 304.72,
+      "end": 314.86
+    },
+    {
+      "label": "content",
+      "start": 314.86,
+      "end": 315.46
+    },
+    {
+      "label": "transition",
+      "start": 315.46,
+      "end": 317.66
+    },
+    {
+      "label": "content",
+      "start": 317.66,
+      "end": 323.6
+    },
+    {
+      "label": "transition",
+      "start": 323.6,
+      "end": 326.52
+    },
+    {
+      "label": "content",
+      "start": 326.52,
+      "end": 327.12
+    },
+    {
+      "label": "transition",
+      "start": 327.12,
+      "end": 329.1
+    },
+    {
+      "label": "content",
+      "start": 329.1,
+      "end": 329.7
+    },
+    {
+      "label": "transition",
+      "start": 329.7,
+      "end": 331.12
+    },
+    {
+      "label": "content",
+      "start": 331.12,
+      "end": 333.02
+    },
+    {
+      "label": "transition",
+      "start": 333.02,
+      "end": 339.12
+    },
+    {
+      "label": "content",
+      "start": 339.12,
+      "end": 341.82
+    },
+    {
+      "label": "transition",
+      "start": 341.82,
+      "end": 342.92
+    },
+    {
+      "label": "content",
+      "start": 342.92,
+      "end": 372.64
+    },
+    {
+      "label": "transition",
+      "start": 372.64,
+      "end": 375.14
+    },
+    {
+      "label": "content",
+      "start": 375.14,
+      "end": 377.72
+    },
+    {
+      "label": "transition",
+      "start": 377.72,
+      "end": 389.64
+    },
+    {
+      "label": "content",
+      "start": 389.64,
+      "end": 390.68
+    },
+    {
+      "label": "transition",
+      "start": 390.68,
+      "end": 399.12
+    },
+    {
+      "label": "content",
+      "start": 399.12,
+      "end": 400.96
+    },
+    {
+      "label": "transition",
+      "start": 400.96,
+      "end": 406.02
+    },
+    {
+      "label": "content",
+      "start": 406.02,
+      "end": 410.12
+    },
+    {
+      "label": "transition",
+      "start": 410.12,
+      "end": 424.58
+    },
+    {
+      "label": "content",
+      "start": 424.58,
+      "end": 425.88
+    },
+    {
+      "label": "transition",
+      "start": 425.88,
+      "end": 427.6
+    },
+    {
+      "label": "content",
+      "start": 427.6,
+      "end": 430.2
+    },
+    {
+      "label": "transition",
+      "start": 430.2,
+      "end": 470.26
+    },
+    {
+      "label": "content",
+      "start": 470.26,
+      "end": 475.9
+    },
+    {
+      "label": "transition",
+      "start": 475.9,
+      "end": 484.14
+    },
+    {
+      "label": "content",
+      "start": 484.14,
+      "end": 484.98
+    },
+    {
+      "label": "transition",
+      "start": 484.98,
+      "end": 508.34
+    },
+    {
+      "label": "content",
+      "start": 508.34,
+      "end": 509.74
+    },
+    {
+      "label": "transition",
+      "start": 509.74,
+      "end": 549.8
+    },
+    {
+      "label": "content",
+      "start": 549.8,
+      "end": 551.2
+    },
+    {
+      "label": "transition",
+      "start": 551.2,
+      "end": 558.18
+    },
+    {
+      "label": "content",
+      "start": 558.18,
+      "end": 558.36
+    },
+    {
+      "label": "transition",
+      "start": 558.36,
+      "end": 559.72
+    },
+    {
+      "label": "content",
+      "start": 559.72,
+      "end": 560.82
+    },
+    {
+      "label": "transition",
+      "start": 560.82,
+      "end": 562.24
+    },
+    {
+      "label": "content",
+      "start": 562.24,
+      "end": 567.88
+    },
+    {
+      "label": "transition",
+      "start": 567.88,
+      "end": 582.48
+    },
+    {
+      "label": "content",
+      "start": 582.48,
+      "end": 584.64
+    },
+    {
+      "label": "transition",
+      "start": 584.64,
+      "end": 592.06
+    },
+    {
+      "label": "content",
+      "start": 592.06,
+      "end": 599.5
+    },
+    {
+      "label": "transition",
+      "start": 599.5,
+      "end": 601.94
+    },
+    {
+      "label": "content",
+      "start": 601.94,
+      "end": 604.62
+    },
+    {
+      "label": "transition",
+      "start": 604.62,
+      "end": 605.66
+    },
+    {
+      "label": "content",
+      "start": 605.66,
+      "end": 607.86
+    },
+    {
+      "label": "transition",
+      "start": 607.86,
+      "end": 609.52
+    },
+    {
+      "label": "content",
+      "start": 609.52,
+      "end": 610.72
+    },
+    {
+      "label": "transition",
+      "start": 610.72,
+      "end": 626.9
+    },
+    {
+      "label": "content",
+      "start": 626.9,
+      "end": 631.26
+    },
+    {
+      "label": "transition",
+      "start": 631.26,
+      "end": 633.74
+    },
+    {
+      "label": "content",
+      "start": 633.74,
+      "end": 641.82
+    },
+    {
+      "label": "transition",
+      "start": 641.82,
+      "end": 643.14
+    },
+    {
+      "label": "content",
+      "start": 643.14,
+      "end": 643.68
+    },
+    {
+      "label": "transition",
+      "start": 643.68,
+      "end": 651.98
+    },
+    {
+      "label": "content",
+      "start": 651.98,
+      "end": 652.82
+    },
+    {
+      "label": "transition",
+      "start": 652.82,
+      "end": 671.92
+    },
+    {
+      "label": "content",
+      "start": 671.92,
+      "end": 688.52
+    },
+    {
+      "label": "transition",
+      "start": 688.52,
+      "end": 689.54
+    },
+    {
+      "label": "content",
+      "start": 689.54,
+      "end": 702.98
+    },
+    {
+      "label": "transition",
+      "start": 702.98,
+      "end": 706.9
+    },
+    {
+      "label": "content",
+      "start": 706.9,
+      "end": 712.9
+    },
+    {
+      "label": "transition",
+      "start": 712.9,
+      "end": 715.4
+    },
+    {
+      "label": "content",
+      "start": 715.4,
+      "end": 719.32
+    },
+    {
+      "label": "transition",
+      "start": 719.32,
+      "end": 724.18
+    },
+    {
+      "label": "content",
+      "start": 724.18,
+      "end": 760.36
+    },
+    {
+      "label": "transition",
+      "start": 760.36,
+      "end": 763.12
+    },
+    {
+      "label": "content",
+      "start": 763.12,
+      "end": 765.46
+    },
+    {
+      "label": "transition",
+      "start": 765.46,
+      "end": 767.1
+    },
+    {
+      "label": "content",
+      "start": 767.1,
+      "end": 768.06
+    },
+    {
+      "label": "transition",
+      "start": 768.06,
+      "end": 784.76
+    },
+    {
+      "label": "content",
+      "start": 784.76,
+      "end": 791.12
+    },
+    {
+      "label": "transition",
+      "start": 791.12,
+      "end": 794.82
+    },
+    {
+      "label": "content",
+      "start": 794.82,
+      "end": 799.24
+    },
+    {
+      "label": "transition",
+      "start": 799.24,
+      "end": 801.1
+    },
+    {
+      "label": "content",
+      "start": 801.1,
+      "end": 804.9
+    },
+    {
+      "label": "transition",
+      "start": 804.9,
+      "end": 806.78
+    },
+    {
+      "label": "content",
+      "start": 806.78,
+      "end": 813.52
+    },
+    {
+      "label": "transition",
+      "start": 813.52,
+      "end": 815.1
+    },
+    {
+      "label": "content",
+      "start": 815.1,
+      "end": 816.08
+    },
+    {
+      "label": "transition",
+      "start": 816.08,
+      "end": 827.5
+    },
+    {
+      "label": "content",
+      "start": 827.5,
+      "end": 828.64
+    },
+    {
+      "label": "transition",
+      "start": 828.64,
+      "end": 829.66
+    },
+    {
+      "label": "content",
+      "start": 829.66,
+      "end": 833.28
+    },
+    {
+      "label": "transition",
+      "start": 833.28,
+      "end": 835.0
+    },
+    {
+      "label": "content",
+      "start": 835.0,
+      "end": 835.72
+    },
+    {
+      "label": "transition",
+      "start": 835.72,
+      "end": 837.14
+    },
+    {
+      "label": "content",
+      "start": 837.14,
+      "end": 842.14
+    },
+    {
+      "label": "transition",
+      "start": 842.14,
+      "end": 850.78
+    },
+    {
+      "label": "content",
+      "start": 850.78,
+      "end": 852.18
+    },
+    {
+      "label": "transition",
+      "start": 852.18,
+      "end": 875.24
+    },
+    {
+      "label": "content",
+      "start": 875.24,
+      "end": 876.22
+    },
+    {
+      "label": "transition",
+      "start": 876.22,
+      "end": 884.86
+    },
+    {
+      "label": "content",
+      "start": 884.86,
+      "end": 885.88
+    },
+    {
+      "label": "transition",
+      "start": 885.88,
+      "end": 887.2
+    },
+    {
+      "label": "content",
+      "start": 887.2,
+      "end": 888.14
+    },
+    {
+      "label": "transition",
+      "start": 888.14,
+      "end": 889.14
+    },
+    {
+      "label": "content",
+      "start": 889.14,
+      "end": 890.74
+    },
+    {
+      "label": "transition",
+      "start": 890.74,
+      "end": 894.76
+    },
+    {
+      "label": "content",
+      "start": 894.76,
+      "end": 918.78
+    },
+    {
+      "label": "transition",
+      "start": 918.78,
+      "end": 930.82
+    },
+    {
+      "label": "content",
+      "start": 930.82,
+      "end": 931.86
+    },
+    {
+      "label": "transition",
+      "start": 931.86,
+      "end": 933.74
+    },
+    {
+      "label": "content",
+      "start": 933.74,
+      "end": 937.24
+    },
+    {
+      "label": "transition",
+      "start": 937.24,
+      "end": 938.26
+    },
+    {
+      "label": "content",
+      "start": 938.26,
+      "end": 943.38
+    },
+    {
+      "label": "transition",
+      "start": 943.38,
+      "end": 944.64
+    },
+    {
+      "label": "content",
+      "start": 944.64,
+      "end": 947.08
+    },
+    {
+      "label": "transition",
+      "start": 947.08,
+      "end": 948.18
+    },
+    {
+      "label": "content",
+      "start": 948.18,
+      "end": 950.04
+    },
+    {
+      "label": "transition",
+      "start": 950.04,
+      "end": 952.74
+    },
+    {
+      "label": "content",
+      "start": 952.74,
+      "end": 953.4
+    },
+    {
+      "label": "transition",
+      "start": 953.4,
+      "end": 965.16
+    },
+    {
+      "label": "content",
+      "start": 965.16,
+      "end": 966.2
+    },
+    {
+      "label": "transition",
+      "start": 966.2,
+      "end": 973.14
+    },
+    {
+      "label": "content",
+      "start": 973.14,
+      "end": 974.84
+    },
+    {
+      "label": "transition",
+      "start": 974.84,
+      "end": 976.38
+    },
+    {
+      "label": "content",
+      "start": 976.38,
+      "end": 978.92
+    },
+    {
+      "label": "transition",
+      "start": 978.92,
+      "end": 980.24
+    },
+    {
+      "label": "content",
+      "start": 980.24,
+      "end": 982.96
+    },
+    {
+      "label": "transition",
+      "start": 982.96,
+      "end": 988.76
+    },
+    {
+      "label": "content",
+      "start": 988.76,
+      "end": 989.5
+    },
+    {
+      "label": "transition",
+      "start": 989.5,
+      "end": 992.12
+    },
+    {
+      "label": "content",
+      "start": 992.12,
+      "end": 1001.4
+    },
+    {
+      "label": "transition",
+      "start": 1001.4,
+      "end": 1012.82
+    },
+    {
+      "label": "content",
+      "start": 1012.82,
+      "end": 1015.78
+    },
+    {
+      "label": "transition",
+      "start": 1015.78,
+      "end": 1026.06
+    },
+    {
+      "label": "content",
+      "start": 1026.06,
+      "end": 1029.84
+    },
+    {
+      "label": "transition",
+      "start": 1029.84,
+      "end": 1040.86
+    },
+    {
+      "label": "content",
+      "start": 1040.86,
+      "end": 1043.46
+    },
+    {
+      "label": "transition",
+      "start": 1043.46,
+      "end": 1044.6
+    },
+    {
+      "label": "content",
+      "start": 1044.6,
+      "end": 1046.22
+    },
+    {
+      "label": "transition",
+      "start": 1046.22,
+      "end": 1067.84
+    },
+    {
+      "label": "content",
+      "start": 1067.84,
+      "end": 1070.74
+    },
+    {
+      "label": "transition",
+      "start": 1070.74,
+      "end": 1077.8
+    },
+    {
+      "label": "content",
+      "start": 1077.8,
+      "end": 1079.2
+    },
+    {
+      "label": "transition",
+      "start": 1079.2,
+      "end": 1081.86
+    },
+    {
+      "label": "content",
+      "start": 1081.86,
+      "end": 1083.62
+    },
+    {
+      "label": "transition",
+      "start": 1083.62,
+      "end": 1086.74
+    },
+    {
+      "label": "content",
+      "start": 1086.74,
+      "end": 1087.7
+    },
+    {
+      "label": "transition",
+      "start": 1087.7,
+      "end": 1089.4
+    },
+    {
+      "label": "content",
+      "start": 1089.4,
+      "end": 1090.5
+    },
+    {
+      "label": "transition",
+      "start": 1090.5,
+      "end": 1091.8
+    },
+    {
+      "label": "content",
+      "start": 1091.8,
+      "end": 1092.48
+    },
+    {
+      "label": "transition",
+      "start": 1092.48,
+      "end": 1094.74
+    },
+    {
+      "label": "content",
+      "start": 1094.74,
+      "end": 1095.58
+    },
+    {
+      "label": "transition",
+      "start": 1095.58,
+      "end": 1100.62
+    },
+    {
+      "label": "content",
+      "start": 1100.62,
+      "end": 1100.9
+    },
+    {
+      "label": "transition",
+      "start": 1100.9,
+      "end": 1102.32
+    },
+    {
+      "label": "content",
+      "start": 1102.32,
+      "end": 1104.02
+    },
+    {
+      "label": "transition",
+      "start": 1104.02,
+      "end": 1106.88
+    },
+    {
+      "label": "content",
+      "start": 1106.88,
+      "end": 1107.14
+    },
+    {
+      "label": "transition",
+      "start": 1107.14,
+      "end": 1108.44
+    },
+    {
+      "label": "content",
+      "start": 1108.44,
+      "end": 1109.84
+    },
+    {
+      "label": "transition",
+      "start": 1109.84,
+      "end": 1112.32
+    },
+    {
+      "label": "content",
+      "start": 1112.32,
+      "end": 1116.26
+    },
+    {
+      "label": "transition",
+      "start": 1116.26,
+      "end": 1117.58
+    },
+    {
+      "label": "content",
+      "start": 1117.58,
+      "end": 1120.34
+    },
+    {
+      "label": "transition",
+      "start": 1120.34,
+      "end": 1123.24
+    },
+    {
+      "label": "content",
+      "start": 1123.24,
+      "end": 1123.94
+    },
+    {
+      "label": "transition",
+      "start": 1123.94,
+      "end": 1141.34
+    },
+    {
+      "label": "content",
+      "start": 1141.34,
+      "end": 1141.98
+    },
+    {
+      "label": "transition",
+      "start": 1141.98,
+      "end": 1145.14
+    },
+    {
+      "label": "content",
+      "start": 1145.14,
+      "end": 1166.34
+    },
+    {
+      "label": "transition",
+      "start": 1166.34,
+      "end": 1167.66
+    },
+    {
+      "label": "content",
+      "start": 1167.66,
+      "end": 1173.96
+    },
+    {
+      "label": "transition",
+      "start": 1173.96,
+      "end": 1184.46
+    },
+    {
+      "label": "content",
+      "start": 1184.46,
+      "end": 1187.92
+    },
+    {
+      "label": "transition",
+      "start": 1187.92,
+      "end": 1190.08
+    },
+    {
+      "label": "content",
+      "start": 1190.08,
+      "end": 1194.7
+    },
+    {
+      "label": "transition",
+      "start": 1194.7,
+      "end": 1205.64
+    },
+    {
+      "label": "content",
+      "start": 1205.64,
+      "end": 1209.3
+    },
+    {
+      "label": "transition",
+      "start": 1209.3,
+      "end": 1237.32
+    },
+    {
+      "label": "content",
+      "start": 1237.32,
+      "end": 1240.5
+    },
+    {
+      "label": "transition",
+      "start": 1240.5,
+      "end": 1241.82
+    },
+    {
+      "label": "content",
+      "start": 1241.82,
+      "end": 1243.3
+    },
+    {
+      "label": "transition",
+      "start": 1243.3,
+      "end": 1255.7
+    },
+    {
+      "label": "content",
+      "start": 1255.7,
+      "end": 1260.38
+    },
+    {
+      "label": "transition",
+      "start": 1260.38,
+      "end": 1261.38
+    },
+    {
+      "label": "content",
+      "start": 1261.38,
+      "end": 1261.72
+    },
+    {
+      "label": "transition",
+      "start": 1261.72,
+      "end": 1262.78
+    },
+    {
+      "label": "content",
+      "start": 1262.78,
+      "end": 1263.9
+    },
+    {
+      "label": "transition",
+      "start": 1263.9,
+      "end": 1265.32
+    },
+    {
+      "label": "content",
+      "start": 1265.32,
+      "end": 1265.92
+    },
+    {
+      "label": "transition",
+      "start": 1265.92,
+      "end": 1267.22
+    },
+    {
+      "label": "content",
+      "start": 1267.22,
+      "end": 1278.76
+    },
+    {
+      "label": "transition",
+      "start": 1278.76,
+      "end": 1280.08
+    },
+    {
+      "label": "content",
+      "start": 1280.08,
+      "end": 1284.74
+    },
+    {
+      "label": "transition",
+      "start": 1284.74,
+      "end": 1286.04
+    },
+    {
+      "label": "content",
+      "start": 1286.04,
+      "end": 1286.68
+    },
+    {
+      "label": "transition",
+      "start": 1286.68,
+      "end": 1293.66
+    },
+    {
+      "label": "content",
+      "start": 1293.66,
+      "end": 1299.42
+    },
+    {
+      "label": "transition",
+      "start": 1299.42,
+      "end": 1303.98
+    },
+    {
+      "label": "content",
+      "start": 1303.98,
+      "end": 1308.32
+    },
+    {
+      "label": "transition",
+      "start": 1308.32,
+      "end": 1309.58
+    },
+    {
+      "label": "content",
+      "start": 1309.58,
+      "end": 1311.88
+    },
+    {
+      "label": "transition",
+      "start": 1311.88,
+      "end": 1314.46
+    },
+    {
+      "label": "content",
+      "start": 1314.46,
+      "end": 1322.48
+    },
+    {
+      "label": "transition",
+      "start": 1322.48,
+      "end": 1327.82
+    },
+    {
+      "label": "content",
+      "start": 1327.82,
+      "end": 1329.4
+    },
+    {
+      "label": "transition",
+      "start": 1329.4,
+      "end": 1338.5
+    },
+    {
+      "label": "content",
+      "start": 1338.5,
+      "end": 1341.7
+    },
+    {
+      "label": "transition",
+      "start": 1341.7,
+      "end": 1343.04
+    },
+    {
+      "label": "content",
+      "start": 1343.04,
+      "end": 1361.86
+    },
+    {
+      "label": "transition",
+      "start": 1361.86,
+      "end": 1364.06
+    },
+    {
+      "label": "content",
+      "start": 1364.06,
+      "end": 1367.4
+    },
+    {
+      "label": "transition",
+      "start": 1367.4,
+      "end": 1368.42
+    },
+    {
+      "label": "content",
+      "start": 1368.42,
+      "end": 1371.38
+    },
+    {
+      "label": "transition",
+      "start": 1371.38,
+      "end": 1375.08
+    },
+    {
+      "label": "content",
+      "start": 1375.08,
+      "end": 1377.2
+    },
+    {
+      "label": "transition",
+      "start": 1377.2,
+      "end": 1378.82
+    },
+    {
+      "label": "content",
+      "start": 1378.82,
+      "end": 1393.36
+    },
+    {
+      "label": "transition",
+      "start": 1393.36,
+      "end": 1395.54
+    },
+    {
+      "label": "content",
+      "start": 1395.54,
+      "end": 1401.7
+    },
+    {
+      "label": "transition",
+      "start": 1401.7,
+      "end": 1403.66
+    },
+    {
+      "label": "content",
+      "start": 1403.66,
+      "end": 1405.8
+    },
+    {
+      "label": "transition",
+      "start": 1405.8,
+      "end": 1411.4
+    },
+    {
+      "label": "content",
+      "start": 1411.4,
+      "end": 1419.26
+    },
+    {
+      "label": "transition",
+      "start": 1419.26,
+      "end": 1432.44
+    },
+    {
+      "label": "content",
+      "start": 1432.44,
+      "end": 1438.18
+    },
+    {
+      "label": "transition",
+      "start": 1438.18,
+      "end": 1440.64
+    },
+    {
+      "label": "content",
+      "start": 1440.64,
+      "end": 1446.44
+    },
+    {
+      "label": "transition",
+      "start": 1446.44,
+      "end": 1447.94
+    },
+    {
+      "label": "content",
+      "start": 1447.94,
+      "end": 1476.68
+    },
+    {
+      "label": "transition",
+      "start": 1476.68,
+      "end": 1494.58
+    },
+    {
+      "label": "content",
+      "start": 1494.58,
+      "end": 1506.64
+    },
+    {
+      "label": "transition",
+      "start": 1506.64,
+      "end": 1513.84
+    },
+    {
+      "label": "content",
+      "start": 1513.84,
+      "end": 1537.54
+    },
+    {
+      "label": "transition",
+      "start": 1537.54,
+      "end": 1538.7
+    },
+    {
+      "label": "content",
+      "start": 1538.7,
+      "end": 1539.14
+    },
+    {
+      "label": "transition",
+      "start": 1539.14,
+      "end": 1541.0
+    },
+    {
+      "label": "content",
+      "start": 1541.0,
+      "end": 1541.48
+    },
+    {
+      "label": "transition",
+      "start": 1541.48,
+      "end": 1542.94
+    },
+    {
+      "label": "content",
+      "start": 1542.94,
+      "end": 1543.96
+    },
+    {
+      "label": "transition",
+      "start": 1543.96,
+      "end": 1548.28
+    },
+    {
+      "label": "content",
+      "start": 1548.28,
+      "end": 1548.54
+    },
+    {
+      "label": "transition",
+      "start": 1548.54,
+      "end": 1549.68
+    },
+    {
+      "label": "content",
+      "start": 1549.68,
+      "end": 1550.26
+    },
+    {
+      "label": "transition",
+      "start": 1550.26,
+      "end": 1555.18
+    },
+    {
+      "label": "content",
+      "start": 1555.18,
+      "end": 1557.06
+    },
+    {
+      "label": "transition",
+      "start": 1557.06,
+      "end": 1558.52
+    },
+    {
+      "label": "content",
+      "start": 1558.52,
+      "end": 1559.68
+    },
+    {
+      "label": "transition",
+      "start": 1559.68,
+      "end": 1567.48
+    },
+    {
+      "label": "content",
+      "start": 1567.48,
+      "end": 1575.06
+    },
+    {
+      "label": "transition",
+      "start": 1575.06,
+      "end": 1576.08
+    },
+    {
+      "label": "content",
+      "start": 1576.08,
+      "end": 1576.66
+    },
+    {
+      "label": "transition",
+      "start": 1576.66,
+      "end": 1582.48
+    },
+    {
+      "label": "content",
+      "start": 1582.48,
+      "end": 1586.24
+    },
+    {
+      "label": "transition",
+      "start": 1586.24,
+      "end": 1587.36
+    },
+    {
+      "label": "content",
+      "start": 1587.36,
+      "end": 1589.04
+    },
+    {
+      "label": "transition",
+      "start": 1589.04,
+      "end": 1590.24
+    },
+    {
+      "label": "content",
+      "start": 1590.24,
+      "end": 1593.48
+    },
+    {
+      "label": "transition",
+      "start": 1593.48,
+      "end": 1594.8
+    },
+    {
+      "label": "content",
+      "start": 1594.8,
+      "end": 1595.92
+    },
+    {
+      "label": "transition",
+      "start": 1595.92,
+      "end": 1597.86
+    },
+    {
+      "label": "content",
+      "start": 1597.86,
+      "end": 1598.42
+    },
+    {
+      "label": "transition",
+      "start": 1598.42,
+      "end": 1600.22
+    },
+    {
+      "label": "content",
+      "start": 1600.22,
+      "end": 1600.78
+    },
+    {
+      "label": "transition",
+      "start": 1600.78,
+      "end": 1601.92
+    },
+    {
+      "label": "content",
+      "start": 1601.92,
+      "end": 1606.8
+    },
+    {
+      "label": "transition",
+      "start": 1606.8,
+      "end": 1609.48
+    },
+    {
+      "label": "content",
+      "start": 1609.48,
+      "end": 1609.82
+    },
+    {
+      "label": "transition",
+      "start": 1609.82,
+      "end": 1611.48
+    },
+    {
+      "label": "content",
+      "start": 1611.48,
+      "end": 1612.24
+    },
+    {
+      "label": "transition",
+      "start": 1612.24,
+      "end": 1622.64
+    },
+    {
+      "label": "content",
+      "start": 1622.64,
+      "end": 1623.96
+    },
+    {
+      "label": "transition",
+      "start": 1623.96,
+      "end": 1625.4
+    },
+    {
+      "label": "content",
+      "start": 1625.4,
+      "end": 1629.82
+    },
+    {
+      "label": "transition",
+      "start": 1629.82,
+      "end": 1630.86
+    },
+    {
+      "label": "content",
+      "start": 1630.86,
+      "end": 1635.26
+    },
+    {
+      "label": "transition",
+      "start": 1635.26,
+      "end": 1636.7
+    },
+    {
+      "label": "content",
+      "start": 1636.7,
+      "end": 1637.2
+    },
+    {
+      "label": "transition",
+      "start": 1637.2,
+      "end": 1646.48
+    },
+    {
+      "label": "content",
+      "start": 1646.56,
+      "end": 1649.1
+    },
+    {
+      "label": "transition",
+      "start": 1649.1,
+      "end": 1658.32
+    },
+    {
+      "label": "content",
+      "start": 1658.32,
+      "end": 1659.2
+    },
+    {
+      "label": "transition",
+      "start": 1659.2,
+      "end": 1660.28
+    },
+    {
+      "label": "content",
+      "start": 1660.28,
+      "end": 1664.6
+    },
+    {
+      "label": "transition",
+      "start": 1664.6,
+      "end": 1665.66
+    },
+    {
+      "label": "content",
+      "start": 1665.66,
+      "end": 1666.18
+    },
+    {
+      "label": "transition",
+      "start": 1666.18,
+      "end": 1671.02
+    },
+    {
+      "label": "content",
+      "start": 1671.02,
+      "end": 1675.8
+    },
+    {
+      "label": "transition",
+      "start": 1675.8,
+      "end": 1678.1
+    },
+    {
+      "label": "content",
+      "start": 1678.1,
+      "end": 1678.32
+    },
+    {
+      "label": "transition",
+      "start": 1678.32,
+      "end": 1679.46
+    },
+    {
+      "label": "content",
+      "start": 1679.46,
+      "end": 1679.54
+    },
+    {
+      "label": "transition",
+      "start": 1679.54,
+      "end": 1680.98
+    },
+    {
+      "label": "content",
+      "start": 1680.98,
+      "end": 1681.28
+    },
+    {
+      "label": "transition",
+      "start": 1681.28,
+      "end": 1682.32
+    },
+    {
+      "label": "content",
+      "start": 1682.32,
+      "end": 1696.32
+    },
+    {
+      "label": "transition",
+      "start": 1696.32,
+      "end": 1698.52
+    },
+    {
+      "label": "content",
+      "start": 1698.52,
+      "end": 1703.56
+    },
+    {
+      "label": "transition",
+      "start": 1703.56,
+      "end": 1710.34
+    },
+    {
+      "label": "content",
+      "start": 1710.34,
+      "end": 1711.52
+    },
+    {
+      "label": "transition",
+      "start": 1711.52,
+      "end": 1713.48
+    },
+    {
+      "label": "content",
+      "start": 1713.48,
+      "end": 1714.08
+    },
+    {
+      "label": "transition",
+      "start": 1714.08,
+      "end": 1716.68
+    },
+    {
+      "label": "content",
+      "start": 1716.68,
+      "end": 1718.28
+    },
+    {
+      "label": "transition",
+      "start": 1718.28,
+      "end": 1726.34
+    },
+    {
+      "label": "content",
+      "start": 1726.34,
+      "end": 1735.42
+    },
+    {
+      "label": "transition",
+      "start": 1735.42,
+      "end": 1743.78
+    },
+    {
+      "label": "content",
+      "start": 1743.78,
+      "end": 1745.16
+    },
+    {
+      "label": "transition",
+      "start": 1745.16,
+      "end": 1747.52
+    },
+    {
+      "label": "content",
+      "start": 1747.52,
+      "end": 1747.76
+    },
+    {
+      "label": "transition",
+      "start": 1747.76,
+      "end": 1750.1
+    },
+    {
+      "label": "content",
+      "start": 1750.1,
+      "end": 1750.24
+    },
+    {
+      "label": "transition",
+      "start": 1750.24,
+      "end": 1758.08
+    },
+    {
+      "label": "content",
+      "start": 1758.08,
+      "end": 1758.32
+    },
+    {
+      "label": "transition",
+      "start": 1758.32,
+      "end": 1761.26
+    },
+    {
+      "label": "content",
+      "start": 1761.26,
+      "end": 1767.7
+    },
+    {
+      "label": "transition",
+      "start": 1767.7,
+      "end": 1770.12
+    },
+    {
+      "label": "content",
+      "start": 1770.12,
+      "end": 1771.08
+    },
+    {
+      "label": "transition",
+      "start": 1771.08,
+      "end": 1773.68
+    },
+    {
+      "label": "content",
+      "start": 1773.68,
+      "end": 1774.18
+    },
+    {
+      "label": "transition",
+      "start": 1774.18,
+      "end": 1775.3
+    },
+    {
+      "label": "content",
+      "start": 1775.3,
+      "end": 1775.6
+    },
+    {
+      "label": "transition",
+      "start": 1775.6,
+      "end": 1777.0
+    },
+    {
+      "label": "content",
+      "start": 1777.0,
+      "end": 1778.66
+    },
+    {
+      "label": "transition",
+      "start": 1778.66,
+      "end": 1779.92
+    },
+    {
+      "label": "content",
+      "start": 1779.92,
+      "end": 1783.96
+    },
+    {
+      "label": "transition",
+      "start": 1783.96,
+      "end": 1785.64
+    },
+    {
+      "label": "content",
+      "start": 1785.64,
+      "end": 1789.02
+    },
+    {
+      "label": "transition",
+      "start": 1789.02,
+      "end": 1794.82
+    },
+    {
+      "label": "content",
+      "start": 1794.82,
+      "end": 1798.84
+    },
+    {
+      "label": "transition",
+      "start": 1798.84,
+      "end": 1806.58
+    },
+    {
+      "label": "content",
+      "start": 1806.58,
+      "end": 1811.74
+    },
+    {
+      "label": "transition",
+      "start": 1811.74,
+      "end": 1813.3
+    },
+    {
+      "label": "outro",
+      "start": 1813.3,
+      "end": 1814.02
+    },
+    {
+      "label": "transition",
+      "start": 1814.02,
+      "end": 1816.46
+    },
+    {
+      "label": "outro",
+      "start": 1816.46,
+      "end": 1817.18
+    },
+    {
+      "label": "transition",
+      "start": 1817.18,
+      "end": 1819.96
+    },
+    {
+      "label": "content",
+      "start": 1819.96,
+      "end": 1823.42
+    },
+    {
+      "label": "transition",
+      "start": 1823.42,
+      "end": 1826.66
+    }
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Come on down!",
+      "asr_confidence": 0.56,
+      "label": "intro"
+    },
+    {
+      "start": 1.74,
+      "end": 2.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Thank you.",
+      "asr_confidence": 0.89,
+      "label": "intro"
+    },
+    {
+      "start": 2.86,
+      "end": 3.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Okay.",
+      "asr_confidence": 0.6,
+      "label": "intro"
+    },
+    {
+      "start": 3.76,
+      "end": 9.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Now I realize that you guys are probably heard about this other villain who's told the pyramids.",
+      "asr_confidence": 0.81,
+      "label": "intro"
+    },
+    {
+      "start": 9.64,
+      "end": 12.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Apparently it's a big deal.",
+      "asr_confidence": 0.92,
+      "label": "intro"
+    },
+    {
+      "start": 12.06,
+      "end": 15.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "People are calling it the crime of the century and stuff like that.",
+      "asr_confidence": 0.95,
+      "label": "intro"
+    },
+    {
+      "start": 15.98,
+      "end": 16.78,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "But!",
+      "asr_confidence": 0.57,
+      "label": "intro"
+    },
+    {
+      "start": 16.78,
+      "end": 18.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Am I upset?",
+      "asr_confidence": 0.98,
+      "label": "intro"
+    },
+    {
+      "start": 18.16,
+      "end": 19.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No! I am not!",
+      "asr_confidence": 0.99,
+      "label": "intro"
+    },
+    {
+      "start": 19.5,
+      "end": 20.94,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 20.94,
+      "end": 22.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "A little, but!",
+      "asr_confidence": 0.98,
+      "label": "intro"
+    },
+    {
+      "start": 22.86,
+      "end": 26.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We have had a pretty good year ourselves.",
+      "asr_confidence": 0.95,
+      "label": "intro"
+    },
+    {
+      "start": 26.04,
+      "end": 30.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And you guys are all right in my book!",
+      "asr_confidence": 0.71,
+      "label": "intro"
+    },
+    {
+      "start": 30.32,
+      "end": 32.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No, no raises!",
+      "asr_confidence": 0.7,
+      "label": "intro"
+    },
+    {
+      "start": 32.38,
+      "end": 34.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm not going to get any of this.",
+      "asr_confidence": 0.76,
+      "label": "intro"
+    },
+    {
+      "start": 34.38,
+      "end": 35.7,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 35.7,
+      "end": 37.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "What did we do?",
+      "asr_confidence": 0.92,
+      "label": "intro"
+    },
+    {
+      "start": 37.92,
+      "end": 42.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Well, we stole the Times Square Jumbo's Ma!",
+      "asr_confidence": 0.74,
+      "label": "intro"
+    },
+    {
+      "start": 42.98,
+      "end": 44.44,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 44.44,
+      "end": 44.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.05,
+      "label": "intro"
+    },
+    {
+      "start": 44.74,
+      "end": 47.0,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 47.0,
+      "end": 48.22,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "That's how I roll!",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 48.22,
+      "end": 49.62,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 49.62,
+      "end": 54.01,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yeah, you all are watching football on that, huh?",
+      "asr_confidence": 0.7,
+      "label": "content"
+    },
+    {
+      "start": 54.01,
+      "end": 55.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "But there's no!",
+      "asr_confidence": 0.39,
+      "label": "content"
+    },
+    {
+      "start": 55.38,
+      "end": 58.4,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We stole the statue of Liberty!",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 58.4,
+      "end": 60.2,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 60.2,
+      "end": 62.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "This small one from Las Vegas!",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 62.62,
+      "end": 64.22,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 64.22,
+      "end": 67.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And I won't even mention the Eiffel Tower!",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 67.82,
+      "end": 69.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Also Vegas!",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 69.3,
+      "end": 77.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Okay, I wasn't going to tell you about this yet, but I have been working on something very big!",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 77.46,
+      "end": 81.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Something that will blow this pyramid thing out of the water!",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 81.92,
+      "end": 87.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And thanks to the Eiffel Tower, my good friend, Dr. Nefariel.",
+      "asr_confidence": 0.74,
+      "label": "content"
+    },
+    {
+      "start": 87.14,
+      "end": 88.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Thank you!",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 88.58,
+      "end": 90.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, there he is!",
+      "asr_confidence": 0.73,
+      "label": "content"
+    },
+    {
+      "start": 90.42,
+      "end": 92.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "He's silent!",
+      "asr_confidence": 0.42,
+      "label": "content"
+    },
+    {
+      "start": 92.1,
+      "end": 97.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Now, we have located the Shring Grey in a secret lab!",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 97.82,
+      "end": 105.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And once we take this Shring Grey, we will have the capability to pull off the throne!",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 105.82,
+      "end": 106.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No!",
+      "asr_confidence": 0.07,
+      "label": "content"
+    },
+    {
+      "start": 106.18,
+      "end": 106.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No!",
+      "asr_confidence": 0.29,
+      "label": "content"
+    },
+    {
+      "start": 106.68,
+      "end": 108.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm the Century!",
+      "asr_confidence": 0.37,
+      "label": "content"
+    },
+    {
+      "start": 108.5,
+      "end": 111.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We are going to steal!",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 111.32,
+      "end": 113.38,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 113.38,
+      "end": 115.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Wait, wait!",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 115.38,
+      "end": 117.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I haven't told you what it is yet!",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 117.52,
+      "end": 121.51,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 121.51,
+      "end": 124.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hey, Dave, listen up, please!",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 124.46,
+      "end": 126.02,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 126.02,
+      "end": 131.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Next, we are going to steal!",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 131.9,
+      "end": 133.06,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 133.06,
+      "end": 134.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Close for a thing?",
+      "asr_confidence": 0.52,
+      "label": "content"
+    },
+    {
+      "start": 134.44,
+      "end": 144.0,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 144.0,
+      "end": 149.0,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We've been working on this for a while, it's an anti-gravity scene!",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 149.0,
+      "end": 154.34,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 154.34,
+      "end": 156.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm into close that.",
+      "asr_confidence": 0.58,
+      "label": "content"
+    },
+    {
+      "start": 156.26,
+      "end": 158.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It'll be all right, I'm sure.",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 158.14,
+      "end": 159.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Do the effects wear off?",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 159.94,
+      "end": 163.22,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So far, no, no, they don't.",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 163.22,
+      "end": 164.82,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 164.82,
+      "end": 167.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And here, of course, is the new weapon you ordered.",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 167.7,
+      "end": 171.44,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 171.44,
+      "end": 176.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No, I said, dart gun, not OK.",
+      "asr_confidence": 0.61,
+      "label": "content"
+    },
+    {
+      "start": 176.08,
+      "end": 177.24,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 177.24,
+      "end": 182.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, yes, because I was wondering, under what circumstances would we use this?",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 182.82,
+      "end": 186.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "But anyway, what I really wanted to show you was this.",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 186.64,
+      "end": 192.08,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 192.08,
+      "end": 194.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Now those are cookie robots!",
+      "asr_confidence": 0.76,
+      "label": "content"
+    },
+    {
+      "start": 194.62,
+      "end": 199.72,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 199.72,
+      "end": 201.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "What are you doing here?",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 201.54,
+      "end": 203.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I don't do to stay in the kitchen!",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 203.7,
+      "end": 204.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We got bored.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 204.94,
+      "end": 206.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "What is this place?",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 206.7,
+      "end": 208.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Can I drink this?",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 208.06,
+      "end": 209.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Do you want to explode?",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 209.36,
+      "end": 212.46,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 212.46,
+      "end": 213.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grown!",
+      "asr_confidence": 0.3,
+      "label": "content"
+    },
+    {
+      "start": 213.54,
+      "end": 215.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Get back in the kitchen!",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 215.52,
+      "end": 217.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Will you play with us?",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 217.16,
+      "end": 218.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No.",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 218.14,
+      "end": 218.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Why?",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 218.5,
+      "end": 220.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Because I'm busy.",
+      "asr_confidence": 0.65,
+      "label": "content"
+    },
+    {
+      "start": 220.5,
+      "end": 221.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Doing what?",
+      "asr_confidence": 0.76,
+      "label": "content"
+    },
+    {
+      "start": 221.52,
+      "end": 223.18,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 223.18,
+      "end": 225.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "OK, OK, you got me.",
+      "asr_confidence": 0.76,
+      "label": "content"
+    },
+    {
+      "start": 225.16,
+      "end": 228.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The dentist thing is more of a hobby.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 228.44,
+      "end": 231.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "In real life, I am a spy.",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 231.44,
+      "end": 235.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And it is top secret and you may not tell anybody because if you do...",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 235.68,
+      "end": 236.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Is this true?",
+      "asr_confidence": 0.5,
+      "label": "content"
+    },
+    {
+      "start": 236.12,
+      "end": 240.16,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 240.16,
+      "end": 240.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hey!",
+      "asr_confidence": 0.68,
+      "label": "content"
+    },
+    {
+      "start": 240.76,
+      "end": 242.06,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 242.06,
+      "end": 243.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "My unicorn!",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 243.1,
+      "end": 244.24,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 244.24,
+      "end": 246.0,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You have to fix it.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 246.0,
+      "end": 246.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Fix it?",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 246.58,
+      "end": 247.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Look!",
+      "asr_confidence": 0.1,
+      "label": "content"
+    },
+    {
+      "start": 247.74,
+      "end": 250.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It has been disintegrated by divination.",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 250.18,
+      "end": 251.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It cannot be fixed.",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 251.18,
+      "end": 256.52,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 256.52,
+      "end": 258.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "That's freaking me out.",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 258.04,
+      "end": 258.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "What is she doing?",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 258.98,
+      "end": 261.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "She's gonna hold her breath until she gets a new one.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 261.34,
+      "end": 261.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.38,
+      "label": "content"
+    },
+    {
+      "start": 261.86,
+      "end": 263.14,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 263.14,
+      "end": 264.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It is just a toy.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 264.82,
+      "end": 265.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Now stop it!",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 265.7,
+      "end": 268.98,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 268.98,
+      "end": 271.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "OK, OK, I'll fix it!",
+      "asr_confidence": 0.75,
+      "label": "content"
+    },
+    {
+      "start": 271.1,
+      "end": 272.88,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 272.88,
+      "end": 274.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "He's so filthy and gonna die!",
+      "asr_confidence": 0.63,
+      "label": "content"
+    },
+    {
+      "start": 274.8,
+      "end": 277.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You gotta let us play for him.",
+      "asr_confidence": 0.71,
+      "label": "content"
+    },
+    {
+      "start": 277.1,
+      "end": 278.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No, no, no, no, no, no, no, no.",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 278.88,
+      "end": 279.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Come on!",
+      "asr_confidence": 0.71,
+      "label": "content"
+    },
+    {
+      "start": 279.9,
+      "end": 283.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "How much for the fluffy unicorn?",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 283.3,
+      "end": 285.0,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 285.0,
+      "end": 287.4,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Well, it is not for sale,",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 287.4,
+      "end": 292.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "but all you gotta do to win it is not down that little spaceship there.",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 292.74,
+      "end": 293.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Huh?",
+      "asr_confidence": 0.28,
+      "label": "content"
+    },
+    {
+      "start": 293.32,
+      "end": 293.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's easy.",
+      "asr_confidence": 1.0,
+      "label": "content"
+    },
+    {
+      "start": 293.96,
+      "end": 295.78,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 295.78,
+      "end": 296.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.37,
+      "label": "content"
+    },
+    {
+      "start": 296.34,
+      "end": 297.94,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 297.94,
+      "end": 298.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.32,
+      "label": "content"
+    },
+    {
+      "start": 298.54,
+      "end": 304.12,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 304.12,
+      "end": 304.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.54,
+      "label": "content"
+    },
+    {
+      "start": 304.72,
+      "end": 314.86,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 314.86,
+      "end": 315.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Again!",
+      "asr_confidence": 0.09,
+      "label": "content"
+    },
+    {
+      "start": 315.46,
+      "end": 317.66,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 317.66,
+      "end": 318.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Wait!",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 318.5,
+      "end": 320.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, come on, one more time.",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 320.34,
+      "end": 321.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Just one more.",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 321.68,
+      "end": 323.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I accidentally close my eyes.",
+      "asr_confidence": 0.71,
+      "label": "content"
+    },
+    {
+      "start": 323.6,
+      "end": 326.52,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 326.52,
+      "end": 327.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.24,
+      "label": "content"
+    },
+    {
+      "start": 327.12,
+      "end": 329.1,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 329.1,
+      "end": 329.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.54,
+      "label": "content"
+    },
+    {
+      "start": 329.7,
+      "end": 331.12,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 331.12,
+      "end": 332.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.66,
+      "label": "content"
+    },
+    {
+      "start": 332.12,
+      "end": 332.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.7,
+      "label": "content"
+    },
+    {
+      "start": 332.72,
+      "end": 333.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.74,
+      "label": "content"
+    },
+    {
+      "start": 333.02,
+      "end": 339.12,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 339.12,
+      "end": 340.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yeah, I got it!",
+      "asr_confidence": 0.53,
+      "label": "content"
+    },
+    {
+      "start": 340.88,
+      "end": 341.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Cool!",
+      "asr_confidence": 0.73,
+      "label": "content"
+    },
+    {
+      "start": 341.46,
+      "end": 341.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I got it!",
+      "asr_confidence": 0.63,
+      "label": "content"
+    },
+    {
+      "start": 341.82,
+      "end": 342.92,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 342.92,
+      "end": 347.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Whoa, whoa, whoa, whoa.",
+      "asr_confidence": 0.73,
+      "label": "content"
+    },
+    {
+      "start": 347.58,
+      "end": 349.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "What was that?",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 349.38,
+      "end": 350.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "She hit that.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 350.64,
+      "end": 352.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I saw that with my own eyes.",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 352.7,
+      "end": 355.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hey buddy, let me explain something to you.",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 355.34,
+      "end": 357.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You see that little 10-spatio?",
+      "asr_confidence": 0.74,
+      "label": "content"
+    },
+    {
+      "start": 357.7,
+      "end": 360.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You see how it's not knocked over?",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 360.28,
+      "end": 363.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Did you know what that means, Professor?",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 363.16,
+      "end": 366.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It means you don't get the unicorn!",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 366.68,
+      "end": 367.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh!",
+      "asr_confidence": 0.28,
+      "label": "content"
+    },
+    {
+      "start": 367.94,
+      "end": 370.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, somebody's got a frowny face.",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 370.74,
+      "end": 372.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ooh, better luck next time.",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 372.64,
+      "end": 375.14,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 375.14,
+      "end": 377.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Okay, my turn.",
+      "asr_confidence": 0.68,
+      "label": "content"
+    },
+    {
+      "start": 377.72,
+      "end": 389.64,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 389.64,
+      "end": 390.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.22,
+      "label": "content"
+    },
+    {
+      "start": 390.68,
+      "end": 399.12,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 399.12,
+      "end": 400.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Knocked over!",
+      "asr_confidence": 0.7,
+      "label": "content"
+    },
+    {
+      "start": 400.96,
+      "end": 406.02,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 406.02,
+      "end": 408.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You don't let me!",
+      "asr_confidence": 0.52,
+      "label": "content"
+    },
+    {
+      "start": 408.1,
+      "end": 409.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm not here!",
+      "asr_confidence": 0.62,
+      "label": "content"
+    },
+    {
+      "start": 409.52,
+      "end": 410.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm back.",
+      "asr_confidence": 0.52,
+      "label": "content"
+    },
+    {
+      "start": 410.12,
+      "end": 424.58,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 424.58,
+      "end": 425.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.22,
+      "label": "content"
+    },
+    {
+      "start": 425.88,
+      "end": 427.6,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 427.6,
+      "end": 429.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.67,
+      "label": "content"
+    },
+    {
+      "start": 429.72,
+      "end": 430.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 430.2,
+      "end": 470.26,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 470.26,
+      "end": 471.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.36,
+      "label": "content"
+    },
+    {
+      "start": 471.2,
+      "end": 472.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "What's up, someone?",
+      "asr_confidence": 0.28,
+      "label": "content"
+    },
+    {
+      "start": 472.24,
+      "end": 473.4,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You blew up the whole thing!",
+      "asr_confidence": 0.8,
+      "label": "content"
+    },
+    {
+      "start": 473.4,
+      "end": 475.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Let's go to destroy another game!",
+      "asr_confidence": 0.73,
+      "label": "content"
+    },
+    {
+      "start": 475.9,
+      "end": 484.14,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 484.14,
+      "end": 484.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.35,
+      "label": "content"
+    },
+    {
+      "start": 484.98,
+      "end": 508.34,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 508.34,
+      "end": 509.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.23,
+      "label": "content"
+    },
+    {
+      "start": 509.74,
+      "end": 549.8,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 549.8,
+      "end": 551.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.32,
+      "label": "content"
+    },
+    {
+      "start": 551.2,
+      "end": 558.18,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 558.18,
+      "end": 558.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Huh?",
+      "asr_confidence": 0.02,
+      "label": "content"
+    },
+    {
+      "start": 558.36,
+      "end": 559.72,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 559.72,
+      "end": 560.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I've got it!",
+      "asr_confidence": 0.76,
+      "label": "content"
+    },
+    {
+      "start": 560.82,
+      "end": 562.24,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 562.24,
+      "end": 565.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I've got the moon!",
+      "asr_confidence": 0.72,
+      "label": "content"
+    },
+    {
+      "start": 565.52,
+      "end": 567.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I've got the moon!",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 567.88,
+      "end": 582.48,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 582.48,
+      "end": 584.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I could make it.",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 584.64,
+      "end": 592.06,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 592.06,
+      "end": 593.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Wait a minute!",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 593.54,
+      "end": 599.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Come on, come on!",
+      "asr_confidence": 0.75,
+      "label": "content"
+    },
+    {
+      "start": 599.5,
+      "end": 601.94,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 601.94,
+      "end": 604.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, when's the fairy princess coming?",
+      "asr_confidence": 0.69,
+      "label": "content"
+    },
+    {
+      "start": 604.62,
+      "end": 605.66,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 605.66,
+      "end": 607.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Any minute now!",
+      "asr_confidence": 0.75,
+      "label": "content"
+    },
+    {
+      "start": 607.5,
+      "end": 607.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yay!",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 607.86,
+      "end": 609.52,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 609.52,
+      "end": 610.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Let's call them.",
+      "asr_confidence": 0.74,
+      "label": "content"
+    },
+    {
+      "start": 610.72,
+      "end": 626.9,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 626.9,
+      "end": 628.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Okay, okay!",
+      "asr_confidence": 0.53,
+      "label": "content"
+    },
+    {
+      "start": 628.1,
+      "end": 630.78,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "All right, that's enough of the magic show.",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 630.78,
+      "end": 631.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.15,
+      "label": "content"
+    },
+    {
+      "start": 631.26,
+      "end": 633.74,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 633.74,
+      "end": 636.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Wait, did you hear that?",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 636.16,
+      "end": 640.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It sounded like the twinkling sounds of magical fairy dust.",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 640.04,
+      "end": 641.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's very red now!",
+      "asr_confidence": 0.6,
+      "label": "content"
+    },
+    {
+      "start": 641.42,
+      "end": 641.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "She's coming!",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 641.82,
+      "end": 643.14,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 643.14,
+      "end": 643.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Look!",
+      "asr_confidence": 0.58,
+      "label": "content"
+    },
+    {
+      "start": 643.68,
+      "end": 651.98,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 651.98,
+      "end": 652.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Grrrr.",
+      "asr_confidence": 0.11,
+      "label": "content"
+    },
+    {
+      "start": 652.82,
+      "end": 671.92,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 671.92,
+      "end": 675.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It is I, Groves Zincarpell,",
+      "asr_confidence": 0.56,
+      "label": "content"
+    },
+    {
+      "start": 675.3,
+      "end": 680.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "the most magical fairy princess of all.",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 680.68,
+      "end": 687.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And I am here to wish princess Agnes a very happy birthday.",
+      "asr_confidence": 0.81,
+      "label": "content"
+    },
+    {
+      "start": 687.26,
+      "end": 688.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "How come you're so bad?",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 688.52,
+      "end": 689.54,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 689.54,
+      "end": 693.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Because my house is made of candy.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 693.86,
+      "end": 698.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "And sometimes I eat instead of facing my problems.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 698.02,
+      "end": 699.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "How come you have...",
+      "asr_confidence": 0.78,
+      "label": "content"
+    },
+    {
+      "start": 699.8,
+      "end": 702.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Okay, time for cake.",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 702.52,
+      "end": 702.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yay!",
+      "asr_confidence": 0.28,
+      "label": "content"
+    },
+    {
+      "start": 702.98,
+      "end": 706.9,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 706.9,
+      "end": 708.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Thank you, Gros Zincarpell.",
+      "asr_confidence": 0.36,
+      "label": "content"
+    },
+    {
+      "start": 708.7,
+      "end": 710.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You're the best fairy princess ever.",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 710.64,
+      "end": 712.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You are welcome, Lita Goro.",
+      "asr_confidence": 0.76,
+      "label": "content"
+    },
+    {
+      "start": 712.9,
+      "end": 715.4,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 715.4,
+      "end": 717.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I know it's really you, Groove.",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 717.62,
+      "end": 719.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm just pretending for the other kids.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 719.32,
+      "end": 724.18,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 724.18,
+      "end": 727.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hey there, Groove! Mr. Life of the Party!",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 727.74,
+      "end": 729.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hello, Jillian.",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 729.54,
+      "end": 732.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "So, I'm going to go out on a limb here.",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 732.52,
+      "end": 738.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "But my friend Natalie is recently single and...",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 738.46,
+      "end": 741.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No, no, no, get off the limb right now.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 741.14,
+      "end": 741.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No limb.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 741.68,
+      "end": 744.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, come on! She's a riot!",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 744.12,
+      "end": 747.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "She seems karaoke. She has a lot of free time.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 747.2,
+      "end": 749.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Looks aren't that important to her.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 749.8,
+      "end": 751.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No, Jillian.",
+      "asr_confidence": 0.54,
+      "label": "content"
+    },
+    {
+      "start": 751.04,
+      "end": 754.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "That is not happening. Seriously, it's fine.",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 754.16,
+      "end": 755.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Okay, fine. Forget that, Natalie.",
+      "asr_confidence": 0.68,
+      "label": "content"
+    },
+    {
+      "start": 755.74,
+      "end": 756.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "How about my cousin, Lita?",
+      "asr_confidence": 0.76,
+      "label": "content"
+    },
+    {
+      "start": 756.9,
+      "end": 757.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No.",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 757.64,
+      "end": 760.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, oh, oh! I know someone whose husband just died.",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 760.36,
+      "end": 763.12,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 763.12,
+      "end": 765.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm sorry, I did not see you there.",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 765.46,
+      "end": 767.1,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 767.1,
+      "end": 768.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Or there.",
+      "asr_confidence": 0.7,
+      "label": "content"
+    },
+    {
+      "start": 768.06,
+      "end": 784.76,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 784.76,
+      "end": 787.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We're still ninjas.",
+      "asr_confidence": 0.74,
+      "label": "content"
+    },
+    {
+      "start": 787.12,
+      "end": 788.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We make no sound.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 788.02,
+      "end": 791.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Right, gotcha.",
+      "asr_confidence": 0.35,
+      "label": "content"
+    },
+    {
+      "start": 791.12,
+      "end": 794.82,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 794.82,
+      "end": 798.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "All right, Amato. You're going down.",
+      "asr_confidence": 0.74,
+      "label": "content"
+    },
+    {
+      "start": 798.16,
+      "end": 799.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Wait, wait, what?",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 799.24,
+      "end": 801.1,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 801.1,
+      "end": 803.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "What are you doing?",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 803.04,
+      "end": 804.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm checking for laser beam alarm triggers.",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 804.9,
+      "end": 806.78,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 806.78,
+      "end": 808.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's a raster!",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 808.14,
+      "end": 810.84,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Do you never know what kind of booby traps this guy could have said?",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 810.84,
+      "end": 813.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Come on, there are no booby traps.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 813.52,
+      "end": 815.1,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 815.1,
+      "end": 816.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ha, booby!",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 816.08,
+      "end": 827.5,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 827.5,
+      "end": 828.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, there's a chicken.",
+      "asr_confidence": 0.75,
+      "label": "content"
+    },
+    {
+      "start": 828.64,
+      "end": 829.66,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 829.66,
+      "end": 832.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Are you lost, little guy?",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 832.12,
+      "end": 833.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You must be lost.",
+      "asr_confidence": 1.0,
+      "label": "content"
+    },
+    {
+      "start": 833.28,
+      "end": 835.0,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 835.0,
+      "end": 835.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Zambar does.",
+      "asr_confidence": 0.26,
+      "label": "content"
+    },
+    {
+      "start": 835.72,
+      "end": 837.14,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 837.14,
+      "end": 840.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, no, no, no, no.",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 840.04,
+      "end": 842.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Get the dumb up, get the dumb up, get the dumb up.",
+      "asr_confidence": 0.75,
+      "label": "content"
+    },
+    {
+      "start": 842.14,
+      "end": 850.78,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 850.78,
+      "end": 852.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.01,
+      "label": "content"
+    },
+    {
+      "start": 852.18,
+      "end": 875.24,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 875.24,
+      "end": 876.22,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Get out!",
+      "asr_confidence": 0.23,
+      "label": "content"
+    },
+    {
+      "start": 876.22,
+      "end": 884.86,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 884.86,
+      "end": 885.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Get out!",
+      "asr_confidence": 0.63,
+      "label": "content"
+    },
+    {
+      "start": 885.88,
+      "end": 887.2,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 887.2,
+      "end": 888.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Get out!",
+      "asr_confidence": 0.67,
+      "label": "content"
+    },
+    {
+      "start": 888.14,
+      "end": 889.14,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 889.14,
+      "end": 890.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Get out!",
+      "asr_confidence": 0.67,
+      "label": "content"
+    },
+    {
+      "start": 890.44,
+      "end": 890.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Get out!",
+      "asr_confidence": 0.74,
+      "label": "content"
+    },
+    {
+      "start": 890.74,
+      "end": 894.76,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 894.76,
+      "end": 896.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to the hospital!",
+      "asr_confidence": 0.22,
+      "label": "content"
+    },
+    {
+      "start": 896.82,
+      "end": 897.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to the hospital!",
+      "asr_confidence": 0.8,
+      "label": "content"
+    },
+    {
+      "start": 897.76,
+      "end": 918.78,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to the hospital!",
+      "asr_confidence": 0.23,
+      "label": "content"
+    },
+    {
+      "start": 918.78,
+      "end": 930.82,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 930.82,
+      "end": 931.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Whoa!",
+      "asr_confidence": 0.02,
+      "label": "content"
+    },
+    {
+      "start": 931.86,
+      "end": 933.74,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 933.74,
+      "end": 937.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Each little moment we've got.",
+      "asr_confidence": 0.76,
+      "label": "content"
+    },
+    {
+      "start": 937.24,
+      "end": 938.26,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 938.26,
+      "end": 940.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No one must see.",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 940.96,
+      "end": 943.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No one must know.",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 943.2,
+      "end": 943.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.03,
+      "label": "content"
+    },
+    {
+      "start": 943.38,
+      "end": 944.64,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 944.64,
+      "end": 945.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.17,
+      "label": "content"
+    },
+    {
+      "start": 945.68,
+      "end": 946.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Who got you?",
+      "asr_confidence": 0.24,
+      "label": "content"
+    },
+    {
+      "start": 946.94,
+      "end": 947.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.51,
+      "label": "content"
+    },
+    {
+      "start": 947.08,
+      "end": 948.18,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 948.18,
+      "end": 949.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.45,
+      "label": "content"
+    },
+    {
+      "start": 949.74,
+      "end": 950.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.6,
+      "label": "content"
+    },
+    {
+      "start": 950.04,
+      "end": 952.74,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 952.74,
+      "end": 953.4,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Got it!",
+      "asr_confidence": 0.44,
+      "label": "content"
+    },
+    {
+      "start": 953.4,
+      "end": 965.16,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 965.16,
+      "end": 966.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh!",
+      "asr_confidence": 0.07,
+      "label": "content"
+    },
+    {
+      "start": 966.2,
+      "end": 973.14,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 973.14,
+      "end": 974.84,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "What is wrong with that chicken?",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 974.84,
+      "end": 976.38,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 976.38,
+      "end": 978.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hey, that polo is loco.",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 978.92,
+      "end": 980.24,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 980.24,
+      "end": 982.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No?",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 982.04,
+      "end": 982.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Okay, let's go.",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 982.96,
+      "end": 988.76,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 988.76,
+      "end": 989.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.01,
+      "label": "content"
+    },
+    {
+      "start": 989.5,
+      "end": 992.12,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 992.12,
+      "end": 998.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, buddy, ah, come on.",
+      "asr_confidence": 0.22,
+      "label": "content"
+    },
+    {
+      "start": 998.18,
+      "end": 1001.4,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, no, no!",
+      "asr_confidence": 0.11,
+      "label": "content"
+    },
+    {
+      "start": 1001.4,
+      "end": 1012.82,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1012.82,
+      "end": 1015.78,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Who was that?",
+      "asr_confidence": 0.47,
+      "label": "content"
+    },
+    {
+      "start": 1015.78,
+      "end": 1026.06,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1026.06,
+      "end": 1029.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I don't see anything.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 1029.56,
+      "end": 1029.84,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No!",
+      "asr_confidence": 0.26,
+      "label": "content"
+    },
+    {
+      "start": 1029.84,
+      "end": 1040.86,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1040.86,
+      "end": 1043.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Get back!",
+      "asr_confidence": 0.54,
+      "label": "content"
+    },
+    {
+      "start": 1043.46,
+      "end": 1044.6,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1044.6,
+      "end": 1045.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I got it!",
+      "asr_confidence": 0.13,
+      "label": "content"
+    },
+    {
+      "start": 1045.12,
+      "end": 1046.22,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Get back!",
+      "asr_confidence": 0.41,
+      "label": "content"
+    },
+    {
+      "start": 1046.22,
+      "end": 1047.22,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1047.22,
+      "end": 1067.84,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1067.84,
+      "end": 1070.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Get back!",
+      "asr_confidence": 0.02,
+      "label": "content"
+    },
+    {
+      "start": 1070.64,
+      "end": 1070.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Get back!",
+      "asr_confidence": 0.64,
+      "label": "content"
+    },
+    {
+      "start": 1070.74,
+      "end": 1077.8,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1077.8,
+      "end": 1079.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.01,
+      "label": "content"
+    },
+    {
+      "start": 1079.2,
+      "end": 1081.86,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1081.86,
+      "end": 1083.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hurry, whoa!",
+      "asr_confidence": 0.44,
+      "label": "content"
+    },
+    {
+      "start": 1083.62,
+      "end": 1086.74,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1086.74,
+      "end": 1087.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "What's the matter?",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1087.7,
+      "end": 1089.4,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1089.4,
+      "end": 1090.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.09,
+      "label": "content"
+    },
+    {
+      "start": 1090.24,
+      "end": 1090.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Whoa!",
+      "asr_confidence": 0.04,
+      "label": "content"
+    },
+    {
+      "start": 1090.5,
+      "end": 1091.8,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1091.8,
+      "end": 1092.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.2,
+      "label": "content"
+    },
+    {
+      "start": 1092.48,
+      "end": 1094.74,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1094.74,
+      "end": 1095.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.36,
+      "label": "content"
+    },
+    {
+      "start": 1095.58,
+      "end": 1100.62,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1100.62,
+      "end": 1100.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.56,
+      "label": "content"
+    },
+    {
+      "start": 1100.9,
+      "end": 1102.32,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1102.32,
+      "end": 1103.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.64,
+      "label": "content"
+    },
+    {
+      "start": 1103.26,
+      "end": 1103.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.69,
+      "label": "content"
+    },
+    {
+      "start": 1103.54,
+      "end": 1104.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, right.",
+      "asr_confidence": 0.12,
+      "label": "content"
+    },
+    {
+      "start": 1104.02,
+      "end": 1106.88,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1106.88,
+      "end": 1107.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Huh?",
+      "asr_confidence": 0.03,
+      "label": "content"
+    },
+    {
+      "start": 1107.14,
+      "end": 1108.44,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1108.44,
+      "end": 1109.84,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Kitten!",
+      "asr_confidence": 0.02,
+      "label": "content"
+    },
+    {
+      "start": 1109.84,
+      "end": 1112.32,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1112.32,
+      "end": 1115.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Doctor Nivario, you're back!",
+      "asr_confidence": 0.75,
+      "label": "content"
+    },
+    {
+      "start": 1115.38,
+      "end": 1116.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "In the flesh!",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1116.26,
+      "end": 1117.58,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1117.58,
+      "end": 1120.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Behold the antidotes!",
+      "asr_confidence": 0.73,
+      "label": "content"
+    },
+    {
+      "start": 1120.34,
+      "end": 1123.24,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1123.24,
+      "end": 1123.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh!",
+      "asr_confidence": 0.23,
+      "label": "content"
+    },
+    {
+      "start": 1123.94,
+      "end": 1141.34,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1141.34,
+      "end": 1141.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.01,
+      "label": "content"
+    },
+    {
+      "start": 1141.98,
+      "end": 1145.14,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1145.14,
+      "end": 1146.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.04,
+      "label": "content"
+    },
+    {
+      "start": 1146.46,
+      "end": 1147.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.54,
+      "label": "content"
+    },
+    {
+      "start": 1147.56,
+      "end": 1149.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hello, Ro!",
+      "asr_confidence": 0.12,
+      "label": "content"
+    },
+    {
+      "start": 1149.1,
+      "end": 1152.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hey, those world doctors in the pharial!",
+      "asr_confidence": 0.47,
+      "label": "content"
+    },
+    {
+      "start": 1152.54,
+      "end": 1155.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I put an antidote in the jelly.",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 1155.5,
+      "end": 1159.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I mean, I'm happy to treat an evil army to destroy the world,",
+      "asr_confidence": 0.75,
+      "label": "content"
+    },
+    {
+      "start": 1159.56,
+      "end": 1161.84,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "but nobody misses with my family.",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 1161.84,
+      "end": 1164.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Thank you, Doctor.",
+      "asr_confidence": 0.45,
+      "label": "content"
+    },
+    {
+      "start": 1164.26,
+      "end": 1166.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Now, let's go get it!",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1166.34,
+      "end": 1167.66,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1167.66,
+      "end": 1168.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hi!",
+      "asr_confidence": 0.57,
+      "label": "content"
+    },
+    {
+      "start": 1168.88,
+      "end": 1171.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You brought the girls?",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 1171.04,
+      "end": 1172.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yes!",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1172.32,
+      "end": 1173.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, was that room?",
+      "asr_confidence": 0.72,
+      "label": "content"
+    },
+    {
+      "start": 1173.96,
+      "end": 1184.46,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1184.46,
+      "end": 1186.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "What's happening?",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 1186.04,
+      "end": 1187.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "To my minions?",
+      "asr_confidence": 0.81,
+      "label": "content"
+    },
+    {
+      "start": 1187.52,
+      "end": 1187.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Guru?",
+      "asr_confidence": 0.22,
+      "label": "content"
+    },
+    {
+      "start": 1187.92,
+      "end": 1190.08,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1190.08,
+      "end": 1193.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You guys take care of the rest of the minions!",
+      "asr_confidence": 0.78,
+      "label": "content"
+    },
+    {
+      "start": 1193.32,
+      "end": 1194.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to find losing.",
+      "asr_confidence": 0.68,
+      "label": "content"
+    },
+    {
+      "start": 1194.7,
+      "end": 1205.64,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1205.64,
+      "end": 1208.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's jelly, a powerful prey!",
+      "asr_confidence": 0.24,
+      "label": "content"
+    },
+    {
+      "start": 1208.16,
+      "end": 1209.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's a powerful prey!",
+      "asr_confidence": 0.34,
+      "label": "content"
+    },
+    {
+      "start": 1209.3,
+      "end": 1237.32,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1237.32,
+      "end": 1239.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's over, El Macho!",
+      "asr_confidence": 0.8,
+      "label": "content"
+    },
+    {
+      "start": 1239.54,
+      "end": 1240.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Now, where is losing?",
+      "asr_confidence": 0.72,
+      "label": "content"
+    },
+    {
+      "start": 1240.5,
+      "end": 1241.82,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1241.82,
+      "end": 1243.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Let me show you.",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 1243.3,
+      "end": 1255.7,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1255.7,
+      "end": 1257.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, hey, Guru!",
+      "asr_confidence": 0.22,
+      "label": "content"
+    },
+    {
+      "start": 1257.48,
+      "end": 1260.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Turns out you were right about the whole El Macho thing, huh?",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 1260.38,
+      "end": 1261.38,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1261.38,
+      "end": 1261.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yay!",
+      "asr_confidence": 0.4,
+      "label": "content"
+    },
+    {
+      "start": 1261.72,
+      "end": 1262.78,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1262.78,
+      "end": 1263.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "A Lawa!",
+      "asr_confidence": 0.19,
+      "label": "content"
+    },
+    {
+      "start": 1263.9,
+      "end": 1265.32,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1265.32,
+      "end": 1265.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh!",
+      "asr_confidence": 0.35,
+      "label": "content"
+    },
+    {
+      "start": 1265.92,
+      "end": 1267.22,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1267.22,
+      "end": 1269.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "This is our next back bit.",
+      "asr_confidence": 0.54,
+      "label": "content"
+    },
+    {
+      "start": 1269.96,
+      "end": 1272.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Well, you never got to go into honeymoon, so...",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 1272.46,
+      "end": 1273.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We made you dinner!",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1273.68,
+      "end": 1274.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's a Lawa!",
+      "asr_confidence": 0.71,
+      "label": "content"
+    },
+    {
+      "start": 1274.82,
+      "end": 1277.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We got pineapple and coconut and nucleic acid!",
+      "asr_confidence": 0.56,
+      "label": "content"
+    },
+    {
+      "start": 1277.68,
+      "end": 1277.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, I see.",
+      "asr_confidence": 0.18,
+      "label": "content"
+    },
+    {
+      "start": 1277.9,
+      "end": 1278.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, yay!",
+      "asr_confidence": 0.37,
+      "label": "content"
+    },
+    {
+      "start": 1278.76,
+      "end": 1280.08,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1280.08,
+      "end": 1281.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hey, ya bala-dika-dika!",
+      "asr_confidence": 0.32,
+      "label": "content"
+    },
+    {
+      "start": 1281.28,
+      "end": 1283.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hey, ya bala-dika-dika!",
+      "asr_confidence": 0.8,
+      "label": "content"
+    },
+    {
+      "start": 1283.9,
+      "end": 1284.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ow!",
+      "asr_confidence": 0.01,
+      "label": "content"
+    },
+    {
+      "start": 1284.74,
+      "end": 1286.04,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1286.04,
+      "end": 1286.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ow!",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 1286.68,
+      "end": 1293.66,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1293.66,
+      "end": 1295.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The soup of the jelly!",
+      "asr_confidence": 0.38,
+      "label": "content"
+    },
+    {
+      "start": 1295.86,
+      "end": 1297.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "My down and my shear.",
+      "asr_confidence": 0.38,
+      "label": "content"
+    },
+    {
+      "start": 1297.98,
+      "end": 1299.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "The gummy bears were my idea.",
+      "asr_confidence": 0.73,
+      "label": "content"
+    },
+    {
+      "start": 1299.42,
+      "end": 1303.98,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1303.98,
+      "end": 1307.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hmm, looks so good to even eat!",
+      "asr_confidence": 0.79,
+      "label": "content"
+    },
+    {
+      "start": 1307.72,
+      "end": 1308.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Am I right?",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 1308.32,
+      "end": 1309.58,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1309.58,
+      "end": 1311.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I made it for you.",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 1311.62,
+      "end": 1311.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh.",
+      "asr_confidence": 0.3,
+      "label": "content"
+    },
+    {
+      "start": 1311.88,
+      "end": 1314.46,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1314.46,
+      "end": 1317.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, God, soup!",
+      "asr_confidence": 0.31,
+      "label": "content"
+    },
+    {
+      "start": 1317.34,
+      "end": 1319.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I love the combination!",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 1319.9,
+      "end": 1321.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, gummy bears!",
+      "asr_confidence": 0.65,
+      "label": "content"
+    },
+    {
+      "start": 1321.92,
+      "end": 1322.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's meat!",
+      "asr_confidence": 0.65,
+      "label": "content"
+    },
+    {
+      "start": 1322.48,
+      "end": 1327.82,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1327.82,
+      "end": 1329.4,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hmm, I'm going to have to eat it.",
+      "asr_confidence": 0.45,
+      "label": "content"
+    },
+    {
+      "start": 1329.4,
+      "end": 1338.5,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1338.5,
+      "end": 1340.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.29,
+      "label": "content"
+    },
+    {
+      "start": 1340.08,
+      "end": 1340.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.61,
+      "label": "content"
+    },
+    {
+      "start": 1340.24,
+      "end": 1340.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 1340.88,
+      "end": 1341.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 1341.7,
+      "end": 1343.04,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1343.04,
+      "end": 1345.0,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1345.0,
+      "end": 1346.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1346.2,
+      "end": 1359.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1359.38,
+      "end": 1361.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.26,
+      "label": "content"
+    },
+    {
+      "start": 1361.86,
+      "end": 1364.06,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1364.06,
+      "end": 1364.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.58,
+      "label": "content"
+    },
+    {
+      "start": 1364.8,
+      "end": 1364.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 1364.94,
+      "end": 1365.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 1365.3,
+      "end": 1365.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 1365.74,
+      "end": 1367.4,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 1367.4,
+      "end": 1368.42,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1368.42,
+      "end": 1370.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 1370.16,
+      "end": 1371.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 1371.38,
+      "end": 1375.08,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1375.08,
+      "end": 1377.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1377.2,
+      "end": 1378.82,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1378.82,
+      "end": 1390.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1390.2,
+      "end": 1391.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.24,
+      "label": "content"
+    },
+    {
+      "start": 1391.72,
+      "end": 1393.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.66,
+      "label": "content"
+    },
+    {
+      "start": 1393.36,
+      "end": 1395.54,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1395.54,
+      "end": 1396.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 1396.58,
+      "end": 1401.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 1401.1,
+      "end": 1401.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1401.7,
+      "end": 1403.66,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1403.66,
+      "end": 1405.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 1405.8,
+      "end": 1411.4,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1411.4,
+      "end": 1419.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm going to have to eat it.",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1419.26,
+      "end": 1432.44,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1432.44,
+      "end": 1435.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRIS CHRIS CHRIS",
+      "asr_confidence": 0.0,
+      "label": "content"
+    },
+    {
+      "start": 1435.24,
+      "end": 1436.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRIS",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1436.42,
+      "end": 1436.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRIS",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1436.94,
+      "end": 1436.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRIS",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 1436.98,
+      "end": 1437.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRIS",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1437.7,
+      "end": 1438.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRIS",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1438.14,
+      "end": 1438.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRIS",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1438.18,
+      "end": 1440.64,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1440.64,
+      "end": 1442.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRIS",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1442.04,
+      "end": 1443.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRIS",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1443.86,
+      "end": 1446.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRIS",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1446.44,
+      "end": 1447.94,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1447.94,
+      "end": 1449.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRIS",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1449.36,
+      "end": 1476.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Can we get to study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study study",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 1476.68,
+      "end": 1494.58,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1494.58,
+      "end": 1495.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.25,
+      "label": "content"
+    },
+    {
+      "start": 1495.7,
+      "end": 1495.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.73,
+      "label": "content"
+    },
+    {
+      "start": 1495.92,
+      "end": 1496.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1496.48,
+      "end": 1497.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 1497.18,
+      "end": 1498.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 1498.48,
+      "end": 1499.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1499.12,
+      "end": 1500.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1500.14,
+      "end": 1500.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1500.16,
+      "end": 1500.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1500.3,
+      "end": 1500.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1500.92,
+      "end": 1501.46,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1501.46,
+      "end": 1501.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1501.94,
+      "end": 1503.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1503.92,
+      "end": 1503.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1503.94,
+      "end": 1504.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1504.02,
+      "end": 1504.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.96,
+      "label": "content"
+    },
+    {
+      "start": 1504.72,
+      "end": 1505.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 1505.04,
+      "end": 1506.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 1506.3,
+      "end": 1506.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "CHRISTIAN",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 1506.64,
+      "end": 1513.84,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1513.84,
+      "end": 1536.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Can we study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together to study together",
+      "asr_confidence": 0.95,
+      "label": "content"
+    },
+    {
+      "start": 1536.58,
+      "end": 1537.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.0,
+      "label": "content"
+    },
+    {
+      "start": 1537.54,
+      "end": 1538.7,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1538.7,
+      "end": 1539.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.47,
+      "label": "content"
+    },
+    {
+      "start": 1539.14,
+      "end": 1541.0,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1541.0,
+      "end": 1541.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.65,
+      "label": "content"
+    },
+    {
+      "start": 1541.38,
+      "end": 1541.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.73,
+      "label": "content"
+    },
+    {
+      "start": 1541.48,
+      "end": 1542.94,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1542.94,
+      "end": 1543.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 1543.96,
+      "end": 1548.28,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1548.28,
+      "end": 1548.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 1548.54,
+      "end": 1549.68,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1549.68,
+      "end": 1550.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 1550.26,
+      "end": 1555.18,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1555.18,
+      "end": 1556.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "He's a beast!",
+      "asr_confidence": 0.18,
+      "label": "content"
+    },
+    {
+      "start": 1556.62,
+      "end": 1557.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Don't move!",
+      "asr_confidence": 0.81,
+      "label": "content"
+    },
+    {
+      "start": 1557.06,
+      "end": 1558.52,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1558.52,
+      "end": 1559.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "He's a deer!",
+      "asr_confidence": 0.64,
+      "label": "content"
+    },
+    {
+      "start": 1559.68,
+      "end": 1567.48,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1567.48,
+      "end": 1568.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hey!",
+      "asr_confidence": 0.04,
+      "label": "content"
+    },
+    {
+      "start": 1568.28,
+      "end": 1570.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Get that back!",
+      "asr_confidence": 0.94,
+      "label": "content"
+    },
+    {
+      "start": 1570.28,
+      "end": 1572.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, you guys!",
+      "asr_confidence": 0.35,
+      "label": "content"
+    },
+    {
+      "start": 1572.08,
+      "end": 1574.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Please, Alice, read!",
+      "asr_confidence": 0.17,
+      "label": "content"
+    },
+    {
+      "start": 1574.68,
+      "end": 1575.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, no!",
+      "asr_confidence": 0.4,
+      "label": "content"
+    },
+    {
+      "start": 1575.06,
+      "end": 1576.08,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1576.08,
+      "end": 1576.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hey!",
+      "asr_confidence": 0.04,
+      "label": "content"
+    },
+    {
+      "start": 1576.66,
+      "end": 1582.48,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1582.48,
+      "end": 1584.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Man's like flour!",
+      "asr_confidence": 0.43,
+      "label": "content"
+    },
+    {
+      "start": 1584.5,
+      "end": 1586.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's an every little thing!",
+      "asr_confidence": 0.74,
+      "label": "content"
+    },
+    {
+      "start": 1586.24,
+      "end": 1587.36,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1587.36,
+      "end": 1589.04,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "My juice is a power!",
+      "asr_confidence": 0.36,
+      "label": "content"
+    },
+    {
+      "start": 1589.04,
+      "end": 1590.24,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1590.24,
+      "end": 1591.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Spare juice a weak, though!",
+      "asr_confidence": 0.46,
+      "label": "content"
+    },
+    {
+      "start": 1591.9,
+      "end": 1593.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Freedom!",
+      "asr_confidence": 0.01,
+      "label": "content"
+    },
+    {
+      "start": 1593.48,
+      "end": 1594.8,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1594.8,
+      "end": 1595.92,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Freedom!",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 1595.92,
+      "end": 1597.86,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1597.86,
+      "end": 1598.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Freedom!",
+      "asr_confidence": 0.93,
+      "label": "content"
+    },
+    {
+      "start": 1598.42,
+      "end": 1600.22,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1600.22,
+      "end": 1600.78,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Freedom!",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 1600.78,
+      "end": 1601.92,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1601.92,
+      "end": 1604.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We've been waiting a long time!",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 1604.48,
+      "end": 1605.44,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yeah!",
+      "asr_confidence": 0.24,
+      "label": "content"
+    },
+    {
+      "start": 1605.44,
+      "end": 1606.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yeah!",
+      "asr_confidence": 0.35,
+      "label": "content"
+    },
+    {
+      "start": 1606.64,
+      "end": 1606.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Good!",
+      "asr_confidence": 0.16,
+      "label": "content"
+    },
+    {
+      "start": 1606.8,
+      "end": 1609.48,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1609.48,
+      "end": 1609.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Good?",
+      "asr_confidence": 0.63,
+      "label": "content"
+    },
+    {
+      "start": 1609.82,
+      "end": 1611.48,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1611.48,
+      "end": 1612.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Uh-oh.",
+      "asr_confidence": 0.58,
+      "label": "content"
+    },
+    {
+      "start": 1612.24,
+      "end": 1622.64,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1622.64,
+      "end": 1623.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.06,
+      "label": "content"
+    },
+    {
+      "start": 1623.96,
+      "end": 1625.4,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1625.4,
+      "end": 1626.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.23,
+      "label": "content"
+    },
+    {
+      "start": 1626.76,
+      "end": 1626.9,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.5,
+      "label": "content"
+    },
+    {
+      "start": 1626.9,
+      "end": 1629.3,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Uh-oh.",
+      "asr_confidence": 0.15,
+      "label": "content"
+    },
+    {
+      "start": 1629.3,
+      "end": 1629.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.53,
+      "label": "content"
+    },
+    {
+      "start": 1629.82,
+      "end": 1630.86,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1630.86,
+      "end": 1631.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.73,
+      "label": "content"
+    },
+    {
+      "start": 1631.82,
+      "end": 1632.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.84,
+      "label": "content"
+    },
+    {
+      "start": 1632.82,
+      "end": 1633.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 1633.56,
+      "end": 1634.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 1634.02,
+      "end": 1634.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 1634.52,
+      "end": 1634.98,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 1634.98,
+      "end": 1635.26,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1635.26,
+      "end": 1636.7,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1636.7,
+      "end": 1637.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 1637.2,
+      "end": 1646.48,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1646.56,
+      "end": 1648.38,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.68,
+      "label": "content"
+    },
+    {
+      "start": 1648.38,
+      "end": 1649.1,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.65,
+      "label": "content"
+    },
+    {
+      "start": 1649.1,
+      "end": 1658.32,
+      "has_speech": false,
+      "audio_type": "silence",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1658.32,
+      "end": 1659.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 1659.2,
+      "end": 1660.28,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1660.28,
+      "end": 1660.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 1660.5,
+      "end": 1660.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 1660.52,
+      "end": 1661.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Please, clean the pot!",
+      "asr_confidence": 0.22,
+      "label": "content"
+    },
+    {
+      "start": 1661.6,
+      "end": 1663.4,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Robynare Groove!",
+      "asr_confidence": 0.28,
+      "label": "content"
+    },
+    {
+      "start": 1663.4,
+      "end": 1664.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Robynare Groove!",
+      "asr_confidence": 0.78,
+      "label": "content"
+    },
+    {
+      "start": 1664.6,
+      "end": 1665.66,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1665.66,
+      "end": 1666.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh!",
+      "asr_confidence": 0.47,
+      "label": "content"
+    },
+    {
+      "start": 1666.18,
+      "end": 1667.66,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1667.66,
+      "end": 1671.02,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1671.02,
+      "end": 1673.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Look, I've got the girls!",
+      "asr_confidence": 0.7,
+      "label": "content"
+    },
+    {
+      "start": 1673.42,
+      "end": 1674.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You two go take care of Brad!",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1674.76,
+      "end": 1675.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Wait, what are you doing?",
+      "asr_confidence": 0.87,
+      "label": "content"
+    },
+    {
+      "start": 1675.8,
+      "end": 1678.1,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1678.1,
+      "end": 1678.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yeah!",
+      "asr_confidence": 0.66,
+      "label": "content"
+    },
+    {
+      "start": 1678.32,
+      "end": 1679.46,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1679.46,
+      "end": 1679.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.01,
+      "label": "content"
+    },
+    {
+      "start": 1679.54,
+      "end": 1680.98,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1680.98,
+      "end": 1681.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Yeah!",
+      "asr_confidence": 0.85,
+      "label": "content"
+    },
+    {
+      "start": 1681.28,
+      "end": 1682.32,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1682.32,
+      "end": 1684.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Folks, you guys, it's Lucy!",
+      "asr_confidence": 0.78,
+      "label": "content"
+    },
+    {
+      "start": 1684.32,
+      "end": 1685.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Lucy over here! Help!",
+      "asr_confidence": 0.86,
+      "label": "content"
+    },
+    {
+      "start": 1685.82,
+      "end": 1686.2,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Help!",
+      "asr_confidence": 0.5,
+      "label": "content"
+    },
+    {
+      "start": 1686.2,
+      "end": 1688.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Mom is coming, girls!",
+      "asr_confidence": 0.53,
+      "label": "content"
+    },
+    {
+      "start": 1688.32,
+      "end": 1690.58,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You're right here, Lucy!",
+      "asr_confidence": 0.55,
+      "label": "content"
+    },
+    {
+      "start": 1690.58,
+      "end": 1692.54,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Look at that laser go!",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1692.54,
+      "end": 1694.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I love it when a plan comes together!",
+      "asr_confidence": 0.99,
+      "label": "content"
+    },
+    {
+      "start": 1694.76,
+      "end": 1695.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.12,
+      "label": "content"
+    },
+    {
+      "start": 1695.74,
+      "end": 1696.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It's cruel!",
+      "asr_confidence": 0.57,
+      "label": "content"
+    },
+    {
+      "start": 1696.32,
+      "end": 1698.52,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1698.52,
+      "end": 1699.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah-ha!",
+      "asr_confidence": 0.34,
+      "label": "content"
+    },
+    {
+      "start": 1699.64,
+      "end": 1701.12,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Get ready, Brad!",
+      "asr_confidence": 0.44,
+      "label": "content"
+    },
+    {
+      "start": 1701.12,
+      "end": 1703.56,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "You're about to be blasted back to the AADs!",
+      "asr_confidence": 0.88,
+      "label": "content"
+    },
+    {
+      "start": 1703.56,
+      "end": 1710.34,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1710.34,
+      "end": 1710.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh!",
+      "asr_confidence": 0.3,
+      "label": "content"
+    },
+    {
+      "start": 1710.94,
+      "end": 1711.52,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh!",
+      "asr_confidence": 0.21,
+      "label": "content"
+    },
+    {
+      "start": 1711.52,
+      "end": 1713.48,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1713.48,
+      "end": 1714.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh!",
+      "asr_confidence": 0.11,
+      "label": "content"
+    },
+    {
+      "start": 1714.08,
+      "end": 1716.68,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1716.68,
+      "end": 1718.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We got him!",
+      "asr_confidence": 0.56,
+      "label": "content"
+    },
+    {
+      "start": 1718.28,
+      "end": 1726.34,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1726.34,
+      "end": 1728.64,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh no! Don't worry!",
+      "asr_confidence": 0.8,
+      "label": "content"
+    },
+    {
+      "start": 1728.64,
+      "end": 1730.62,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "That's more where that came from!",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1730.62,
+      "end": 1732.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It'll take more than that to stop me!",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 1732.94,
+      "end": 1733.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "It'll!",
+      "asr_confidence": 0.43,
+      "label": "content"
+    },
+    {
+      "start": 1733.36,
+      "end": 1734.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Brad pack!",
+      "asr_confidence": 0.41,
+      "label": "content"
+    },
+    {
+      "start": 1734.18,
+      "end": 1735.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Go get that barf bag!",
+      "asr_confidence": 0.82,
+      "label": "content"
+    },
+    {
+      "start": 1735.42,
+      "end": 1743.78,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1743.78,
+      "end": 1744.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh!",
+      "asr_confidence": 0.3,
+      "label": "content"
+    },
+    {
+      "start": 1744.6,
+      "end": 1744.8,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh!",
+      "asr_confidence": 0.0,
+      "label": "content"
+    },
+    {
+      "start": 1744.8,
+      "end": 1745.16,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Incoming!",
+      "asr_confidence": 0.53,
+      "label": "content"
+    },
+    {
+      "start": 1745.16,
+      "end": 1747.52,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1747.52,
+      "end": 1747.76,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh!",
+      "asr_confidence": 0.13,
+      "label": "content"
+    },
+    {
+      "start": 1747.76,
+      "end": 1750.1,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1750.1,
+      "end": 1750.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh!",
+      "asr_confidence": 0.22,
+      "label": "content"
+    },
+    {
+      "start": 1750.24,
+      "end": 1755.06,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1755.06,
+      "end": 1758.08,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1758.08,
+      "end": 1758.32,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.0,
+      "label": "content"
+    },
+    {
+      "start": 1758.32,
+      "end": 1761.26,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1761.26,
+      "end": 1762.82,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Bonus!",
+      "asr_confidence": 0.5,
+      "label": "content"
+    },
+    {
+      "start": 1762.82,
+      "end": 1764.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Did you see that climb? All gone!",
+      "asr_confidence": 0.92,
+      "label": "content"
+    },
+    {
+      "start": 1764.94,
+      "end": 1765.5,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh!",
+      "asr_confidence": 0.16,
+      "label": "content"
+    },
+    {
+      "start": 1765.5,
+      "end": 1766.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "But by Wonder Twins!",
+      "asr_confidence": 0.54,
+      "label": "content"
+    },
+    {
+      "start": 1766.86,
+      "end": 1767.7,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.04,
+      "label": "content"
+    },
+    {
+      "start": 1767.7,
+      "end": 1770.12,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1770.12,
+      "end": 1771.08,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.08,
+      "label": "content"
+    },
+    {
+      "start": 1771.08,
+      "end": 1773.68,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1773.68,
+      "end": 1774.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.23,
+      "label": "content"
+    },
+    {
+      "start": 1774.18,
+      "end": 1775.3,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1775.3,
+      "end": 1775.6,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.4,
+      "label": "content"
+    },
+    {
+      "start": 1775.6,
+      "end": 1777.0,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1777.0,
+      "end": 1778.06,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.53,
+      "label": "content"
+    },
+    {
+      "start": 1778.06,
+      "end": 1778.66,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.63,
+      "label": "content"
+    },
+    {
+      "start": 1778.66,
+      "end": 1779.92,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1779.92,
+      "end": 1781.68,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.7,
+      "label": "content"
+    },
+    {
+      "start": 1781.68,
+      "end": 1782.86,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.75,
+      "label": "content"
+    },
+    {
+      "start": 1782.86,
+      "end": 1783.72,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.78,
+      "label": "content"
+    },
+    {
+      "start": 1783.72,
+      "end": 1783.96,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.81,
+      "label": "content"
+    },
+    {
+      "start": 1783.96,
+      "end": 1785.64,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1785.64,
+      "end": 1787.48,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Oh, come on!",
+      "asr_confidence": 0.32,
+      "label": "content"
+    },
+    {
+      "start": 1787.48,
+      "end": 1789.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah, this guy is going to be a bad guy!",
+      "asr_confidence": 0.22,
+      "label": "content"
+    },
+    {
+      "start": 1789.02,
+      "end": 1794.82,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1794.82,
+      "end": 1795.78,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.72,
+      "label": "content"
+    },
+    {
+      "start": 1795.78,
+      "end": 1796.34,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.67,
+      "label": "content"
+    },
+    {
+      "start": 1796.34,
+      "end": 1798.14,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Ah!",
+      "asr_confidence": 0.0,
+      "label": "content"
+    },
+    {
+      "start": 1798.14,
+      "end": 1798.84,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hang on!",
+      "asr_confidence": 0.83,
+      "label": "content"
+    },
+    {
+      "start": 1798.84,
+      "end": 1806.58,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1806.58,
+      "end": 1808.24,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Hang on, girls!",
+      "asr_confidence": 0.89,
+      "label": "content"
+    },
+    {
+      "start": 1808.24,
+      "end": 1809.36,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I got you!",
+      "asr_confidence": 0.98,
+      "label": "content"
+    },
+    {
+      "start": 1809.36,
+      "end": 1810.94,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I can't!",
+      "asr_confidence": 0.9,
+      "label": "content"
+    },
+    {
+      "start": 1810.94,
+      "end": 1811.74,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "I'm stuck in!",
+      "asr_confidence": 0.59,
+      "label": "content"
+    },
+    {
+      "start": 1811.74,
+      "end": 1813.3,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1813.3,
+      "end": 1814.02,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "No!",
+      "asr_confidence": 0.72,
+      "label": "outro"
+    },
+    {
+      "start": 1814.02,
+      "end": 1816.46,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1816.46,
+      "end": 1817.18,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Gotcha!",
+      "asr_confidence": 0.63,
+      "label": "outro"
+    },
+    {
+      "start": 1817.18,
+      "end": 1819.96,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    },
+    {
+      "start": 1819.96,
+      "end": 1821.88,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Thank you, Lucy!",
+      "asr_confidence": 0.91,
+      "label": "content"
+    },
+    {
+      "start": 1821.88,
+      "end": 1822.28,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "Let's go!",
+      "asr_confidence": 0.97,
+      "label": "content"
+    },
+    {
+      "start": 1822.28,
+      "end": 1823.42,
+      "has_speech": true,
+      "audio_type": "speech",
+      "transcript": "We're gonna take care!",
+      "asr_confidence": 0.53,
+      "label": "content"
+    },
+    {
+      "start": 1823.42,
+      "end": 1826.66,
+      "has_speech": false,
+      "audio_type": "music",
+      "transcript": null,
+      "asr_confidence": 1.0,
+      "label": "transition"
+    }
+  ]
+}
