@@ -3,7 +3,7 @@ import json
 import subprocess
 import wave
 from pathlib import Path
-from faster_whisper import WhisperModel
+import whisper
 import numpy as np
 import math
 import ollama
@@ -27,15 +27,6 @@ MODEL_NAME = DEFAULT_MODEL_NAME  # overridden by --model CLI flag in main()
 
 # LLM 上下文长度
 LLM_NUM_CTX = 32768
-
-# Whisper 模型
-# Windows 推荐 faster-whisper:
-# - CPU 稳定版: device="cpu", compute_type="int8"
-# - 有 NVIDIA GPU 可以试: device="cuda", compute_type="float16"
-# - 不确定就用 auto
-WHISPER_MODEL_SIZE = "base"
-WHISPER_DEVICE = "auto"
-WHISPER_COMPUTE_TYPE = "auto"
 
 
 # ==========================================
@@ -129,80 +120,26 @@ def classify_non_speech_fast(audio_array, framerate, start_time, end_time, silen
     return "silence" if rms_energy < silence_threshold else "music"
 
 
-def transcribe_with_faster_whisper(audio_path):
-    """
-    Windows 版 Whisper：
-    用 faster-whisper 替代 mlx-whisper。
-
-    输出格式会被转换成和原来 mlx_whisper.transcribe 类似的 dict：
-    {
-        "segments": [
-            {
-                "start": ...,
-                "end": ...,
-                "text": ...,
-                "words": [
-                    {
-                        "start": ...,
-                        "end": ...,
-                        "word": ...,
-                        "probability": ...
-                    }
-                ],
-                "avg_logprob": ...
-            }
-        ]
-    }
-    """
-
-    model = WhisperModel(
-        WHISPER_MODEL_SIZE,
-        device=WHISPER_DEVICE,
-        compute_type=WHISPER_COMPUTE_TYPE
-    )
-
-    whisper_segments, info = model.transcribe(
-        str(audio_path),
-        word_timestamps=True
-    )
-
-    result = {
-        "segments": []
-    }
-
-    for seg in whisper_segments:
-        words = []
-
-        if seg.words:
-            for word in seg.words:
-                words.append({
-                    "start": word.start,
-                    "end": word.end,
-                    "word": word.word,
-                    "probability": word.probability if word.probability is not None else 0.9
-                })
-
-        result["segments"].append({
-            "start": seg.start,
-            "end": seg.end,
-            "text": seg.text,
-            "words": words,
-            "avg_logprob": getattr(seg, "avg_logprob", -0.105)
-        })
-
-    return result
-
-
 def run_whisper_extraction(video_path, audio_path):
     duration_seconds = round(get_video_duration(video_path), 2)
 
     extract_audio_sync(video_path, audio_path)
 
-    print("🎙️ [2/6] 正在运行 Faster-Whisper 提取文本，并预加载音频...")
+    print("🎙️ [2/6] 正在运行 MLX-Whisper 提取文本，并预加载音频...")
 
     audio_array, framerate = load_audio_to_memory(audio_path)
 
-    result = transcribe_with_faster_whisper(audio_path)
+    # result = mlx_whisper.transcribe(
+    #     str(audio_path),
+    #     path_or_hf_repo="mlx-community/whisper-base-mlx",
+    #     word_timestamps=True
+    # )
+    model = whisper.load_model("base")
+
+    result = model.transcribe(
+        str(audio_path),
+        word_timestamps=True
+    )
 
     # 这是物理层 gap，用来生成 transition segment
     # 不等于给 LLM 的 transcript 合并阈值
@@ -861,7 +798,7 @@ def resolve_paths(args):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Audio analysis: Faster-Whisper transcription + Ollama block-level semantic classification"
+        description="Audio analysis: MLX-Whisper transcription + Ollama block-level semantic classification"
     )
     parser.add_argument("--name", help="test id (e.g. test_001) — auto-resolves test/videos/<name>.mp4")
     parser.add_argument("--input", help="path to input video (overrides --name)")
