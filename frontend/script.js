@@ -32,10 +32,10 @@ const skipNonContentBtn = document.getElementById("skipNonContent");
 */
 
 const SEGMENTS_JSON_PATHS = [
-  "./data/test_005/segments.json",
+  "./data/test_001/segments.json",
   "./segments.json",
-  "../output/test_005/segments.json",
-  "./output/test_005/segments.json"
+  "../output/test_001/segments.json",
+  "./output/test_001/segments.json"
 ];
 
 const VIDEO_BASE_PATHS = [
