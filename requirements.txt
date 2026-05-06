@@ -11,6 +11,15 @@
 #        brew install ffmpeg ollama git-lfs
 #        brew services start ollama
 #        ollama pull qwen2.5:3b      # ~2 GB local LLM weights
+#      
+#       Windows:
+#        Install FFmpeg:
+#          https://ffmpeg.org/download.html
+#        Install Ollama:
+#          https://ollama.com/download
+#
+#        Then run:
+#          ollama pull qwen2.5:7b
 #
 #   2. TransNetV2 scene-cut model (vendored, NOT a pip package):
 #        mkdir -p third_party && cd third_party
@@ -53,3 +62,4 @@ git+https://github.com/openai/CLIP.git
 # --- Audio pipeline (Whisper transcription + Ollama LLM client) ---
 openai-whisper
 ollama
+faster-whisper

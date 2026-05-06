@@ -129,7 +129,7 @@ Download and install Ollama from the official Ollama website.
 Then pull the required model:
 
 ```bash
-ollama pull qwen2.5:3b
+ollama pull qwen2.5:7b
 ```
 
 The model is approximately 2GB.
